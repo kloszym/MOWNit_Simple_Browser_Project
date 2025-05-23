@@ -6,7 +6,7 @@
 3.  [Użycie](#użycie)
     *   [1. Przetwarzanie danych (`wikipedia_data_processor`)](#1-przetwarzanie-danych-wikipedia_data_processor)
     *   [2. Przeglądarka wyszukiwania (`Browser`)](#2-przeglądarka-wyszukiwania-browser)
-4.  [Przykładowe użycie](#przykładowe-użycie)
+4.  [Przykładowe użycie](#Przykładowe-Wyszukiwania-i-Obserwacje)
 5.  [Zależności](#zależności)
 6.  [Budowanie projektu](#budowanie-projektu)
 7.  [Struktura projektu](#struktura-projektu)
@@ -122,7 +122,7 @@ Poniżej przedstawiono wyniki dla kilku przykładowych zapytań, porównując dz
     ![Strona początkowa dla Zapytania 1](img/img1.png) <!-- ZASTĄP URL -->
 
 *   **Wyniki TF-IDF (LSI/SVD odznaczone):**
-    ![Wyniki TF-IDF dla Zapytania 1](img/img1-2.png) <!-- ZASTĄP URL -->
+    ![Wyniki TF-IDF dla Zapytania 1](img/img1-1.png) <!-- ZASTĄP URL -->
     *   Najwyżej ocenione wyniki to:
         *   "Quantum Computing Since Democritus (Podobieństwo: 0.812)"
         *   "Null dust solution (Podobieństwo: 0.752)"
@@ -130,7 +130,7 @@ Poniżej przedstawiono wyniki dla kilku przykładowych zapytań, porównując dz
     *   Obserwacje: Wyniki wydają się być związane z fizyką i obliczeniami kwantowymi, ale niekoniecznie bezpośrednio ze splątaniem kwantowym i Albertem Einsteinem jako głównym tematem. Wysokie wartości podobieństwa sugerują, że terminy z zapytania (lub ich części) występują w tych dokumentach.
 
 *   **Wyniki LSI/SVD (LSI/SVD zaznaczone):**
-    ![Wyniki LSI/SVD dla Zapytania 1](img/img1-1.png) <!-- ZASTĄP URL -->
+    ![Wyniki LSI/SVD dla Zapytania 1](img/img1-2.png) <!-- ZASTĄP URL -->
     *   Najwyżej ocenione wyniki to:
         *   "List of quantum logic gates (Podobieństwo: 0.250)"
         *   "Quantum Computing Since Democritus (Podobieństwo: 0.219)"
@@ -147,7 +147,7 @@ Poniżej przedstawiono wyniki dla kilku przykładowych zapytań, porównując dz
     ![Strona początkowa dla Zapytania 2](img/img2.png) <!-- ZASTĄP URL -->
 
 *   **Wyniki TF-IDF (LSI/SVD odznaczone):**
-    ![Wyniki TF-IDF dla Zapytania 2](img/img2-2.png) <!-- ZASTĄP URL -->
+    ![Wyniki TF-IDF dla Zapytania 2](img/img2-1.png) <!-- ZASTĄP URL -->
     *   Najwyżej ocenione wyniki to:
         *   "CER-20 (Podobieństwo: 0.945)"
         *   "Lists of computers (Podobieństwo: 0.824)" (dwukrotnie)
@@ -155,7 +155,7 @@ Poniżej przedstawiono wyniki dla kilku przykładowych zapytań, porównując dz
     *   Obserwacje: TF-IDF znajduje konkretne przykłady wczesnych komputerów ("CER-20") oraz ogólne listy komputerów, co jest bardzo trafne. Wyniki podobieństwa są wysokie.
 
 *   **Wyniki LSI/SVD (LSI/SVD zaznaczone):**
-    ![Wyniki LSI/SVD dla Zapytania 2](img/img2-1.png) <!-- ZASTĄP URL -->
+    ![Wyniki LSI/SVD dla Zapytania 2](img/img2-2.png) <!-- ZASTĄP URL -->
     *   Najwyżej ocenione wyniki to:
         *   "Computer bridge (Podobieństwo: 0.303)"
         *   "Ramin Zabih (Podobieństwo: 0.268)"
