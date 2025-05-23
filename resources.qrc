@@ -1,0 +1,7 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/">
+        <file alias="app_logo">resources/logo.svg</file>
+        <file alias="icon_search">resources/search_icon.svg</file>
+        <file alias="icon_home">resources/home_icon.svg</file>
+    </qresource>
+</RCC>
