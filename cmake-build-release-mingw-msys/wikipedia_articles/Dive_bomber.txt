@@ -1,0 +1,6 @@
+A dive bomber is a bomber aircraft that dives directly at its targets in order to provide greater accuracy for the bomb it drops. Diving towards the target simplifies the bomb's trajectory and allows the pilot to keep visual contact throughout the bomb run. This allows attacks on point targets and ships, which were difficult to attack with conventional level bombers, even en masse. Dive bombing was especially effective against vehicles when integrated into early instances of Blitzkrieg.
+After World War II, the rise of precision-guided munitions and improved anti-aircraft defences—both fixed gunnery positions and fighter interception—led to a fundamental change in dive bombing. New weapons, such as rockets, allowed for better accuracy from smaller dive angles and from greater distances. They could be fitted to almost any aircraft, including fighters, improving their effectiveness without the inherent vulnerabilities of dive bombers, which needed air superiority to operate effectively.
+
+
+== Method ==
+A dive bomber dives at a steep angle, normally between 45 and 60 degrees or even up to a near vertical dive of 80 degrees with the Junkers Ju 87, and thus requires an abrupt pull-up after dropping...

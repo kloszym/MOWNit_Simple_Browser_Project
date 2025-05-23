@@ -1,0 +1,10 @@
+Indium arsenide antimonide, also known as indium antimonide arsenide or InAsSb (InAs1-xSbx), is a ternary III-V semiconductor compound. It can be considered as an alloy between indium arsenide (InAs) and indium antimonide (InSb). The alloy can contain any ratio between arsenic and antimony. InAsSb refers generally to any composition of the alloy.
+
+
+== Preparation ==
+InAsSb films have been grown by molecular beam epitaxy (MBE), metalorganic vapor phase epitaxy (MOVPE) and liquid phase epitaxy (LPE) on gallium arsenide and gallium antimonide substrates. It is often incorporated into layered heterostructures with other III-V compounds.
+
+
+=== Thermodynamic stability ===
+Between 524 °C and 942 °C (the melting points of pure InSb and InAs, respectively), InAsSb can exist at a two-phase liquid-solid equilibrium, depending on temperature and average composition of the alloy.
+InAsSb possesses an additional miscibility gap at temperatures below approximately 503 °C. This means that intermediate compositions of the alloy below this temperature are thermodynamically unstable and can spontaneously separate into two phases: one InAs-rich and one InSb-rich. This limits the compositions of InAsSb that can...

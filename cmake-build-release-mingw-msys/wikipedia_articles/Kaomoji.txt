@@ -1,0 +1,16 @@
+Kaomoji emerged in Japan in the 1980s as a way of portraying facial expressions using strings of text characters, such as:
+
+(^ω^) → happy, excited, smile
+( ͡o╭╮ ͡o)→ unhappy, sad, frown
+Kaomoji appeared in parallel with the emergence of emoticons (smileys) in the United States in the same decade. Unlike Kaomoji, emoticons generally use characters to imitate facial expressions sideways, such as:
+
+:) or :-)  → happy
+:( or :-(  → unhappy
+Kaomoji (plural kaomoji as in Japan, occasionally, kaomojis) predate and probably inspired the emergence of emoji in Japan.
+
+
+== History ==
+Users from Japan popularized a style of emoticons that can be understood without tilting one's head. This style arose on ASCII NET, an early Japanese online service, in the 1980s. They often include Japanese typography in addition to ASCII characters, and in contrast to Western-style emoticons, tend to emphasize the eyes, rather than the mouth.
+Wakabayashi Yasushi is credited with inventing the original kaomoji (^_^) in 1986.
+Similar-looking emoticons were used on the Byte Information Exchange (BIX) around the same time.
+Whereas Western emoticons were first used by US computer scientists, kaomoji were most commonly used...

@@ -1,0 +1,9 @@
+The Center for International Political Analysis (CIPA) is a research center at the Policy Research Institute (PRI) at the University of Kansas. At present, the project's primary focus is to gather information regarding the nature of inter-state relations during times of conflict in several localized areas, such as the Middle East, Southern, Western, and Central Africa, and the Balkans.
+
+
+== Purpose ==
+CIPA aims to quantify inter-state relations, both in number and intensity, through computer-aided programming and obtaining a series of numeric codes from filtered news. In addition, CIPA employs several human coders to track mass atrocities throughout the world. CIPA operates with funding from multiple sources with different research needs, but the overarching goal of the project is to advance efforts in the understanding and prediction of civil strife, genocide, and mass killings.
+
+
+== Project History ==
+CIPA is an outgrowth of Philip Schrodt and Deborah Gerner's work on the Kansas Event Data System (KEDS). The initial focus of the KEDS project was the development of techniques for converting English-language reports of political events into event data. This replaced the process of human...

@@ -1,0 +1,8 @@
+Wendell Lim is an American biochemist who is the Byer's Distinguished Professor of Cellular and Molecular Pharmacology at the University of California, San Francisco. He is the director of the UCSF Cell Design Institute. He earned his A.B. in chemistry from Harvard University working with Jeremy Knowles on enzyme evolutionary optimization. He obtained his Ph.D. in biochemistry and biophysics from Massachusetts Institute of Technology under the guidance of Bob Sauer using genetic and biophysical approaches to understand the role of hydrophobic core interactions in protein folding. He then did his postdoctoral work with Frederic Richards at Yale University on the structure of protein interaction domains. Lim's work has focused on cell signaling, synthetic biology, and cell engineering, particularly in immune cells.
+
+
+== Research career ==
+
+
+=== Modular Signaling Proteins ===
+Lim's research has focused on mechanisms of cell signaling – how cells sense their environment and process this information to make complex functional decisions. He began his career studying the structure and function of modular signaling domains and scaffold proteins, but became increasingly interested in the general question...

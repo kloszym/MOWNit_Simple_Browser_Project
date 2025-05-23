@@ -1,0 +1,12 @@
+The Lunar Crater Radio Telescope (LCRT) is a proposal by the NASA Institute for Advanced Concepts (NIAC) to create an ultra-long-wavelength (that is, wavelengths greater than 10 m, corresponding to frequencies below 30 MHz) radio telescope inside a lunar crater on the far side of the Moon.
+The reason for building the LCRT on the far side of the Moon would be to avoid interference faced by radio telescopes on the Earth's surface. The Moon would block many sources of radio interference originating on Earth, and would avoid the problems that come from Earth's ionosphere at long radio wavelengths.
+If completed, the telescope would have a structural diameter of 1.3 km, and the reflector would be 350m in diameter. Robotic lift wires and an anchoring system would enable origami deployment of the parabolic reflector.
+
+
+== History ==
+A previous proposal put the reflector size at 1 km diameter. In 2021, the LCRT project went into phase II of development in the NIAC program and was awarded $500,000 to continue work. As of 2023, work on the lunar crater radio telescope is ongoing at Caltech/NASA Jet Propulsion Laboratory.
+
+
+== Construction ==
+
+To be sensitive to long radio wavelengths, the LCRT would...

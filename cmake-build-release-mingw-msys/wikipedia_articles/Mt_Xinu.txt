@@ -1,0 +1,14 @@
+mt Xinu (from the letters in "Unix™", reversed) was a software company founded in 1983 that produced two operating systems.  Its slogan "We know Unix™ backwards and forwards" is an allusion to the company's name and abilities.
+mt Xinu offered several products:
+
+mt Xinu was a commercially licensed version of the BSD Unix operating system for the DEC VAX. The initial version was based on 4.1cBSD; later versions were based on 4.2 and 4.3BSD.
+more/BSD is mt Xinu's version of 4.3BSD-Tahoe for VAX and HP 9000, incorporating code from the University of Utah's HPBSD. It includes NFS.
+Mach386 is a hybrid of Mach 2.5/2.6 and 4.3BSD-Tahoe/Reno for 386 and 486-based IBM PC compatibles.
+mt Xinu produced interoperability software for Macintosh and Unix, including an AppleShare server for Unix.
+The company's principals were University of California, Berkeley computer science students and graduates, including Bob Kridle, Alan Tobey, Ed Gould, and Vance Vaughan. Debbie Scherrer was a later contributor.
+mt Xinu made light-hearted Unix-themed calendars, including:
+
+Command of the Month (1987–1988)
+Lessons in Art (1989)
+Platform of the Year (1990)
+A division of mt Xinu spawned Xinet, which was founded...

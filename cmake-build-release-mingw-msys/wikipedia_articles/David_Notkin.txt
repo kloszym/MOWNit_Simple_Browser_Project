@@ -1,0 +1,11 @@
+David Notkin (1 January 1955 – 22 April 2013) was an American software engineer and professor of computer science.
+
+
+== Early life and education ==
+Notkin was born in 1955 in Syracuse, New York, U.S. He pursued his Sc. B. degree from Brown University, graduating in 1977, and later received his doctoral degree from Carnegie Mellon University in 1984. He then moved to Seattle and joined as a faculty at the University of Washington. His interest was in software engineering, with a particular focus on software evolution.
+
+
+== Career ==
+In 2000, Notkin received the Distinguished Graduate Mentor Award from the University of Washington. He served as chair of the computer science and engineering department from 2001 to 2006, during which he helped to open the Paul G. Allen Center for Computer Science & Engineering.
+He was a Fellow of both the ACM and IEEE. From 2007 to 2012, he served as the editor-in-chief of the ACM Transactions on Software Engineering and Methodology. He was also a board member of the Computing Research Association.
+Notkin is also noted for his efforts to expand the demographics of computing research, particularly to include women. In 2013, he received the A. Nico Habermann...

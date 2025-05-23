@@ -1,0 +1,6 @@
+Freely is a British free-to-air IPTV service launched in 2024 by Everyone TV, a joint venture between the country's public broadcasters BBC, ITV, Channel 4 and 5. The service offers the ability to watch live television and on demand media from the main broadcasters while seamlessly switching between them in a unified electronic programme guide (EPG). Freely streams television over a broadband internet connection and therefore does not require a television aerial, although an aerial can be additionally used to create a hybrid platform and allow the viewing of DTT channels not yet available on Freely. The service is expected to gradually replace Freeview (although Sky, which has some free channels in DTT, is not part of Freely).
+
+
+== Background ==
+
+The Freeview digital terrestrial television service was launched in 2002 by the public broadcasters and the older analogue services were switched off by 2012. Since the 2010s, the number of live television viewers has declined in favour of internet streaming services and this trend is set to continue, especially as the availability of gigabit-capable broadband infrastructure has expanded throughout the country. Due to this shift, audiences for...

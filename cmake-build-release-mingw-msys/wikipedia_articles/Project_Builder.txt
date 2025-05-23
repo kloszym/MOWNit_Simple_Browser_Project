@@ -1,0 +1,7 @@
+Project Builder was an integrated development environment (IDE) originally developed by NeXT for version 3 of the NeXTSTEP operating system by separating out the code editing parts of Interface Builder into its own application.
+After Apple Computer purchased NeXT and turned NeXTSTEP into the Mac OS X operating system, the NeXTSTEP version of Project Builder became ProjectBuilderWO (maintained only for WebObjects development). Apple created a new Project Builder from scratch for software development with the first version being introduced with Developer Preview 4 of Mac OS X. This version of Project Builder, informally dubbed PBX. was distributed with the first few versions of Mac OS X but with the release of Mac OS X v10.3 it was redesigned, reintegrated with Interface Builder and rebranded as Xcode.
+Before OS X, developers could use Macintosh Programmer's Workshop or CodeWarrior to develop Macintosh applications.
+GNUstep's ProjectCenter IDE is a rough workalike of the original NextStep design; additional functionality is provided by ProjectManager, a 3rd-party GNUstep IDE meant for greater usability.
+
+
+== References ==

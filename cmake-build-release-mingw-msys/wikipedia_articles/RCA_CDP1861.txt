@@ -1,0 +1,9 @@
+The RCA CDP1861 was an integrated circuit Video Display Controller, released by the Radio Corporation of America (RCA) in the mid-1970s as a support chip for the RCA 1802 microprocessor. The chip cost in 1977 amounted to less than US$20.
+
+
+== History ==
+The CDP1861 was manufactured in a low-power CMOS technology, came in a 24-pin DIP (Dual in-line package), and required a minimum of external components to work. In 1802-based microcomputers, the CDP1861 (for the NTSC video format, CDP1864 variant for PAL), used the 1802's built-in DMA controller to display black and white (monochrome) bitmapped graphics on standard TV screens. The CDP1861 was also known as the Pixie graphics system, display, chip, and video generator, especially when used with the COSMAC ELF microcomputer. Other known chip markings for the 1861 are TA10171, TA10171V1 and a TA10171X, which were early designations for "pre-qualification engineering samples" and "preliminary part numbers", although they have been found in production RCA Studio II game consoles and Netronics Elf microcomputers. The CDP1861 was also used in the Telmac 1800 and Oscom Nano microcomputers.
+
+
+== Specifications ==
+The 1861 chip could display 64 pixels...

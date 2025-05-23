@@ -1,0 +1,6 @@
+In biological nomenclature, a syntype is any one of two or more biological types that is listed in a description of a taxon where no holotype was designated. Precise definitions of this and related terms for types have been established as part of the International Code of Zoological Nomenclature and the International Code of Nomenclature for algae, fungi, and plants.
+
+
+== In zoology ==
+In zoological nomenclature, a syntype is defined as "Each specimen of a type series (q.v.) from which neither a holotype nor a lectotype has been designated [Arts. 72.1.2, 73.2, 74]. The syntypes collectively constitute the name-bearing type." (Glossary of the zoological Code).
+Historically, it was common to describe a new species or subspecies from several syntypes without designating a holotype, but this practice is generally frowned upon by modern taxonomists, and most are gradually being replaced by lectotypes. Those that still exist are still considered name-bearing types. A lectotype may be designated from among the syntypes, reducing the other specimens to the status of paralectotype. They are no longer name-bearing types, though if the lectotype is lost or destroyed, it is generally preferable to...

@@ -1,0 +1,6 @@
+set(__QT_DEPLOY_TARGET_Browser_FILE D:/Mownit/Browser/cmake-build-release-mingw-msys/Browser.exe)
+set(__QT_DEPLOY_TARGET_Browser_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_Browser_RUNTIME_DLLS D:/MSys/mingw64/bin/Qt6Network.dll;D:/MSys/mingw64/bin/Qt6SvgWidgets.dll;D:/MSys/mingw64/bin/libcurl-4.dll;D:/MSys/mingw64/bin/Qt6Widgets.dll;D:/MSys/mingw64/bin/Qt6Svg.dll;D:/MSys/mingw64/bin/Qt6Gui.dll;D:/MSys/mingw64/bin/Qt6Core.dll)
+set(__QT_DEPLOY_TARGET_wikipedia_data_processor_FILE D:/Mownit/Browser/cmake-build-release-mingw-msys/wikipedia_data_processor.exe)
+set(__QT_DEPLOY_TARGET_wikipedia_data_processor_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_wikipedia_data_processor_RUNTIME_DLLS D:/MSys/mingw64/bin/libcurl-4.dll;D:/MSys/mingw64/bin/Qt6Core.dll)

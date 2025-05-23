@@ -1,0 +1,7 @@
+Majesty 2: The Fantasy Kingdom Sim is a real-time strategy game developed by 1C:Ino-Co and published by Paradox Interactive. The game was released on September 18, 2009. It is a sequel to Cyberlore's Majesty: The Fantasy Kingdom Sim.
+A Mac OS X version of Majesty 2 was announced by Virtual Programming on August 13, 2010. Virtual Programming published the Mac OS X version of the game on November 16, 2010.  The publisher released the Mac OS X versions of the first two expansion packs, Kingmaker and Battles of Ardania, on December 15, 2010. In January, 2011, Virtual Programming published the third expansion, Monster Kingdom, for Mac OS X. In April, 2011, Paradox published a collection of the three expansions plus Majesty 2, titled "Majesty 2 Collection", for PC.
+
+
+== Gameplay ==
+ 
+The core gameplay of Majesty 2 is essentially the same as the original Majesty. Players take the role of "the sovereign", placing buildings and recruiting units as in other real-time strategy titles. Individual units ("heroes"), however, are semi-autonomous; each has their own statistics and inventory and interact with the game world according to unit-specific AIs (for example hunters will scout unknown areas of...

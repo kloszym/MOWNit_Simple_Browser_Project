@@ -1,0 +1,97 @@
+In topology, a branch of mathematics, the clutching construction is a way of constructing fiber bundles, particularly vector bundles on spheres.
+
+
+== Definition ==
+Consider the sphere 
+  
+    
+      
+        
+          S
+          
+            n
+          
+        
+      
+    
+    {\displaystyle S^{n}}
+  
+ as the union of the upper and lower hemispheres 
+  
+    
+      
+        
+          D
+          
+            +
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle D_{+}^{n}}
+  
+ and 
+  
+    
+      
+        
+          D
+          
+            −
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle D_{-}^{n}}
+  
+ along their intersection, the equator, an 
+  
+    
+      
+        
+          S
+          
+            n
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle S^{n-1}}
+  
+.
+Given trivialized fiber bundles with fiber 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+  
+ and structure group 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  
+ over the two hemispheres, then given a map 
+  
+    
+      
+        f
+        :
+        
+          S
+          
+            n...

@@ -1,0 +1,1 @@
+ D:/MSys/mingw64/lib/libcurl.dll.a -lstdc++fs D:/MSys/mingw64/lib/libQt6Core.dll.a -lmpr -luserenv -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

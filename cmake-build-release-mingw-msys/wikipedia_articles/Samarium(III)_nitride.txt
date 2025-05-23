@@ -1,0 +1,14 @@
+Samarium(III) nitride is a binary inorganic compound of samarium and nitrogen with the chemical formula SmN.
+
+
+== Preparation ==
+Samarium(III) nitrate can be prepared by directly reacting samarium and nitrogen at 800 °C:
+
+2 Sm + N2  →  2 SmN
+
+
+== Properties ==
+Samarium(III) nitride forms cubic crystals, space group Fm3m, unit cell parameters a = 0.50481 nm, Z = 4, and a structure like sodium chloride.
+
+
+== References ==

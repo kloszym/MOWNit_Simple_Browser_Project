@@ -1,0 +1,12 @@
+Algebrator (also called Softmath) is a computer algebra system (CAS), originally known as Edusym and developed beginning in 1988. This is a CAS specifically geared towards algebra education. Beside the computation results, it shows step by step the solution process and context sensitive explanations.
+
+
+== See also ==
+List of computer algebra systems
+
+
+== References ==
+
+
+== External links ==
+Official website

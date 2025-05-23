@@ -1,0 +1,13 @@
+1602 Indiana, provisional designation 1950 GF, is a stony Florian asteroid from the inner regions of the asteroid belt, approximately 8 kilometers in diameter.
+It was discovered on 14 March 1950, by IU's Indiana Asteroid Program at Goethe Link Observatory near Brooklyn, Indiana, in the United States. It was later named after the U.S. state of Indiana and for Indiana University.
+
+
+== Classification and orbit ==
+Indiana is a member of the Flora family, a large collisional group of stony S-type asteroids in the inner main-belt. It orbits the Sun at a distance of 2.0–2.5 AU once every 3 years and 4 months (1,229 days). Its orbit has an eccentricity of 0.10 and an inclination of 4° with respect to the ecliptic. Indiana was first identified as 1943 DJ at Turku Observatory in Finland, extending the body's observation arc by 7 years prior to its official discovery observation.
+
+
+== Physical characteristics ==
+
+
+=== Rotation period ===
+Three rotational lightcurves of Indiana were obtained from photometric observations taken by astronomer Michael Pietschnig, Gary Vander Haagen and Michael Fleenor in Spring 2007. The lightcurve analysis gave a rotation period between 2.57 and 2.61 hours with a change...

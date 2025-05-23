@@ -1,0 +1,11 @@
+A sequence number is a consecutive number in a sequence of numbers, usually of real integers (natural numbers). Sequence numbers have many practical applications. They can be used, among other things, as part of serial numbers on manufactured parts, in case management, or in databases as a surrogate key for registering and identifying unique entries in a table (in which case it is used as a primary key).
+
+
+== Examples ==
+Historically, the Norwegian Mapping Authority have used sequence numbers for land registration as a placeholder in cases where an organization number or national identity number have not been known.
+In elections in Norway, sequence numbers are used in the duplicate check to prevent votes being counted twice or to detect duplicate ballots.
+An example of a sequence number being used as a surrogate key is the snr number used by Statistics Norway since 1970, which uniquely identifies a person even if their social security number changes. The snr number will then be linked to both social security numbers, and act as a link that ensures that each person can be identified by a unique key at all times.
+
+
+== Comparison with serial number ==
+A distinction is sometimes made between...

@@ -1,0 +1,9 @@
+Parallel mesh generation in numerical analysis is a new research area between the boundaries  of  two scientific computing  disciplines:  computational geometry and parallel computing. Parallel mesh generation methods decompose the original mesh generation problem into smaller subproblems which are solved (meshed) in parallel using multiple processors or threads. The existing parallel mesh generation methods can be classified in terms of two basic attributes:
+
+the sequential technique used for meshing the individual subproblems and
+the degree of coupling between the subproblems.
+One of the challenges in parallel mesh generation is to develop parallel meshing software using off-the-shelf sequential meshing codes.
+
+
+== Overview ==
+Parallel mesh generation procedures in general decompose the original 2-dimensional (2D) or 3-dimensional  (3D) mesh generation problem into N smaller subproblems which are solved (i.e., meshed) concurrently using P processors or threads. The subproblems  can be formulated to be either tightly coupled, partially coupled or even decoupled. The coupling of the subproblems determines the intensity of the communication and the amount/type of synchronization required...

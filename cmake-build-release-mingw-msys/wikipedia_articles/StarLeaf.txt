@@ -1,0 +1,8 @@
+StarLeaf was a global video conferencing and collaboration software company that provided cloud-based Instant messaging, meeting and calling for business users. StarLeaf enabled people to meet and collaborate from their desktop and mobile devices, as well as via proprietary StarLeaf and third-party meeting room systems. The company was headquartered near Watford, UK, with offices throughout Europe, the Americas and Australasia.
+On 9 June 2022 Starleaf Limited entered into administration  and its services and videoconferencing platform ceased operation in October 2022.
+
+
+== History ==
+StarLeaf was established in 2008 by Mark Loney, Mark Richer and William MacDonald. The trio had previously founded Calista, which offered cloud based voice services and which was purchased by Cisco Systems in 1999, and  Codian, a UK-based manufacturer of video conferencing infrastructure that was bought by Tandberg for $270m in 2007 and subsequently became part of Cisco Systems in 2010.
+StarLeaf initially developed a telepresence and video meeting service that offered a range of personal and group telepresence endpoints connected via a dedicated on-premise PBX.
+In 2013, the company launched StarLeaf Cloud...

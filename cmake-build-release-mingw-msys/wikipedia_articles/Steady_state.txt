@@ -1,0 +1,64 @@
+In systems theory, a system or a process is in a steady state if the variables (called state variables) which define the behavior of the system or the process are unchanging in time. In continuous time, this means that for those properties p of the system, the partial derivative with respect to time is zero and remains so:
+
+  
+    
+      
+        
+          
+            
+              ∂
+              p
+            
+            
+              ∂
+              t
+            
+          
+        
+        =
+        0
+        
+        
+          for all present and future 
+        
+        t
+        .
+      
+    
+    {\displaystyle {\frac {\partial p}{\partial t}}=0\quad {\text{for all present and future }}t.}
+  
+
+In discrete time, it means that the first difference of each property is zero and remains so:
+
+  
+    
+      
+        
+          p
+          
+            t
+          
+        
+        −
+        
+          p
+          
+            t
+            −
+            1
+          
+        
+        =
+        0
+        
+        
+          for all present and future 
+        
+        t
+        .
+      
+    
+    {\displaystyle p_{t}-p_{t-1}=0\quad {\text{for all present and future }}t.}
+  
+
+The...

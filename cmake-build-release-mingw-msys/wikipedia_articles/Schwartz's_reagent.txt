@@ -1,0 +1,13 @@
+Schwartz's reagent is the common name for the organozirconium compound with the formula (C5H5)2ZrHCl, sometimes called zirconocene hydrochloride or zirconocene chloride hydride, and is named after Jeffrey Schwartz, a chemistry professor at Princeton University. This metallocene is used in organic synthesis for various transformations of alkenes and alkynes.
+
+
+== Preparation ==
+The complex was first prepared by Wailes and Weigold.  It can be purchased or readily prepared by reduction of zirconocene dichloride with lithium aluminium hydride:
+
+(C5H5)2ZrCl2  +  1⁄4 LiAlH4  →  (C5H5)2ZrHCl  +  1⁄4 LiAlCl4
+This reaction also affords (C5H5)2ZrH2, which is treated with methylene chloride to give Schwartz's reagent 
+An alternative procedure that generated Schwartz's reagent from dihydride has also been reported. Moreover, it's possible to perform an in situ preparation of (C5H5)2ZrHCl from zirconocene dichloride by using LiH. This method can also be used to synthesize isotope-labeled molecules, like olefines by employing Li2H or Li3H as reducing agents.
+Schwartz's reagent has a low solubility in common organic solvents.  The trifluoromethanesulfonate (C5H5)2ZrH(OTf) is soluble in THF.
+
+
+== Structure... ==

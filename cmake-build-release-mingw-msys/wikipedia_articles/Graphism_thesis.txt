@@ -1,0 +1,20 @@
+In sociology of science, the graphism thesis is a proposition of Bruno Latour that graphs are important in science.
+Research has shown that one can distinguish between hard science and soft science disciplines based on the level of graph use, so it can be argued that there is a correlation between scientificity and visuality. Furthermore, natural sciences publications appear to make heavier use of graphs than mathematical and social sciences.
+It has been claimed that an example of a discipline that uses graphs heavily but is not at all scientific is technical analysis.
+
+
+== See also ==
+Philosophy of science
+Epistemology
+Fields of science
+List of academic disciplines
+Graphism
+
+
+== References ==
+
+
+== External links ==
+Best, L. A.; Smith, L. D.; Stubbs, D. A. (2001). "Graph use in psychology and other sciences". Behavioural Processes. 54 (1–3): 155–165. doi:10.1016/S0376-6357(01)00156-5. PMID 11369467.
+Krohn, R. (1991). "Why are graphs so central in science?". Biology and Philosophy. 6 (2): 181–203. doi:10.1007/BF02426837.
+Cleveland, W. S. (1984). "Graphs in Scientific Publications". The American Statistician. 38 (4): 261–9. doi:10.2307/2683400. JSTOR 2683400.

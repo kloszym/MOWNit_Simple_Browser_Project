@@ -1,0 +1,13 @@
+Potty Painter, also known as Potty Painter in the Jungle, is a video game for the ZX Spectrum, Commodore 64, and VIC-20 computers and released by Rabbit Software in December 1983. It a clone of the arcade video game Amidar.
+
+
+== Gameplay ==
+The goal of the game is to join the dotted lines around a grid of squares each different in size with each valuing different points. In the meantime the player must avoid enemies who try to capture them. Starting the game, the player has 5 lives and 3 freezes which enable the player to freeze the computer controlled characters for around 10 seconds.
+Levels alternate between playing as a monkey against tribesmen and playing as a paint-roller against teddy bears. Completing a level enables the player to play a bonus game which involves guiding a teddy bear to a banana to gain an extra 1000 points.
+
+
+== References ==
+
+
+== External links ==
+Potty Painter at SpectrumComputing.co.uk

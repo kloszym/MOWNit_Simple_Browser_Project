@@ -1,0 +1,14 @@
+Reachability analysis is a solution to the reachability problem in the particular context of distributed systems. It is used to determine which global states can be reached by a distributed system which consists of a certain number of local entities that communicated by the exchange of messages.
+
+
+== Overview ==
+Reachability analysis was introduced in a paper of 1978 for the analysis and verification of communication protocols. This paper was inspired by a paper by Bartlett et al. of 1968  which presented the alternating bit protocol using finite-state modeling of the protocol entities, and also pointed out that a similar protocol described earlier had a design flaw. This protocol belongs to the Link layer and, under certain assumptions, provides as service the correct data delivery without loss nor duplication, despite the occasional presence of message corruption or loss.
+For reachability analysis, the local entities are modeled by their states and transitions. An entity changes state when it sends a message, consumes a received message, or performs an interaction at its local service interface. The global state 
+  
+    
+      
+        s
+        =
+        (
+        
+          s...

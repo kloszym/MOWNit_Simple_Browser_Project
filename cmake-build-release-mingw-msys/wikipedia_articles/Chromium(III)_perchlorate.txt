@@ -1,0 +1,20 @@
+Chromium(III) perchlorate is an inorganic compound, a salt with the chemical formula Cr(ClO4)3. It's hexahydrate Cr(ClO4)3·6H2O is a cyan solid that dissolves in water.
+
+
+== Preparation ==
+Chromium perchlorate can prepared by reacting chromium(III) oxide or chromium(III) hydroxide with perchloric acid:
+
+Cr2O3 + 6HClO4 → 2Cr(ClO4)3 + 3H2O
+
+
+== Hydrates ==
+Chromium perchlorate has many hydrates, such as the hexahydrate Cr(ClO4)3·6H2O and a nonahydrate Cr(ClO4)3·9H2O. All of them are cyan substances that are soluble in water.
+
+
+== Related compounds ==
+Cr(ClO4)3 will react with NH3 in suitable conditions to form an orange hexammine complex Cr(ClO4)3·6NH3. Other compounds with the general formula Cr(ClO4)3(NH3)x are also known. When x = 3, this compound is red, when x = 4 or 5, it is orange. The hexammine complex will explode.
+Cr(ClO4)3 can also form complexes with N2H4, such as purple Cr(ClO4)3·2N2H4.
+Cr(ClO4)3 can also form complexes with urea (CO(NH2)2), such as Cr(ClO4)3·6CO(NH2)2 with a hexagonal structure.
+
+
+== References ==

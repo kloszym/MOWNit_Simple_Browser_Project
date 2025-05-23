@@ -1,0 +1,26 @@
+In the theory of chemical reactivity, the Klopman–Salem equation describes the energetic change that occurs when two species approach each other in the course of a reaction and begin to interact, as their associated molecular orbitals begin to overlap with each other and atoms bearing partial charges begin to experience attractive or repulsive electrostatic forces. First described independently by Gilles Klopman and Lionel Salem in 1968, this relationship provides a mathematical basis for the key assumptions of frontier molecular orbital theory (i.e., theory of HOMO–LUMO interactions) and hard soft acid base (HSAB) theory. Conceptually, it highlights the importance of considering both electrostatic interactions and orbital interactions (and weighing the relative significance of each) when rationalizing the selectivity or reactivity of a chemical process.
+
+
+== Formulation and interpretation ==
+In modern form, the Klopman–Salem equation is commonly given as:
+  
+    
+      
+        Δ
+        E
+        =
+        
+          
+            (
+          
+        
+        −
+        
+          ∑
+          
+            a
+            ,
+            b
+          
+        
+        (...

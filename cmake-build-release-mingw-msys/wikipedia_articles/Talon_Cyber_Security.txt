@@ -1,0 +1,8 @@
+Talon Cyber Security is an Israel-based provider of cybersecurity technologies with headquarters in Tel Aviv. It develops a secure browser engineered to provide enterprise-grade security across all devices, irrespective of location, device type, or operating system. In early 2024, Talon Cyber Security faced significant backlash following the discovery of a critical vulnerability in its Talon Enterprise Browser.
+
+
+== History ==
+Talon Cyber Security was founded in 2021 by Ofer Ben Noon (the founder of Argus Cyber Security, an Israeli developer of security technologies for vehicles) and Ohad Bobrov (the founder of Lacoon Mobile Security, which specializes in security for mobile telephones).
+In April 2021, the company raised a $26,000,000 seed round, which became the biggest seed round in Israel. The company also announced an investment from John W. Thompson, former chairman of the board at Microsoft and ex-CEO of Symantec; George Kurtz, co-founder of CrowdStrike; and Mark Anderson, formerly the president of Palo Alto Networks.
+In October 2021, it launched the security-focused browser Talon Enterprise Browser. Talon was listed in Israel's Globes Most Promising Startups of 2021.
+In January...

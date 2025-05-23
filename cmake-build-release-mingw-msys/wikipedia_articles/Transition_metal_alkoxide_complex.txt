@@ -1,0 +1,20 @@
+A transition metal alkoxide complex is a kind of coordination complex containing one or more alkoxide ligands, written as RO−, where R is the organic substituent. Metal alkoxides are used for coatings and as catalysts.
+
+
+== Preparation ==
+
+
+=== By metathesis reactions ===
+Many alkoxides are prepared by salt-forming reactions from a metal chlorides and sodium alkoxide:
+
+MCln  +  n NaOR   →   M(OR)n  +  n NaCl
+Such reactions are favored by the lattice energy of the NaCl, and purification of the product alkoxide is simplified by the fact that NaCl is insoluble in common organic solvents.
+
+For electrophilic metal halides, conversion to the alkoxide requires no or mild base. Titanium tetrachloride reacts with alcohols to give the corresponding tetraalkoxides, concomitant with the evolution of hydrogen chloride:
+
+TiCl4 + 4 (CH3)2CHOH   →    Ti(OCH(CH3)2)4 + 4 HCl
+The reaction can be accelerated by the addition of a base, such as a tertiary amine.  Other electrophilic metal halides can be used instead of titanium, for example NbCl5.
+
+
+=== By electrochemical processes ===
+Many alkoxides can be prepared by anodic dissolution of the corresponding metals in water-free alcohols in the presence of electroconductive...

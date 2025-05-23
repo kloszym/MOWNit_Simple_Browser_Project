@@ -1,0 +1,6 @@
+The European Union Public Licence (EUPL) is a free software licence that was written and approved by the European Commission. The licence is available in 23 official languages of the European Union. All linguistic versions have the same validity. EUPL v1.2 was published in May 2017. Revised documentation for v1.2 was issued in late 2021.
+Software has been licensed under the EUPL since the launch of the European Open Source Observatory and Repository (OSOR) in October 2008, now part of Joinup collaborative platform. Although private individuals can utilize the EUPL, its primary users to date have been governments, administrations, and local authorities.
+
+
+== History ==
+EUPL was originally intended to be used for the distribution of software developed in the framework of the IDABC programme. Given its generic scope, it is also suitable for use by any software developer. Its main goal is its focusing on being consistent with the copyright law in the Member States of the European Union, while retaining compatibility with popular free software licences such as the GNU General Public License. The first IDABC software packages mentioned are CIRCA groupware, IPM and the eLink G2G, G2C, G2B specification...

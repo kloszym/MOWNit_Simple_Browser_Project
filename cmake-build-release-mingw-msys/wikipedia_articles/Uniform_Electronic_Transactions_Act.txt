@@ -1,0 +1,16 @@
+The Uniform Electronic Transactions Act (UETA) is one of the several United States Uniform Acts proposed by the National Conference of Commissioners on Uniform State Laws (NCCUSL). Forty-nine states, the District of Columbia, and the U.S. Virgin Islands have adopted the UETA.  Its purpose is to harmonize state laws concerning retention of paper records (especially checks) and the validity of electronic signatures.
+
+
+== Overview ==
+The act was approved by the National Conference of Commissioners on Uniform State Laws (NCCUSL) and is adopted on a state-by-state basis giving them the option to accept or reject the guideline set forth in the act.
+This act is a precursor to the Electronic Signatures in Global and National Commerce Act (ESIGN) in 2000.
+
+
+== Breakdown of the law ==
+The text of the UETA is available on the Uniform Law Commission website.
+
+Section 2: Definitions
+
+(7) Electronic record - means a record created, generated, sent, communicated, received, or stored by electronic means.
+(8) Electronic signature - means an electronic sound, symbol, or process attached to or logically associated with a record and executed or adopted by a person with the intent to sign the record.
+Another...

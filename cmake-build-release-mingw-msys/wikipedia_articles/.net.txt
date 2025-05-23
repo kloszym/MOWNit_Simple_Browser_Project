@@ -1,0 +1,8 @@
+The domain name net is a generic top-level domain (gTLD) used in the Domain Name System of the Internet. The name is derived from the word network, indicating it was originally intended for organizations involved in networking technologies, such as Internet service providers and other infrastructure companies. However, there are no official restrictions and the domain is now a general-purpose namespace. 
+
+
+== History ==
+
+net is one of the original top-level domains (the other six being com, org, edu, gov, mil, and arpa) despite not being mentioned in RFC 920, having been created in January 1985.
+Verisign, the operator of net after acquiring Network Solutions, held an operations contract that expired on 30 June 2005. ICANN, the organization responsible for domain management, sought proposals from organizations to operate the domain upon expiration of the contract. Verisign regained the contract bid and secured its control over the net registry for another six years.
+On 30 June 2011, the contract with Verisign was automatically renewed for another six years. This is because of a resolution approved by the ICANN board, which states that renewal will be automatic as long as Verisign meets...

@@ -1,0 +1,6 @@
+In business practice, cash account refers to a business-to-business or business-to-consumer account which is conducted on an immediate payment basis i.e. no credit is offered. It may also refer to an account held with a financial firm, in which a client deposits cash to buy stocks, bonds and other securities.
+In accounting practice, "cash account" or "cash book" refers to a daybook (Main entry book) used to record all transactions related to cash, especially cash receipts and payments. Cash account is considered as a special daybook because of its dual accounting impact. Cash account acts as a main entry book as well as a ledger in accounting. The dual impact of cash book occurs due to the presence of two sides (entities): Debit and credit.
+Cash account is the combination of cash receipts journal and cash payment journal and hence called as "cash receipts and payment journal". Receipt and payment voucher are the source documents of cash book. Receipt is an evidence to the cash receipts and payment voucher is an evidence to the cash payments.
+
+
+== References ==

@@ -1,0 +1,7 @@
+Wide area multilateration (WAM) is a cooperative aircraft surveillance technology based on the same time difference of arrival principle that is used on an airport surface. WAM is a technique where several ground receiving stations listen to signals transmitted from an aircraft; then the aircraft's location is mathematically calculated -- typically in two dimensions, with the aircraft providing its altitude.
+Aircraft position, altitude and other data are ultimately transmitted, through an Air Traffic Control automation system, to screens viewed by air traffic controllers for separation of aircraft. It can and has been interfaced to terminal or en-route automation systems.
+
+
+== System performance ==
+WAM provides performance that is comparable to secondary surveillance radar (SSR) in terms of accuracy, probability of detection, update rate and availability/ reliability. Performance varies as a function of the location of aircraft in relation to the ground sensors.
+WAM is adaptable to interrogation rates, output modes and output periods. Update rates and probability of detection can be tailored to various applications such as precision runway monitoring (PRM), terminal maneuvering area...

@@ -1,0 +1,9 @@
+ipsectrace is a software tool designed by Wayne Schroeder to help profile IPsec connections in a packet capture (PCP) file. The program uses a command line interface to point at a PCP capture and informs the user about what is going on. It is somewhat inspired by tcptrace, which uses the same input of PCP files.  Ipsectrace is only available for the Linux operating system. It is coded in C++ and is licensed under the GPL, effectively allowing anyone to modify and redistribute it.
+Although its main purpose is to monitor IPsec traffic, ipsectrace can be used to crack extra layers of security brought about by VPN implementations of security such as IPsec and SSH, whereas programs such as Anger, Deceit, and Ettercap can be used to infiltrate PPTP security.
+
+
+== References ==
+
+
+== External links ==
+ipsectrace download at OStatic

@@ -1,0 +1,6 @@
+Electronic Prescriptions for Controlled Substances (EPCS) was originally a proposal for the DEA to revise its regulations to provide practitioners with the option of writing electronic prescriptions for controlled substances. These regulations would also permit pharmacies to receive, dispense, and archive these electronic prescriptions. These proposed regulations would be an addition to, not a replacement of, the existing rule.
+In 2010, DEA regulations were modified which lifted previous restrictions against the use of electronic prescribing for controlled substances that have presented a major obstacle to e-prescribing proliferation. As healthcare providers move to implement these new regulations, e-prescribing can be expected to reduce paperwork for pharmacies and practitioners, reduce prescription forgery and help integrate prescription records in electronic medical records.
+
+
+== Background ==
+The rule “Electronic Prescriptions for Controlled Substances” (75 FR 16236, March 31, 2010) [Docket No. DEA-218, RIN 1117-AA61] provides practitioners with the option of writing and transmitting prescriptions for controlled substances electronically. The regulations also permit pharmacies to...

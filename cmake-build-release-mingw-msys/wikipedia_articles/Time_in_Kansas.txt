@@ -1,0 +1,13 @@
+Time in Kansas is divided into two time zones. The Central Time Zone contains 101 of the state's 105 counties. Four counties fall into the Mountain Time Zone instead.  These four counties are Sherman, Wallace, Greeley, and Hamilton, all of which border Colorado. (Until 1990, the western half of Kearny County, including the county seat of Lakin, was also on Mountain Time.)
+Cheyenne County borders Colorado and Nebraska, but is in the Central Time Zone, creating an unusual situation where one can cross into the Mountain Time Zone from three ends of the county. The exception is Rawlins County, which borders Cheyenne County to the east.
+
+
+== IANA time zone database ==
+The 2 zones for Kansas as given by zone.tab of the IANA time zone database. Columns marked * are from the zone.tab.
+
+
+== See also ==
+Time in the United States
+
+
+== References ==

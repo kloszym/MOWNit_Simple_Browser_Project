@@ -1,0 +1,25 @@
+A system of plant taxonomy, the Thorne system of plant classification was devised by the American botanist Robert F. Thorne (1920–2015) in 1968, and he continued to issue revisions over many years (1968–2007).
+Some versions of the system are available online. The Bioinformatics Working Group Center for the Study of Digital Libraries at Texas A&M University lists the March 1999 version (and other classification systems). James Reveal's course lecture notes (1999) also gives an account of the Thorne system at that time, with an extensive listing of synonyms, both nomenclatural and taxonomic, for each name in the system together with several other classification systems.
+For a discussion of the various suffixes used for superorders (-florae vs. -anae), see Brummitt 1992, and Thorne 1992. In this latter paper, Thorne sets out his reasons for abandoning -florae for -anae, following contemporary practice.
+
+
+== 1968 System ==
+
+
+=== Monocotyledons ===
+Superorders
+
+Superorder Alimatiflorae
+Superorder Triuridiflorae
+Superorder Liliiflorae
+Order Liliales
+Superorder Ariflorae
+Superorder Commeliniflorae
+
+
+== 1992 System ==
+The 1992 system lists 69 orders and 440 families
+
+
+=== Summary ===
+Class Magnoliopsida...

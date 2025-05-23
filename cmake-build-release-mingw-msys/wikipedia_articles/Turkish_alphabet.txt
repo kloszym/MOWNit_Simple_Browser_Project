@@ -1,0 +1,11 @@
+The Turkish alphabet (Turkish: Türk alfabesi) is a Latin-script alphabet used for writing the Turkish language, consisting of 29 letters, seven of which (Ç, Ğ, I, İ, Ö, Ş and Ü) have been modified from their Latin originals for the phonetic requirements of the language. This alphabet represents modern Turkish pronunciation with a high degree of accuracy and specificity. Mandated in 1928 as part of Atatürk's Reforms, it is the current official alphabet and the latest in a series of distinct alphabets used in different eras.
+The Turkish alphabet has been the model for the official Latinization of several Turkic languages formerly written in the Arabic or Cyrillic script like Azerbaijani (1991), Turkmen (1993), and recently Kazakh (2021).
+
+
+== Letters ==
+
+The following table presents the Turkish letters, the sounds they correspond to in International Phonetic Alphabet and how these can be approximated more or less by an English speaker.
+
+Of the 29 letters, eight are vowels (A, E, I, İ, O, Ö, U, Ü); the other 21 are consonants.
+Dotted and dotless I are distinct letters in Turkish such that ⟨i⟩ becomes ⟨İ⟩ when capitalised, ⟨I⟩ being the capital form of ⟨ı⟩.
+Turkish also adds a circumflex...

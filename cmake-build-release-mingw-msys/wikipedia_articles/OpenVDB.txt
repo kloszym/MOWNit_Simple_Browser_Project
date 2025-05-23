@@ -1,0 +1,7 @@
+OpenVDB is an open source software library for working with sparse volumetric data. It provides a hierarchical data structure and related functions to help with calculating volumetric effects in CGI applications. Volumetric effects apply to volumes, as opposed to just on surfaces. An example is fog.
+Specifically catering for feature film production, the library was originally developed by DreamWorks Animation and is currently maintained by the Academy Software Foundation (ASWF). The primary authors are Ken Museth, Peter Cucka, Mihai Aldén, and David Hill. OpenVDB is written in C++ and has Python bindings.
+OpenVDB is supported in a wide range of CGI software, such as Blender (since April 2016), Cinema 4D, Houdini, and RenderMan. It was first used in the films Puss in Boots (2011) and Rise of the Guardians (2012).
+
+
+== What does VDB stand for? ==
+Over the years VDB has been interpreted to mean different things, none of which are very descriptive: "Voxel Data Base", "Volumetric Data Blocks", "Volumetric Dynamic B+tree", etc. In early presentations of VDB even a different name was used, "DB+Grid", which was abandoned to emphasize its distinction from similarly named, but different, existing...

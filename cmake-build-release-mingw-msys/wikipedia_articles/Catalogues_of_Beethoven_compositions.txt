@@ -1,0 +1,11 @@
+The catalogues of Beethoven compositions are all of the different ways in which the musical compositions by Ludwig van Beethoven have been organized by researchers into his music.
+
+
+== The problem ==
+Most of Beethoven's best known works were published with opus numbers, with which they may be reliably identified.  Another 228 works are designated WoO (Werke ohne Opuszahl – literally,"works without an opus number"), among them unpublished early and occasional works (Cantata on the Death of Emperor Joseph II, WoO 87), published variations and folksong arrangements (25 Irish Songs, WoO 152), posthumous publications ("Für Elise", WoO 59), and a number of unfinished works. The WoO list was extended but still left unaccounted for many fragments and sketches as well as numerous cases of uncertain attribution.
+The catalogues described here are attempts to organize and identify with precision all of these works in ways that are useful to musicologists, musicians, and the listening public.
+
+
+== Opus number ==
+
+The traditional 19th-century method of identifying a composer's works was for publishers to assign some sort of consecutive opus number to the works as they were published.  This method is...

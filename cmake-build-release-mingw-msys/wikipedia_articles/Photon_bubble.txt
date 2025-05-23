@@ -1,0 +1,4 @@
+A photon bubble is a type of radiation-driven instability that can occur in the magnetized, radiation-supported gas surrounding neutron stars, black hole accretion disks or at the edge of ultra-compact HII regions around young, massive stars. The instability occurs as follows. A compressive magnetohydrodynamical wave propagating at right angles to the direction of propagation of the radiation creates variations in the density of the gas. More radiation is able to pass through the low density regions than through the high density regions, and the imbalance in radiation pressure acts to drive gas out of the low density regions, along the magnetic field lines. This further decreases the density of the low density regions, which in turn allows more radiation to propagate through them, leading to runaway growth of the instability.
+
+
+== References ==

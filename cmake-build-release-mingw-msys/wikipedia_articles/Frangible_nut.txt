@@ -1,0 +1,9 @@
+The frangible nut is a component used in many industries, but most commonly by NASA, to sever mechanical connections. It is, by definition, an explosively-splittable nut. The bolt remains intact while the nut itself is split into two or more parts.
+
+
+== Space Shuttle ==
+
+
+=== Solid Rocket Booster Holddown System ===
+Frangible nuts secured the solid rocket boosters (SRB) of the Space Shuttle, which were bolted to the mobile launcher platform (MLP) until liftoff.  On the Shuttle, they were separated using NASA standard detonators (NSDs) and explosive booster cartridges. The space shuttle used two NSDs and booster cartridges for the frangible nut atop each of the four 28-inch-long (71 cm), 3.5-inch-diameter (8.9 cm) studs holding each SRB to the MLP. Once detonation occurred, the shuttle lifted free of the MLP. The broken nut and any fragments from detonation were captured by energy absorption material, such as metal foam, enclosed in a blast container to prevent damage to the shuttle. In case of NSD failure, or incomplete clearance of the nut from the bolt, the SRB had ample thrust to break the bolt itself and launch unhindered.
+At launch, two pyrotechnic, or explosive, devices "break" a frangible...

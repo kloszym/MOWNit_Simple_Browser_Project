@@ -1,0 +1,6 @@
+Frank Byron Rowlett (May 2, 1908 – June 29, 1998) was an American cryptologist.
+
+
+== Life and career ==
+Rowlett was born in Rose Hill, Lee County, Virginia and attended Emory & Henry College in Emory, Virginia. In 1929 he received a bachelor's degree in mathematics and chemistry. He was hired by William Friedman as a "junior cryptanalyst" for the Signals Intelligence Service (SIS) on April Fools' Day 1930; shortly after, he was followed into SIS by Abraham Sinkov and Solomon Kullback.
+During the 1930s, after a lengthy period of training, Rowlett and his colleagues compiled codes and ciphers for use by the U.S. Army and began solving a number of foreign, notably Japanese, systems. In the mid-1930s, they solved the first Japanese machine for encipherment of diplomatic communications, known to the Americans as RED. In 1939–40, Rowlett led the SIS effort that solved a more sophisticated Japanese diplomatic machine cipher, codenamed PURPLE by the U.S. Once, when asked what his greatest contribution to that effort had been, Rowlett said, "I was the one who believed it could be done." Rowlett supervised cryptanalyst Virginia Dare Aderholdt, who decrypted the Japanese surrender message, August...

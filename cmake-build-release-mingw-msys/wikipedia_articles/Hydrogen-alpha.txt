@@ -1,0 +1,14 @@
+Hydrogen-alpha, typically shortened to H-alpha or Hα, is a deep-red visible spectral line of the hydrogen atom  with a wavelength of 656.28 nm in air and 656.46 nm in vacuum. It is the first spectral line in the Balmer series and is emitted when an electron falls from a hydrogen atom's third- to second-lowest energy level. H-alpha has applications in astronomy where its emission can be observed from emission nebulae and from features in the Sun's atmosphere, including solar prominences and the chromosphere.
+
+
+== Balmer series ==
+According to the Bohr model of the atom, electrons exist in quantized energy levels surrounding the atom's nucleus.  These energy levels are described by the principal quantum number n = 1, 2, 3, ... .  Electrons may only exist in these states, and may only transit between these states.
+The set of transitions from n ≥ 3 to n = 2 is called the Balmer series and its members are named sequentially by Greek letters: 
+
+n = 3 to n = 2 is called Balmer-alpha or H-alpha,
+n = 4 to n = 2 is called Balmer-beta or H-beta,
+n = 5 to n = 2 is called Balmer-gamma or H-gamma, etc.
+For the Lyman series the naming convention is: 
+
+n = 2 to n = 1 is called Lyman-alpha,
+n = 3 to n...

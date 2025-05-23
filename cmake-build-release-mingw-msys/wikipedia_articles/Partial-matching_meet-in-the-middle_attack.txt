@@ -1,0 +1,61 @@
+Partial-matching is a technique that can be used with a MITM attack. Partial-matching is where the intermediate values of the MITM attack, 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  
+ and 
+  
+    
+      
+        j
+      
+    
+    {\displaystyle j}
+  
+, computed from the plaintext and ciphertext, are matched on only a few select bits, instead of on the complete state.
+
+
+== Uses ==
+A limitation with MITM attacks is the amount of intermediate values that needs to be stored. In order to compare the intermediate values 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  
+ and 
+  
+    
+      
+        j
+      
+    
+    {\displaystyle j}
+  
+, all 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  
+'s need to be computed and stored first, before each computed 
+  
+    
+      
+        j
+      
+    
+    {\displaystyle j}
+  
+ can be compared against them. 
+If the two subciphers identified by the MITM attack both has a sufficiently large subkey, then an unfeasible amount of intermediate values need to be stored.
+While there are techniques such as cycle detection algorithms that allows one to perform a MITM attack without storing either all values of...

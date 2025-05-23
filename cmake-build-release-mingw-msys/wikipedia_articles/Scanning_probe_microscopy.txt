@@ -1,0 +1,8 @@
+Scanning probe microscopy (SPM) is a branch of microscopy that forms images of surfaces using a physical probe that scans the specimen. SPM was founded in 1981, with the invention of the scanning tunneling microscope, an instrument for imaging surfaces at the atomic level. The first successful scanning tunneling microscope experiment was done by Gerd Binnig and Heinrich Rohrer. The key to their success was using a feedback loop to regulate gap distance between the sample and the probe.
+Many scanning probe microscopes can image several interactions simultaneously. The manner of using these interactions to obtain an image is generally called a mode.
+The resolution varies somewhat from technique to technique, but some probe techniques reach a rather impressive atomic resolution. This is largely because piezoelectric actuators can execute motions with a precision and accuracy at the atomic level or better on electronic command. This family of techniques can be called "piezoelectric techniques". The other common denominator is that the data are typically obtained as a two-dimensional grid of data points, visualized in false color as a computer image.
+
+
+== Established types ==
+
+AFM, atomic...

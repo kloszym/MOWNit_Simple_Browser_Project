@@ -1,0 +1,6 @@
+USA-92, also known as GPS IIA-12, GPS II-21, GPS SVN-39, and NAVSTAR 39, is an American navigation satellite which forms part of the Global Positioning System. It was the twelfth of nineteen Block IIA GPS satellites to be launched.
+
+
+== Background ==
+Global Positioning System (GPS) was developed by the U.S. Department of Defense to provide all-weather round-the-clock navigation capabilities for military ground, sea, and air forces. Since its implementation, GPS has also become an integral asset in numerous civilian applications and industries around the globe, including recreational used (e.g., boating, aircraft, hiking), corporate vehicle fleet tracking, and surveying. GPS employs 24 spacecraft in 20,200 km circular orbits inclined at 55.0°. These vehicles are placed in 6 orbit planes with four operational satellites in each plane.
+GPS Block 2 was the operational system, following the demonstration system composed of Block 1 (Navstar 1 - 11) spacecraft. These spacecraft were 3-axis stabilized, nadir pointing using reaction wheels. Dual solar arrays supplied 710 watts of power. They used S-band (SGLS) communications for control and telemetry and Ultra high frequency (UHF) cross-link between...

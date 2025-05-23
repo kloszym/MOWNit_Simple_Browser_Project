@@ -1,0 +1,68 @@
+A radix heap is a data structure for realizing the operations of a monotone priority queue. A set of elements to which a key is assigned can then be managed. The run time of the operations depends on the difference between the largest and smallest key or constant. The data structure consists mainly of a series of buckets, the size of which increases exponentially.
+
+
+== Prerequisites ==
+all keys are natural numbers;
+max. key - min. key 
+  
+    
+      
+        ≤
+      
+    
+    {\displaystyle \leq }
+  
+ C for constant C;
+the extract-min operation is monotonic; that is, the values returned by successive extract-min calls are monotonically increasing.
+
+
+== Description of data structure ==
+The three most important fields are:
+
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+  
+ of size 
+  
+    
+      
+        B
+        :=
+        ⌊
+        l
+        o
+        g
+        (
+        C
+        +
+        1
+        )
+        ⌋
+        +
+        1
+      
+    
+    {\displaystyle B:=\lfloor log(C+1)\rfloor +1}
+  
+, with 0 as the lowest index, stores the buckets;
+
+  
+    
+      
+        u
+      
+    
+    {\displaystyle u}
+  
+ of size 
+  
+    
+      
+        B
+        +
+        1...

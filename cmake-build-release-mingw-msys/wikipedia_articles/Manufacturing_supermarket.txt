@@ -1,0 +1,6 @@
+A manufacturing supermarket (or market location) is, for a factory process, what a retail supermarket is for the customer. The customers draw products from the 'shelves' as needed and this can be detected by the supplier who then initiates a replenishment of that item. It was the observation that this 'way of working' could be transferred from retail to manufacturing which is one of the cornerstones of the Toyota Production System (TPS).
+
+
+== History ==
+In the 1950s Toyota sent teams to the United States to learn how they achieved mass-production. However, the Toyota Delegation first got inspiration for their production system at an American Supermarket (a Piggly Wiggly, to be precise). They saw the virtue in the supermarket only reordering and restocking goods once they’d been bought by customers.
+In a supermarket (like the TPS) customers (processes) buy what they need when they need it. Since the system is self-service the sales effort (materials management) is reduced. The shelves are refilled as products are sold (parts withdrawn) on the assumption that what has sold will sell again which makes it easy to see how much has been used and to avoid overstocking. The most important feature...

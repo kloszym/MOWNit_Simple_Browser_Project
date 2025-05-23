@@ -1,0 +1,12 @@
+English prefixes are affixes (i.e., bound morphemes that provide lexical meaning) that are added before either simple roots or complex bases (or operands) consisting of (a) a root and other affixes, (b) multiple roots, or (c) multiple roots and other affixes. Examples of these follow:
+
+undo (consisting of prefix un- and root do)
+untouchable (consisting of prefix un-, root touch, and suffix -able)
+non-childproof (consisting of prefix non-, root child, and suffix -proof)
+non-childproofable (consisting of prefix non-, root child, root proof, and suffix -able)
+English words may consist of multiple prefixes: anti-pseudo-classicism (containing both an anti- prefix and a pseudo- prefix).
+In English, all prefixes are derivational. This contrasts with English suffixes, which may be either derivational or inflectional.
+
+
+== Selectional restrictions ==
+As is often the case with derivational morphology, many English prefixes can only be added to bases of particular lexical categories (or "parts of speech"). For example, the prefix re- meaning "again, back" is only added to verb bases as in rebuild, reclaim, reuse, resell, re-evaluate, resettle. It cannot be added to bases of other lexical categories...

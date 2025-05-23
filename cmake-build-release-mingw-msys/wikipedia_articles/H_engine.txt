@@ -1,0 +1,7 @@
+An H engine is a piston engine comprising two separate flat engines (complete with separate crankshafts), most often geared to a common output shaft. The name "H engine" is due to the engine blocks resembling a letter "H" when viewed from the front. The most successful "H" engine in this form was the Napier Dagger and its derivatives. The name was also applied to engines of the same basic layout, but rotated through 90 degrees—most famously the Napier Sabre series. A variation on the "H" theme were the Fairey Prince (H-16) & Fairey P.24 Monarch, where the two engines retained separate drives, driving Contra-rotating propellers through separate concentric shafts. Although successful, they only existed in prototype form.
+The H engine is a relatively rare layout, with its main use being in aircraft engines during the 1930s and 1940s. The 1966 Lotus 43 Formula One car used a BRM 16-cylinder H engine, and an 8-cylinder H engine was used for powerboat racing in the 1970s.
+
+
+== Design ==
+
+The benefits of an H engine are the ability to share common parts with the flat engine upon which it is based, and the good engine balance which results in less vibration (which is difficult to achieve in many...

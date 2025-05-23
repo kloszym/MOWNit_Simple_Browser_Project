@@ -1,0 +1,10 @@
+BlogTalkRadio is a web-based platform that allows podcasters and radio sites and talk show hosts to create live and on-demand talk format content for distribution on the web and podcast distribution channels. It offers a web-based 'studio' that allows its content creators to host multi-participant broadcasts using a computer and a phone.
+
+
+== Development ==
+After setting up a blog to update his family on his ailing father, Alan Levy, a former accountant and telecommunications executive, launched the service in August 2006, as a way to allow audio content creators to communicate directly with their audiences in real time.
+
+
+== Service ==
+This service allows up to five callers at a time, although unlimited participants could listen in. Shows streamed directly from the host page during live broadcasts, and were archived as podcasts. Previous shows can be streamed, downloaded directly or subscribed to as podcasts via RSS through any podcatcher like Juice, Stitcher or iTunes. This service also provides promotional badges and flash player code for placement on blogs, Twitter, Facebook and other Social networking sites.
+As of February 1, 2011, only 30-minute podcasts were free to broadcast, and...

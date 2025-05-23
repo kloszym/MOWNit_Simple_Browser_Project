@@ -1,0 +1,9 @@
+A new-collar worker is an individual who develops technical and soft skills needed to work in the contemporary technology industry through nontraditional education paths. The term was introduced by IBM CEO Ginni Rometty in late 2016 and refers to "middle-skill" occupations in technology, such as cybersecurity analysts, application developers and cloud computing specialists.
+
+
+== Etymology ==
+The term "new-collar job" is a play on “blue-collar job”. It originated with IBM's CEO Ginni Rometty, relating to the company's efforts to increase the number of people qualified for technology jobs. In November 2016, Rometty wrote an open letter to then-President-elect Donald Trump, which introduced the idea of "new-collar jobs" and urged his support for the creation of these types of roles. Rometty coined the term in response to new employment designations as industries are moving into a new technology era, and jobs are created that require new skills in data science, cloud computing and artificial intelligence.
+
+
+== Occupations and education requirements ==
+According to Rometty, "relevant skills, sometimes obtained through vocational training", are the qualifying characteristics of new-collar work...

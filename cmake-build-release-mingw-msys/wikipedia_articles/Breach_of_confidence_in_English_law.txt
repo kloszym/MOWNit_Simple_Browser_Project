@@ -1,0 +1,7 @@
+Breach of confidence in English law is an equitable doctrine that allows a person to claim a remedy when their confidence has been breached. A duty of confidence arises when confidential information comes to the knowledge of a person in circumstances in which it would be unfair if it were disclosed to others. Breach of confidence gives rise to a civil claim. The Human Rights Act 1998 has developed the law on breach of confidence so that it now applies to private bodies as well as public ones.
+
+
+== Elements ==
+There are several elements required to prove a breach of confidence, and these are not set out in specific legislation. Typically, to rely on a claim of breach of confidence, reference must be made to the elements established in common law. In Coco v A N Clark (Engineers) Ltd a breach of confidence claim was made regarding technical information which held significant commercial value.
+
+In my judgment, three elements are normally required if, apart from contract, a case of breach of confidence is to succeed. First, the information itself, in the words of Lord Greene, M.R. in the Saltman case on page 215, must "have the necessary quality of confidence about it." Secondly, that information...

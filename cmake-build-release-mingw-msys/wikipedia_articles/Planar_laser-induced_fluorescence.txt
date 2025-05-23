@@ -1,0 +1,6 @@
+Planar laser-induced fluorescence (PLIF) is an optical diagnostic technique widely used for flow visualization and quantitative measurements. PLIF has been shown to be used for velocity, concentration, temperature and pressure measurements.
+
+
+== Working ==
+A PLIF setup consists of a source of light (usually a laser), an arrangement of lenses to form a sheet, fluorescent medium, collection optics and a detector. The light from the source, illuminates the medium, which then fluoresces. This signal is captured by the detector and can be related to the various properties of the medium.
+The typical lasers used as light sources are pulsed, which provide a higher peak power than the continuous-wave lasers. Also the short pulse time is useful for good temporal resolution. Some of the widely used laser sources are Nd:YAG laser, dye lasers, excimer lasers, and ion lasers. The light from the laser (usually a beam) is passed through a set of lenses and/or mirrors to form a sheet, which is then used to illuminate the medium. This medium is either made up of fluorescent material or can be seeded with a fluorescent substance. The signal is usually captured by a CCD or CMOS camera (sometimes intensified...

@@ -1,0 +1,13 @@
+Hystrix was a formerly recognized genus of grass (family Poaceae).
+The genus Hystrix was created in 1794 by Conrad Moench for the species described as Elymus hystrix by Carl Linnaeus in 1753. Moench considered that E. hystrix was sufficiently distinct to be placed in a separate genus as Hystrix patula; the genus was to be used for species without glumes or with long setaceous glumes. Subsequently a number of other grass species were placed in this genus.
+Genomic studies from the 1960s onwards showed that H. patula does in fact belong in Elymus, as this is now defined. Other species placed in Hystrix have genomes more closely resembling those of Leymus species, and are better placed in that genus. Currently accepted transfers include:
+
+Hystrix californica → Leymus californicus
+Hystrix coreana → Leymus coreanus
+Hystrix duthiei → Leymus duthiei
+Hystrix komarovii → Leymus komarovii
+Hystrix sibirica → Leymus sibiricus
+Hystrix patula → Elymus hystrix
+
+
+== References ==

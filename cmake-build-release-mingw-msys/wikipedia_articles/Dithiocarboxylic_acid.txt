@@ -1,0 +1,13 @@
+Dithiocarboxylic acids are organosulfur compounds with the formula RCS2H.  They are the dithia analogues of carboxylic acids.  A closely related and better studied family of compounds are the monothiocarboxylic acids, with the formula RCOSH.
+Dithiocarboxylic acids are about 3x more acidic than the monothiocarboxylic acids. Thus, for dithiobenzoic acid pKa = 1.92. Such compounds are commonly prepared by the reaction of carbon disulfide with a Grignard reagent:
+
+RMgX + CS2  →  RCS2MgX
+RCS2MgX + HCl  →  RCS2H + MgXCl
+This reaction is comparable to the formation of carboxylic acids using a Grignard reagent and carbon dioxide. Dithiocarboxylate salts readily S-alkylate to give dithiocarboxylate esters:
+
+RCS2Na + R'Cl  →  RCS2R' + NaCl
+Aryldithiocarboxylic acids, e.g., dithiobenzoic acid, chlorinate to give the thioacyl chlorides.
+Oxygen transfer to a dithiocarboxylate ester gives a sulfine-like S-oxide that rearranges to an acylsulfenyl thiolate.
+
+
+== References ==

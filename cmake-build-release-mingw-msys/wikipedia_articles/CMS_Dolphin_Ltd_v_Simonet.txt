@@ -1,0 +1,11 @@
+CMS Dolphin Ltd v Simonet [2001] EWHC Ch 415 is a UK company law case concerning directors' duties.
+
+
+== Facts ==
+Mr Simonet resigned from his position as managing director of CMS Dolphin Ltd (a small advertising company on Charing Cross Road) and he set up a new company. CMS's staff followed and so did the major clients. CMS sued Mr Simonet for the profits he made, alleging that he had breached his duty of loyalty to the company. Mr Simonet contended that he owed no duty because he had left the company.
+
+
+== Judgment ==
+Lawrence Collins J held that Mr Simonet resigned without giving proper notice, and so he was in breach of contract. He had made no proper disclosure and had misused confidential information. The maturing business opportunities were the company's property, ‘where he knowingly had a conflict of interest, and exploited it by resigning from the company’. Resignation was not a fiduciary power in itself, and no obligations continued after the end of the relationship.
+
+3 In many cases an account of profits would be a more advantageous remedy than equitable compensation since the actual profits obtained by a director might be higher than the damages for the loss of opportunity...

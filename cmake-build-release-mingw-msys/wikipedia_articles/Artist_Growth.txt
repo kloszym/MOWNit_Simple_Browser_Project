@@ -1,0 +1,13 @@
+Artist Growth is a cloud-based touring and music business management application. Numerous artist managers, tour managers, and musicians use Artist Growth to boost team collaboration, simplify event logistics, track finances, automate ticket requests, quickly find files, and consolidate data. Customers of Artist Growth include artists such as Jason Aldean, Tiësto and Luke Combs, artist management companies such as Red Light and Vector, and major record labels.
+
+
+== History ==
+Artist Growth was founded by Matt Urmy and Jonathan Sexton in 2011. A prototype of their platform was launched in 2012, with a desktop version arriving in 2013.
+In May 2018, Pinnacle Financial Partners announced taking a stake in Artist Growth in an effort to further expand its music, entertainment and sports business.
+
+
+== Software ==
+The Artist Growth software platform is a tour management and live event support application. The software connects the artist and artist tour production team with the artist manager, talent agent, business manager, record label and third party tour service providers.
+The key product feature sets include:
+
+Tour Management: artist managers, tour managers and production crews use Artist...

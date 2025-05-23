@@ -1,0 +1,6 @@
+Thomas Knoll is an American software engineer who created Adobe Photoshop. He initiated the development of image processing routines in 1988. After Knoll created the first core routines, he showed them to his brother, John Knoll, who worked at Industrial Light and Magic. John liked what he saw, suggested new features, and encouraged Tom to bundle them into a package with a graphical user interface. In 1988, John sold the distribution license for Photoshop to Adobe Systems and later on March 31, 1995, he sold the rights to the program to Adobe for $34.5 million.
+Thomas Knoll was the lead developer until version CS4, and currently contributes to work on the Camera Raw plug-in to process raw images from cameras.
+Knoll was born and raised in Ann Arbor, Michigan, and graduated from the University of Michigan.
+His last name also graces an elementary school in Ann Arbor, Michigan founded by his wife in 1995 called Summers-Knoll School.
+In 2016 Thomas and his brother John were inducted into the International Photography Hall of Fame and Museum.
+At the 2019 Oscars, Thomas and his brother John were awarded a Scientific and Engineering Award for the original architecture, design and development...

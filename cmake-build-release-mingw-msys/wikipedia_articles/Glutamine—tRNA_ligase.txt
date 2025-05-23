@@ -1,0 +1,24 @@
+Glutamine—tRNA ligase or glutaminyl-tRNA synthetase (GlnRS) is an aminoacyl-tRNA synthetase (aaRS or ARS), also called tRNA-ligase. is an enzyme that attaches the amino acid glutamine onto its cognate tRNA.
+This enzyme participates in glutamate metabolism and aminoacyl-trna biosynthesis.
+The human gene for glutaminyl-tRNA synthetase is QARS.
+
+
+== Catalyzed reaction ==
+Glutamine—tRNA ligase (EC 6.1.1.18) is an enzyme that catalyzes the chemical reaction
+ATP + L-glutamine + tRNAGln 
+  
+    
+      
+        ⇌
+      
+    
+    {\displaystyle \rightleftharpoons }
+  
+ AMP + diphosphate + L-glutaminyl-tRNAGln
+The 3 substrates of this enzyme are ATP, L-glutamine, and tRNAGln, whereas its 3 products are AMP, diphosphate, and L-glutaminyl-tRNAGln.  The cycle of aminoacylation reaction is shown in the figure.
+
+
+== Nomenclature ==
+This enzyme belongs to the family of ligases, to be specific those forming carbon-oxygen bonds in aminoacyl-tRNA and related compounds.  The systematic name of this enzyme class is L-glutamine:tRNAGln ligase (AMP-forming). Glutaminyl-tRNA synthetase or GlnRS is the primary name in use in the scientific literature. Other names that have been reported are:
+
+glutaminyl-transfer...

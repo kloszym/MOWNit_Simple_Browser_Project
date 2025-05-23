@@ -1,0 +1,7 @@
+Tetracene, also called naphthacene, is a polycyclic aromatic hydrocarbon. It has the appearance of a pale orange powder. Tetracene is the four-ringed member of the series of acenes.
+Tetracene is a molecular organic semiconductor, used in organic field-effect transistors (OFETs) and organic light-emitting diodes (OLEDs). Tetracene can be used as a gain medium in dye lasers as a sensitiser in chemoluminescence. Napthacene is the main component of the tetracycline class of antibiotics.
+
+
+== History and synthesis ==
+In 1884, W. Roser attempted to synthesize a compound called "Aethindiphtalyls" (literally "ethyne diphthalyl") by heating 3 parts of phthalic anhydride, 3 parts of succinic acid and one part of sodium acetate according to Siegmund Gabriel's procedure. And then he found that there was a brick-red byproduct was produced in a large amount in the reaction, which was called "Isoäthindiphtalid" ("Isoethyne diphthalide") and founded to be an isomer of "Aethindiphtalyls". In 1898, Gabriel and Ernst Leupold conducted a study on the byproduct and confirmed it was a new class of compound containing 4 rings.
+In the same document, Gabriel and Leupold reported their synthesis of tetracene by...

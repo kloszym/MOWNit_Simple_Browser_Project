@@ -1,0 +1,11 @@
+The Iver Huitfeldt class is a three-ship class of air defence frigates that entered service with the Royal Danish Navy in 2012 and 2013.
+
+
+== Description ==
+The class is built on the experience gained from the Absalon-class frigates. By reusing the basic hull design of the Absalon class, the Royal Danish Navy has been able to construct the Iver Huitfeldt class considerably cheaper than comparable ships. 
+
+
+== Design ==
+The frigates are compatible with the Royal Danish Navy's StanFlex modular mission payload system used in the Absalons, and they are designed with slots for six modules. Each of the four StanFlex positions on the missile deck is able to accommodate the Mark 41 8-cell Harpoon launcher module, or the 12-cell Mark 56 Evolved SeaSparrow Missile (ESSM) Vertical Launching System (VLS).
+The Absalon-class ships are primarily designed for command, support, and ASW roles, with a large ro-ro deck. The three new Iver Huitfeldt-class frigates are equipped for an air defence role with Standard Missiles, as well as the potential to use Tomahawk cruise missiles, a first for the Royal Danish Navy.
+The ships were constructed in blocks in Estonia and Lithuania. These blocks were then towed to...

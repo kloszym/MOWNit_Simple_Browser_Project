@@ -1,0 +1,11 @@
+Double homeobox, 4 also known as DUX4 is a protein which in humans is encoded by the DUX4 gene. Its misexpression is the cause of facioscapulohumeral muscular dystrophy (FSHD).
+
+
+== Gene ==
+
+This gene is located within a D4Z4 macrosatellite repeat array in the subtelomeric region of chromosome 4q35. The D4Z4 repeat array contains 11-150 D4Z4 repeats in the general population; a highly homologous D4Z4 repeat array has been identified on chromosome 10. The gene consists of three exons. Exons 1 and 2 are present in each D4Z4 repeat. Only one copy of exon 3 is present, telomeric to the D4Z4 repeat array. The open reading frame (ORF) is entirely contained within exon 1 and contains two homeoboxes. Exons 2 and 3 encode for the three prime untranslated region (3′-UTR). In certain haplotypes, exon 3 contains a polyadenylation signal. There was no evidence for transcription from the standard cDNA libraries however RT-PCR and in-vitro expression experiments indicate that the ORF is transcribed.
+The repeat-array and ORF are conserved in other mammals.
+
+
+== Structure ==
+DUX4 protein is 424 amino acids long. Two homeodomains are situated at the N-terminus. A transcription-activating domain (TAD) and...

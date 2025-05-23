@@ -1,0 +1,6 @@
+D:/Mownit/Browser/cmake-build-release-mingw-msys/CMakeFiles/Browser.dir
+D:/Mownit/Browser/cmake-build-release-mingw-msys/CMakeFiles/wikipedia_data_processor.dir
+D:/Mownit/Browser/cmake-build-release-mingw-msys/CMakeFiles/edit_cache.dir
+D:/Mownit/Browser/cmake-build-release-mingw-msys/CMakeFiles/rebuild_cache.dir
+D:/Mownit/Browser/cmake-build-release-mingw-msys/CMakeFiles/Browser_autogen_timestamp_deps.dir
+D:/Mownit/Browser/cmake-build-release-mingw-msys/CMakeFiles/Browser_autogen.dir

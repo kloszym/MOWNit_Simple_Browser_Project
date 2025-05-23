@@ -1,0 +1,19 @@
+The molecular formula C3H6O may refer to:
+
+Alcohols
+Allyl alcohol or 2-propen-1-ol, CH2=CH-CH2OH, CAS number 107-18-6
+cyclopropanol or cyclopropyl alcohol,  cyclo (-CH2-CH2-HOHC-), CAS number 16545-68-9
+Aldehydes
+propanal or propionaldehyde, CH3CH2-CHO, CAS number 123-38-6
+Ketones
+Propanone or acetone, CH3-CO-CH3, CAS number 67-64-1
+Enols (tautomers of aldehydes and ketones)
+(E)-1-propen-1-ol, CH3-CH=CH-OH, CAS number 57642-95-2
+(Z)-1-propen-1-ol, CH3-CH=CH-OH, CAS number 57642-96-3
+propen-2-ol, CH2=C(OH)-CH3, CAS number 29456-04-0  or 74324-85-9
+Ethers
+methyl vinyl ether or methoxyethene, H3C-O-CH=CH2, CAS number: 107-25-5
+oxetane or trimethylene oxide, cyclo(-CH2-CH2-O-CH2-), CAS number: 503-30-0
+1,2-epoxy-propane or Propylene oxide or methyl oxirane,  cyclo(-C*H(CH3)-CH2-O-), C* chiral, CAS number: 75-56-9
+(R)-(+)-methyl oxirane, CAS number 15448-47-2
+(S)-(–)-methyl oxirane, CAS number 16088-62-3

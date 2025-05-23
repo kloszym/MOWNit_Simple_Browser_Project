@@ -1,0 +1,5 @@
+75 Cancri (abbreviated to 75 Cnc) is a binary star in the constellation of Cancer. The system is located about 102 light-years (31 parsecs) away, based on its stellar properties.
+75 Cancri is a spectroscopic binary, which means the two stellar components are too close to be resolved, but periodic Doppler shifts in their spectra indicate orbital motion. In this case, light from both stars can be detected, and it is a double-lined spectroscopic binary. The orbital period of the system is 19.41 days, and the eccentricity of the system is 0.19494, implying a slightly elliptical orbit. The primary has a mass of 1.173 M☉, and is a G-type main-sequence star or subgiant. The secondary is less massive, at 1.011 M☉.
+
+
+== References ==

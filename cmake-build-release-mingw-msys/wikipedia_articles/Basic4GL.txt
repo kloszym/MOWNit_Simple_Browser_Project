@@ -1,0 +1,13 @@
+Basic4GL (B4GL; from Basic for openGL) is an interpreted, open source version of the BASIC programming language which features support for 3D computer graphics using OpenGL. While being interpreted, it is also able to compile programs on top of the virtual machine to produce standalone executable programs.
+It uses a syntax similar to traditional dialects of BASIC and features an IDE and a very thorough and comprehensive debugger.
+Basic4GL is not designed to compete with programming languages such as C++; it was intended to replace older languages such as QBasic or GFA BASIC.
+Basic4GL features the usual commands that you would expect to find in a version of BASIC such as...
+
+PRINT
+INPUT
+GOSUB
+It also includes a few features that C programmers will be familiar with, such as support for pointers, structures and most importantly the entire OpenGL v1.1 API.
+
+
+== History ==
+Tom Mulgrew created Basic4GL from a desire to be able to run OpenGL functions easily and quickly, without all of the setup normally required in a language such as c++ and be more stable. He built a virtual machine similar to one used at his workplace. It started simply, with few OpenGL functions and minimal other functionality...

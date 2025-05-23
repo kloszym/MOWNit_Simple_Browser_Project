@@ -1,0 +1,19 @@
+The Caspar C 33 was a training aircraft developed in Germany in the late 1920s. 
+
+
+== Specifications ==
+Data from General characteristics
+Crew: 2
+Length: 5.30 m (17 ft 5 in)
+Wingspan: 8.00 m (26 ft 3 in)
+Empty weight: 490 kg (1,080 lb)
+Gross weight: 750 kg (1,653 lb)
+Powerplant: 1 × Armstrong-Siddeley Mongoose 5-cylinder air-cooled radial piston engine, 101 kW (135 hp)
+Propellers: 2-bladed fixed pitch propeller
+Performance
+
+Maximum speed: 160 km/h (99 mph, 86 kn)
+Cruise speed: 130 km/h (81 mph, 70 kn)
+
+
+== References ==

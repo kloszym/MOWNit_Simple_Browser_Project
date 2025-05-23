@@ -1,0 +1,8 @@
+java-gnome is a set of language bindings for the Java programming language for use in the GNOME desktop environment. It is part of the official GNOME language bindings suite and provides a set of libraries allowing developers to write computer programs for GNOME using the Java programming language and the GTK cross-platform widget toolkit.
+
+
+== Development ==
+
+Originally released on 08.10.1999 as version 0.2, it included the first bindings for Gnome and GTK. Up until version 2.0, java-gnome was written by a project team. The current version 4.0 was originally an internal project of Operational Dynamics, a change management consultancy group. 
+From 1999, the so-called 2.X series was the main project. After being abandoned by the main team for a time, the project was given to a new developer in 2006, due to development problems that came from many maintenance issues.
+The last release of 2.0 versions (which continued the same project from version 0.2) was version 2.16.2 (called the 2.x series). The coverage of these series never made it past GTK 2.6. This update was declared as “end of life” for the old project and was no longer maintained, and any contribution patches for versions older...

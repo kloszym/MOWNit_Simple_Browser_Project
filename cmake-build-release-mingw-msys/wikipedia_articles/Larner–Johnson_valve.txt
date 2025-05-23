@@ -1,0 +1,7 @@
+A  Larner–Johnson valve is a mechanism used in dams and water pumping to control the flow of water through large pipes.  The valve is suited to handling high velocity flow with minimal turbulence, even when partially open, and the actuating force can be provided by the water flow it is controlling.  It was manufactured in the early 20th century by the Larner-Johnson Company in the US. The valves are still manufactured in the United Kingdom by Blackhall Engineering Ltd. These valves have been constructed in sizes up to 21 feet (6.4 m) diameter and controlling a hydraulic head of 1,000 feet (300 m).
+In 2009, Blackhall Engineering supplied four 60" bore Larner–Johnson valves to New York City Department of Environmental Protection for the Ashokan Reservoir in upstate New York. Each valve is capable of passing a flow rate of 19 cubic metres/second, which is the equivalent of 19 tons of water per second. The valves control the flow of water out of the Ashokan Reservoir into the Catskill Aqueduct down to New York City.
+
+
+== Operation ==
+
+The valve is housed within a bulged section of the penstock pipe. The valve mechanism forms a cylindrical body within this pipe, with the water flowing around...

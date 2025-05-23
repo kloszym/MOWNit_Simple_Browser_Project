@@ -1,0 +1,12 @@
+The GT4 (from German: Gelenktriebwagen 4-achsig, which translates as 4-axle articulated tramcar) is an articulated tram vehicle built by Maschinenfabrik Esslingen from 1959 until 1965.
+
+
+== History ==
+380 GT4 trams were produced of which 350 were delivered to the Stuttgarter Strassenbahnen, the public transport operator of Stuttgart. The remaining 30 vehicles were delivered to Freiburg (19), Neunkirchen (Saar) (8) and Reutlingen (3). The 350 Stuttgart vehicles were uni-directional, had three double-doors, and were built to metre gauge. The cars for Freiburg and Reutlingen also metre-gauge, but were bi-directional. The Neunkirchen cars also bi-directional and were built to standard gauge. They also had four powered axles whereas the standard variant had only two.
+With around 70 trams in service, as of 2023, the largest operator of GT4 is CTP, the public transport company in Iași, Romania.
+
+
+== Technical specifications ==
+
+The GT4 was developed because the longer six-axle articulated trams with Jacobs bogies, such as the GT6, were not suitable for the Stuttgart network, which had a large number of sharp curves and steep gradients due to the city's hilly topography.
+The design of articulation...

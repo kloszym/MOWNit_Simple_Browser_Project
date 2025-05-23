@@ -1,0 +1,19 @@
+The Convertiplano is a cancelled Brazilian convertiplane project. It is based on the earlier Focke-Achgelis Fa 269.
+Henrich Focke revived the design in the early 1950s on behalf of Brazil's Centro Técnico Aeroespacial (CTA), at the time the air force's technical center, who had contracted him to develop a convertiplane. The Convertiplano was built using the fuselage and wings of a Supermarine Spitfire Mk.XIV, serial RM874, acquired by the Brazilian Air Attaché's office in Brazil. Britain refused to supply the Armstrong Siddeley Double Mamba engine originally selected and the design was altered to accept a mid-mounted 2,200 horsepower (1,600 kW) Wright R-3350 Duplex-Cyclone radial engine, as used in the Lockheed Constellation, instead. This required a redesign of the transmission due to the increased weight and vibration.
+Some 40 workers and US$8 million were devoted to the project.
+The aircraft never entered service.
+
+
+== Specifications (Convertiplano) ==
+
+Dimensions:
+
+Wingspan: 37 feet 6 inches (11.43 m)
+Length: 35 feet 3 inches (10.74 m)
+Height: 15 feet 0 inches (4.57 m)
+Weight: Unknown
+Performance Data:
+
+Top Speed: 310 mph (500 km/h)
+Range: 943 miles (1,517 kilometers) estimated
+Thrust...

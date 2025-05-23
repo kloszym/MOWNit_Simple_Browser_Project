@@ -1,0 +1,6 @@
+Surface irrigation is where water is applied and distributed over the soil surface by gravity. It is by far the most common form of irrigation throughout the world and has been practiced in many areas virtually unchanged for thousands of years.
+Surface irrigation is often referred to as flood irrigation, implying that the water distribution is uncontrolled and therefore, inherently inefficient. In reality, some of the irrigation practices grouped under this name involve a significant degree of management (for example surge irrigation).
+
+
+== Process ==
+The process of surface irrigation can be described using four phases. As water is applied to the top end of the field it will flow or advance over the field length. The advance phase refers to that length of time as water is applied to the top end of the field and flows or advances over the field length. After the water reaches the end of the field it will either run-off or start to pond. The period of time between the end of the advance phase and the shut-off of the inflow is termed the wetting, ponding or storage phase. As the inflow ceases the water will continue to runoff and infiltrate until the entire field is drained. The depletion...

@@ -1,0 +1,7 @@
+Anopheles is a genus of mosquitoes (Culicidae) comprising over 500 recognized species. These mosquitoes are the primary vectors responsible for transmitting malaria to humans. 
+The genus is taxonomically divided into several subgenera, including Anopheles (206 species), Baimaia (one species), Cellia (239 species), Kerteszia (12 species), Lophopodomyia (six species), Nyssorhynchus (34 species), and Stethomyia (five species). Notably, only about 30 to 40 of these species are commonly involved in malaria transmission.
+
+
+== Classification ==
+The classification of this genus began in 1901 with Frederick Vincent Theobald. Despite the passage of time, the taxonomy remains incompletely settled. Classification into species is based on morphological characteristics - wing spots, head anatomy, larval and pupal anatomy, and chromosome structure, and more recently on DNA sequences.
+The genus Anopheles belongs to a subfamily Anophelinae with three genera: Anopheles Meigen (nearly worldwide distribution), Bironella Theobald (Australia only: 11 described species) and Chagasia Cruz (Neotropics: four described species). The genus Bironella has been divided into three subgenera: Bironella Theobald (two...

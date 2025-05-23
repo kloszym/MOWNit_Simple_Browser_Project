@@ -1,0 +1,7 @@
+Kia Silverbrook (born 1958) is an Australian independent inventor and scientist. He is one of the most prolific inventors in the world, and has been granted 4,747 US utility patents as of 14 February 2022. Internationally, he has 9,874 patents or patent applications registered at the international patent document database (INPADOC). Silverbrook has founded companies and developed products in a wide range of disciplines, including computer graphics, video and audio production, scientific computing, factory automation, digital printing, liquid crystal displays (LCDs), molecular electronics, internet software, content management, genetic analysis, MEMS devices, security inks, photovoltaic solar cells, and interactive paper.
+
+
+== Early life ==
+Silverbrook was born in 1958 in Australia.
+In 1977 he started at Fairlight Instruments, the developers of the first polyphonic digital sampling synthesizer, the Fairlight CMI. While at Fairlight, he invented and developed the Fairlight CVI, a real-time video effects computer released in 1984. He remained employed by Fairlight Instruments until 1985.
+In 1985, Silverbrook founded Integrated Arts, a parallel processing and computer graphics company using...

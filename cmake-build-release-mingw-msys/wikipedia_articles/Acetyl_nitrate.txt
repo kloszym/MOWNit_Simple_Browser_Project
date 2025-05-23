@@ -1,0 +1,15 @@
+Acetyl nitrate is the organic compound with the formula CH3C(O)ONO2.  It is classified as the mixed anhydride of nitric and acetic acids. It is a colorless explosive liquid that fumes in moist air.
+
+
+== Synthesis and reactions ==
+It was first prepared in 1907 by Amé Pictet and E. Khotynsky from acetic anhydride and dinitrogen pentoxide, fuming nitric acid can also be used:
+
+(CH3CO)2O  +  HNO3   →  CH3C(O)ONO2  +  CH3COOH
+It hydrolyzes in moist air to acetic acid and nitric acid. Alternatively, nitric acid adds to ketene.   
+For aromatic nitrations, acetyl nitrate is generated in situ by mixing nitric acid with an excess of acetic anhydride in the presence of the aromatic substrate.
+It acetylates amines, akin to the behavior of acetyl chloride:
+
+2NH3 + CH3C(O)ONO2  →  NH4NO3 + CH3CONH2
+
+
+== References ==

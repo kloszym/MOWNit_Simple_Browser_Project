@@ -1,0 +1,21 @@
+In contract bridge, an overcall is a bid made after an opening bid has been made by an opponent; the term refers only to the first such bid. A direct overcall is such a bid made by the player seated immediately to the left of the opener, i.e. next in the bidding rotation; an overcall in the 'last seat', i.e. by the player to the right of opener, which is made after two intervening passes, is referred to as a balancing or protective overcall.
+
+
+== Objectives ==
+The overcaller has one or more of the following objectives:
+
+To secure the contract
+To suggest a good lead from partner
+To induce the opponents to a higher-level contract
+To find an effective sacrifice
+To hinder the opponents in their bidding
+
+
+== Suit overcalls ==
+In most bidding systems, an overcall in an unbid suit is natural, denoting length and strength in the suit bid. The common requirements include:
+
+A good five-card or any longer suit; the features that qualify a suit as 'good' are subject to partnership agreement.
+8-16+ high-card points (HCP) for an overcall at the one-level.
+10-16+ HCP for an overcall at the two-level.
+A higher level overcall (e.g., after an opponent's preempt) requires at least opening-bid strength.
+The...

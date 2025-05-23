@@ -1,0 +1,7 @@
+Vacuum energy is an underlying background energy that exists in space throughout the entire universe. The vacuum energy is a special case of zero-point energy that relates to the quantum vacuum.
+
+The effects of vacuum energy can be experimentally observed in various phenomena such as spontaneous emission, the Casimir effect, and the Lamb shift, and are thought to influence the behavior of the Universe on cosmological scales. Using the upper limit of the cosmological constant, the vacuum energy of free space has been estimated to be 10−9 joules (10−2 ergs), or ~5 GeV per cubic meter. However, in quantum electrodynamics, consistency with the principle of Lorentz covariance and with the magnitude of the Planck constant suggests a much larger value of 10113 joules per cubic meter. This huge discrepancy is known as the cosmological constant problem or, colloquially, the "vacuum catastrophe."
+
+
+== Origin ==
+Quantum field theory states that all fundamental fields, such as the electromagnetic field, must be quantized at every point in space. A field in physics may be envisioned as if space were filled with interconnected vibrating balls and springs, and the strength of the field is like the displacement...

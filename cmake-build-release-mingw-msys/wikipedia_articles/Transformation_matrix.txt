@@ -1,0 +1,112 @@
+In linear algebra, linear transformations can be represented by matrices. If 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+  
+ is a linear transformation mapping 
+  
+    
+      
+        
+          
+            R
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} ^{n}}
+  
+ to 
+  
+    
+      
+        
+          
+            R
+          
+          
+            m
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} ^{m}}
+  
+ and 
+  
+    
+      
+        
+          x
+        
+      
+    
+    {\displaystyle \mathbf {x} }
+  
+ is a column vector with 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+ entries, then there exists an 
+  
+    
+      
+        m
+        ×
+        n
+      
+    
+    {\displaystyle m\times n}
+  
+ matrix 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  
+, called the transformation matrix of 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+  
+, such that:
+
+  
+    
+      
+        T
+        (
+        
+          x
+        
+        )
+        =
+        A
+        
+          x
+        
+      
+    
+    {\displaystyle T(\mathbf {x} )=A\mathbf {x} }
+  
+
+Note that...

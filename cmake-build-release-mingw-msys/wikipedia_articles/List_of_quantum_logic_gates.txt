@@ -1,0 +1,42 @@
+In gate-based quantum computing, various sets of quantum logic gates are commonly used to express quantum operations. The following tables list several unitary quantum logic gates, together with their common name, how they are represented, and some of their properties. Controlled or conjugate transpose (adjoint) versions of some of these gates may not be listed.
+
+
+== Identity gate and global phase ==
+
+The identity gate is the identity operation 
+  
+    
+      
+        I
+        
+          |
+        
+        ψ
+        ⟩
+        =
+        
+          |
+        
+        ψ
+        ⟩
+      
+    
+    {\displaystyle I|\psi \rangle =|\psi \rangle }
+  
+, most of the times this gate is not indicated in circuit diagrams, but it is useful when describing mathematical results. It has been described as being a "wait cycle", and a NOP.
+The global phase gate introduces a global phase 
+  
+    
+      
+        
+          e
+          
+            i
+            φ
+          
+        
+      
+    
+    {\displaystyle e^{i\varphi }}
+  
+ to the whole qubit quantum state. A quantum state is uniquely defined up to a phase. Because of the Born rule, a phase factor has no effect on a measurement outcome:...

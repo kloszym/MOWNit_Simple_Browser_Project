@@ -1,0 +1,26 @@
+The Toyota RZ engine family is a straight-four piston engine series built in Japan. The RZ series uses a cast-iron engine block and aluminum SOHC or DOHC cylinder heads. It has electronic fuel injection (EFI), 2 or 4 valves per cylinder and features forged steel connecting rods.
+
+
+== 1RZ ==
+The 1RZ is a 2.0 L (1,998 cc) version built from 1989. Bore and stroke is 86 mm × 86 mm (3.39 in × 3.39 in). The original carburetted model in Japanese trim produces 100 PS (74 kW; 99 hp) at 5,400 rpm and maximum torque of 162 N⋅m (119 lb⋅ft) at 2,400 prm.
+Applications:
+
+1989–1993 Toyota HiAce
+
+
+=== 1RZ-E ===
+The 1RZ-E is the fuel-injected version of the 1RZ. With a compression ratio of 9.0:1 and in Japanese trim, output is 110 PS (81 kW; 108 hp) at 5,200 rpm and maximum torque of 167 N⋅m (123 lb⋅ft) at 2,600 prm. With redline at 5,500 rpm.
+Applications:
+
+1989–2004 Toyota HiAce Van, Wagon
+1998–2001 Toyota Hilux
+2000–2004 Toyota Kijang/Revo/Venture
+
+
+== 2RZ ==
+The 2RZ is a 2.4 L (2,438 cc) version. Bore and stroke is 95 mm × 86 mm (3.74 in × 3.39 in); a variety of combination of heads and fuel delivery systems were available.
+
+
+=== 2RZ-E ===
+
+This is an SOHC engine with two valves per cylinder. Valve adjustment...

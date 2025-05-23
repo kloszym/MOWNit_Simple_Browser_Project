@@ -1,0 +1,32 @@
+2,3-Dichlorophenylpiperazine (2,3-DCPP or DCPP) is a chemical compound from the phenylpiperazine family. It is both a precursor in the synthesis of aripiprazole and one of its metabolites. It is unclear whether 2,3-DCPP is pharmacologically active as a serotonin receptor agonist similar to its close analogue 3-chlorophenylpiperazine (mCPP), though it has been shown to act as a partial agonist of the dopamine D2 and D3 receptors.
+
+
+== Legality ==
+2,3-DCPP has been made illegal in Japan and Hungary after having been identified in seized designer drug samples.
+
+
+== List of derivatives ==
+Aripiprazole
+Cariprazine
+BAK 2-66
+Brilaroxazine (formally RP5063)
+FAUC-365 [474432-66-1]
+CJB-090 2xHCl [595584-40-0]
+NGB 2849 [189061-11-8]
+NGB 2904 Fb: [189061-11-8] HCl: [189060-98-8]
+PG-01037 2xHCl: [675599-62-9]
+PG648
+Aripiptranyl (Abilifarnate)
+
+PGX-2000001 U.S. patent 20,070,142,399
+So-called R-22
+So-called JJC 7−065
+R-PG-648
+
+
+== Positional Isomer ==
+
+The positional isomer 3,4-dichlorophenylpiperazine (3,4-DCPP) is also known, and acts as both a serotonin releaser via the serotonin transporter, and a β1-adrenergic receptor blocker, though with relatively low affinity at both targets.
+
+
+== Triple Substituted... ==

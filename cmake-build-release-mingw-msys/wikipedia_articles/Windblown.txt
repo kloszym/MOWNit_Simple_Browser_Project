@@ -1,0 +1,9 @@
+Windblown is an upcoming action roguelike video game developed by Motion Twin, and co-published by Motion Twin and Kepler Ghost. It launched in early access for Windows on October 24, 2024, with a full release anticipated for 2026.
+
+
+== Gameplay ==
+In Windblown, the player controls a Leaper, an anthropomorphic creature in a world made up of floating islands. The Leapers, who live in the Ark—a village of their kind—work together to explore the nearby Vortex, fighting off Sentinel robotic creations that patrol the islands within it, while locating survivors, materials, and gear to bring back to the Ark. The character can use up to two weapons with various combination attacks, along with other gear and powerups they gain while exploring the Vortex. If the Leaper dies, they are returned to the Ark, losing their gear but retaining materials, which allow them to unlock new gear and abilities for future exploration.
+
+
+== Development ==
+Motion Twin achieved success with their roguelike Dead Cells, first released in 2018. As they transferred ongoing development of the game's expansions to Evil Empire, the group began to brainstorm on what their next game would be. While they initially wanted to...

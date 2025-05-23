@@ -1,0 +1,6 @@
+The PCI hole or PCI memory hole is a limitation of 32-bit hardware and 32-bit operating systems that causes a computer to appear to have less memory available than is physically installed. This memory addressing limitation and the later workarounds necessary to overcome it are functionally similar to the memory limits of the early 8088 IBM PC memory architecture (see Conventional memory).
+Similar situations have often arisen in the history of computing, when hardware intended to have up to a certain level of resources is designed to handle several times the maximum expected amount, which eventually becomes a severe restriction as Moore's law increases resources economically available. The original IBM PC was typically supplied with 64 KB of memory or less; it was designed to take a maximum of 640 KB. This rapidly became a restriction that had to be handled by complex DOS memory management. Similar successive restrictions in size have been imposed and overcome on hard drives.
+
+
+== Unavailable memory ==
+The loss of usable memory caused by the PCI hole, when using memory-mapped I/O, is caused by using the same address space for both physical memory and to communicate with hardware devices...

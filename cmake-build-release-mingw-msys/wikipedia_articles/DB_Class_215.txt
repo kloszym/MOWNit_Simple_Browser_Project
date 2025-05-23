@@ -1,0 +1,11 @@
+The DB Class 215 is a 4 axle diesel locomotive of the V 160 type. They were built for the German Federal Railways (Deutsche Bundesbahn) for medium-weight passenger and freight service on secondary and primary routes, and later passed to  the Deutsche Bahn AG.
+A number of variants were made by rebuilding; some were converted to Class 225  locomotives for freight only work for DB Cargo and the sub-class Class 215.9 were altered for use on the SyltShuttle.
+
+
+== Background ==
+The locomotives of Class 215 were a longer version of the original DB Class V 160, and consequently were equipped with steam heating apparatus. In the pre 1968 classification scheme they were to be numbered V 163.
+The engines were built to the length of the DB Class 218 (400 millimetres (16 in) longer than a Class V 160), so that later they could be rebuilt to the same specification of the longer class, which at the time only existed as a prototype; the Deutsche Bundesbahn could not wait for the Class 218 to reach production maturity as it was forging ahead with the replacement of the last steam locomotives.
+
+
+== Design and modifications ==
+The locomotive has a diesel powertrain, using hydraulic transmission, with both...

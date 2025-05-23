@@ -1,0 +1,9 @@
+Trodusquemine is an aminosterol (polyamine steroid conjugate) that inhibits protein tyrosine phosphatase 1B (PTP1B) activity. The compound exhibits broad-spectrum antimicrobial activity and numerous regenerative, neuroprotective, anti-atherosclerotic, antitumor, antiangiogenic, antiobesity, and anxiolytic properties. Phase I clinical trials of trodusquemine have demonstrated good tolerability, but several planned phase II trials were halted due to financial difficulties of the developer.
+
+
+== Chemistry ==
+Trodusquemine is a spermine metabolite of cholesterol. The steroid ring consists of a cholestane with a hydroxyl group at C-7 and sulfate group at C-24; spermine is conjugated to the steroid moiety at C-3. It is structurally similar to squalamine, which features a spermidine moiety instead of spermine.
+
+
+== Pharmacology ==
+Trodusquemine is a non-competitive allosteric inhibitor of protein tyrosine phosphatase 1B (PTP1B) with an IC50 value of 1 μmol/L. Inhibition of PTP1B prevents dephosphorylation of the insulin receptor, thereby increasing insulin signaling and lowering blood glucose. Trodusquemine also demonstrates affinity for the dopamine transporter (IC50 0.4 μmol/L) and norepinephrine...

@@ -1,0 +1,47 @@
+This is a list of ISO 639-3 language codes starting with I.
+
+Index |
+a |
+b |
+c |
+d |
+e |
+f |
+g |
+h |
+i |
+j |
+k |
+l |
+m |
+n |
+o |
+p |
+q |
+r |
+s |
+t |
+u |
+v |
+w |
+x |
+y |
+z
+
+Abbreviations are used in the table as follows:
+
+Scope (Archived April 21, 2006, at the Wayback Machine. Additional archives: December 15, 2023.): I = individual language, M = macrolanguage, S = special code
+Type (Archived April 21, 2006, at the Wayback Machine. Additional archives: December 14, 2023.): A = ancient (extinct since ancient times), C = constructed, E = extinct (in recent times), H = historical (distinct from its modern form), L = living, S = special code
+Retired codes are enclosed in (parentheses).
+The column Family contains the generic English name of the language's family or macrolanguage.
+
+
+== References ==
+"ISO 639-2 Registration Authority". Library of Congress.
+"ISO 639-3 Registration Authority". SIL International.
+Lewis, M. Paul; Simons, Gary F.; Fennig, Charles D., eds. (2016). "Ethnologue: Languages of the World" (19th ed.). Dallas, Texas: SIL International.
+
+
+== External links ==
+"Codes for the Representation of Names of Languages (ISO 639-1 and ISO 639-2 codes)". Library of Congress.
+"ISO 639-3...

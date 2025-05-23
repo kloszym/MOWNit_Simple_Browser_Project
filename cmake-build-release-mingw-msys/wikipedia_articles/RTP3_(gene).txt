@@ -1,0 +1,21 @@
+RTP3 (receptor transporter protein 3) is a gene located on chromosome 3 in humans that encodes the RTP3 protein. Its expression is liver-restricted.
+
+
+== Gene ==
+Aliases for RTP3 in Homo sapiens include LTM1, TMEM7, and Z3CXXC3. It is located at locus 3p21.31 and contains two exons. It spans a total of 2,974 base pairs, between bases 46497976 and 46500950 on chromosome 3.
+
+
+== Protein ==
+There is only one known protein isoform in humans, which is 232 amino acids long and has a predicted molecular weight of 26.9 kDa. It has a predicted isoelectric point of 9. The protein contains a transmembrane domain near the C-terminus. The protein is rich in cysteine and tryptophan and is poor in aspartic acid.
+
+
+== Gene regulation ==
+Regulation of the RTP3 gene appears to be tissue-specific, as it is expressed almost exclusively in the liver, with low levels of expression in the testes, thyroid, kidney, and adrenal gland.
+There are some poorly-conserved binding sites for miRNA molecules in the 3' untranslated region of the gene. One of these is miRNA-29, which has been found to affect progression of liver tumors in mouse models.
+
+
+== Homologs ==
+
+
+=== Orthologs ===
+Many animal species contain orthologs of the...

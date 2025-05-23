@@ -1,0 +1,43 @@
+In group theory, Hajós's theorem states that if a finite abelian group is expressed as the Cartesian product of simplexes, that is, sets of the form 
+  
+    
+      
+        {
+        e
+        ,
+        a
+        ,
+        
+          a
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          a
+          
+            s
+            −
+            1
+          
+        
+        }
+      
+    
+    {\displaystyle \{e,a,a^{2},\dots ,a^{s-1}\}}
+  
+ where 
+  
+    
+      
+        e
+      
+    
+    {\displaystyle e}
+  
+ is the identity element,  then at least one of the factors is a subgroup.  The theorem was proved by the Hungarian mathematician György Hajós in 1941 using group rings. Rédei later proved the statement when the factors are only required to contain the identity element and be of prime cardinality. Rédei's proof of Hajós's theorem was simplified by Tibor Szele.
+
+An equivalent statement on homogeneous linear forms was originally conjectured by Hermann Minkowski. A consequence is Minkowski's conjecture on lattice tilings, which says that in any lattice tiling of space by cubes, there are two cubes that meet face to face. Keller's conjecture is the...

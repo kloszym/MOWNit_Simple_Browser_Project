@@ -1,0 +1,7 @@
+OTRS (originally Open-Source Ticket Request System) is a service management suite. The suite contains an agent portal, admin dashboard and customer portal. In the agent portal, teams process tickets and requests from customers (internal or external). There are various ways in which this information, as well as customer and related data can be viewed. As the name implies, the admin dashboard allows system administrators to manage the system: Options are many, but include roles and groups, process automation, channel integration, and CMDB/database options. The third component, the customer portal, is much like a customizable webpage where information can be shared with customers and requests can be tracked on the customer side.
+
+
+== History ==
+In 2001, OTRS began as an open source help desk ticketing software.
+In 2003, OTRS GmbH was formed and a professional company entered the EMEA market. This was followed in 2006 by entry into the North American market.
+In 2007, the company was renamed to OTRS AG with the intention of going public, which it did in 2009. This is the same year in which OTRS was brought to Latin America with the Mexican subsidiary officially being founded in 2010. Entry...

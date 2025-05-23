@@ -1,0 +1,10 @@
+A telecom network protocol analyzer is a protocol analyzer used to analyze switching and telecommunications signaling protocols between different nodes in PSTN or Mobile telephone networks, such as 2G or 3G GSM networks, CDMA networks, WiMAX and so on. 
+In a mobile telecommunication network it can analyze the traffic between MSC and BSC, BSC and BTS, MSC and HLR, MSC and VLR, VLR and HLR, and so on.
+Protocol analyzers are mainly used for performance measurement and troubleshooting. These devices connect to the network to calculate key performance indicators to monitor the network and speed-up troubleshooting activities.
+
+
+== External links ==
+
+GL Communications GSM Protocol Analyzer Overview
+Tektronix Protocol Analyzer Overview
+Utel Systems - Network Monitoring

@@ -1,0 +1,18 @@
+Minuscule 232 (in the Gregory-Aland numbering), ε 455 (Soden), is a Greek minuscule manuscript of the New Testament, on parchment. It is dated by a colophon to the year 1302. Scrivener deciphered the date as the year 1292.
+
+
+== Description ==
+The codex contains a complete text of the four Gospels, on 289 parchment leaves (size 22 cm by 17.5 cm). The leaves are arranged in quarto (four leaves in quire). The text is written in one column per page, 20-22 lines per page.
+It contains the τιτλοι (titles of chapters) at the top and double Synaxarion. 
+There are τιτλοι in the margins of Matthew and Luke. It is elegantly written, but the scribe used a poor source.
+
+
+== Text ==
+The Greek text of the codex is a representative of the Byzantine text-type. Aland placed it in Category V.
+According to the Claremont Profile Method it represents textual family Kx in Luke 1, Luke 10, and Luke 20.
+
+
+== History ==
+There is an inscription from 1514 made by one of its owners, Zacharias.
+It was described by Daniel Gotthilf Moldenhawer, who collated it about 1783 for Andreas Birch. It was also collated by Matthaei. It was briefly described by Emmanuel Miller. Miller deciphered the date of the colophon as 1292.
+It...

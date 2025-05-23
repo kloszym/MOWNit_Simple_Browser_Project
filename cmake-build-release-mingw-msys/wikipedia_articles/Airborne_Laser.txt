@@ -1,0 +1,11 @@
+An airborne laser (ABL) is a laser system operated from a flying platform, as in the:
+
+Soviet/Russian Beriev A-60 (1981, active)
+American Boeing YAL-1 (2002-2012, scrapped)
+An American modified NKC-135A unit (1975-1984, in storage.)
+
+
+== Development ==
+Development of airborne lasers in the United States began with the Airborne Laser Laboratory (ALL) developed at the USAF Weapons Lab (AFWL), now known as Phillips Laboratory, in the late 1970's and early 1980's. The ALL was based on a carbon dioxide gas dynamic laser (GDL), operating at the infrared wavelength of 10.6 microns, and mounted on a modified Boeing KC-135 Stratotanker (NC-135). It was successfully tested, and in 1983 destroyed five AIM-9 Sidewinder missiles and a simulated cruise missile (BQM-34).
+Of note is that the ALL demonstrated one of the early uses of deformable mirror technology. To compensate for various atmospheric aberrations arising from turbulence and absorption of energy from the beam itself, it was necessary to modify the wavefront of the beam after it emerged from the laser resonator in order to ensure it would arrive at the target as a tightly focused spot.
+Subsequent to the Gulf War, in 1996 the Airborne Laser...

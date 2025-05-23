@@ -1,0 +1,16 @@
+A workflow management system (WfMS or WFMS) provides an infrastructure for the set-up, performance, and monitoring of a defined sequence of tasks arranged as a workflow application.
+
+
+== International standards ==
+There are several international standards-setting bodies in the field of workflow management:
+
+Workflow Management Coalition
+World Wide Web Consortium
+Organization for the Advancement of Structured Information Standards
+WS-BPEL 2.0 (integration-centric) and WS-BPEL4People (human task-centric), published by the OASIS Standards Body.
+The underlying theoretical basis of workflow management is the mathematical concept of a Petri net.
+Each of the workflow models has tasks (nodes) and dependencies between the nodes. Tasks are activated when the dependency conditions are fulfilled.
+
+
+== Workflows for people ==
+WfMS allows the user to define different workflows for different types of jobs or processes. For example, in a manufacturing setting, a design document might be automatically routed from a designer to a technical director to the production engineer. At each stage in the workflow, one individual or group is responsible for a specific task. Once the task is complete, WfMS ensures...

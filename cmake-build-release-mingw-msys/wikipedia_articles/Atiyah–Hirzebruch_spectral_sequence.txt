@@ -1,0 +1,83 @@
+In mathematics, the Atiyah–Hirzebruch spectral sequence is a spectral sequence for calculating generalized cohomology, introduced by Michael Atiyah and Friedrich Hirzebruch (1961) in the special case of topological K-theory. For a CW complex 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  
+ and a generalized cohomology theory 
+  
+    
+      
+        
+          E
+          
+            ∙
+          
+        
+      
+    
+    {\displaystyle E^{\bullet }}
+  
+, it relates the generalized cohomology groups
+
+  
+    
+      
+        
+          E
+          
+            i
+          
+        
+        (
+        X
+        )
+      
+    
+    {\displaystyle E^{i}(X)}
+  
+
+with 'ordinary' cohomology groups  
+  
+    
+      
+        
+          H
+          
+            j
+          
+        
+      
+    
+    {\displaystyle H^{j}}
+  
+ with  coefficients in the generalized cohomology of a point. More precisely, the 
+  
+    
+      
+        
+          E
+          
+            2
+          
+        
+      
+    
+    {\displaystyle E_{2}}
+  
+ term of the spectral sequence is 
+  
+    
+      
+        
+          H
+          
+            p
+          
+        
+        (
+        X
+        ;...

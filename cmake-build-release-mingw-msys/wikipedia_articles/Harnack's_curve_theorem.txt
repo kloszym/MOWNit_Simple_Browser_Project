@@ -1,0 +1,54 @@
+In real algebraic geometry, Harnack's curve theorem, named after Axel Harnack, gives the possible numbers of connected components that an algebraic curve can have, in terms of the degree of the curve. For any algebraic curve of degree m in the real projective plane, the number of components c is bounded by
+
+  
+    
+      
+        
+          
+            
+              1
+              −
+              (
+              −
+              1
+              
+                )
+                
+                  m
+                
+              
+            
+            2
+          
+        
+        ≤
+        c
+        ≤
+        
+          
+            
+              (
+              m
+              −
+              1
+              )
+              (
+              m
+              −
+              2
+              )
+            
+            2
+          
+        
+        +
+        1.
+         
+      
+    
+    {\displaystyle {\frac {1-(-1)^{m}}{2}}\leq c\leq {\frac {(m-1)(m-2)}{2}}+1.\ }
+  
+
+The maximum number is one more than the maximum genus of a curve of degree m, attained when the curve is nonsingular. Moreover, any number of components in this range of possible values can be attained.
+
+A curve which...

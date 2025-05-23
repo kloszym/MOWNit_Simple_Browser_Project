@@ -1,0 +1,10 @@
+The FN Minimi (short for French: mini-mitrailleuse; "mini machine gun") is a Belgian 5.56mm or 7.62mm light machine gun, also classified as a squad automatic weapon developed by Ernest Vervier for FN Herstal. Introduced in the late 1970s, it is in service in more than 75 countries. The weapon is manufactured at the FN facility in Herstal and their U.S. subsidiary FN Manufacturing LLC.
+The Minimi fires from an open bolt. It is an air-cooled, gas operated long-stroke piston weapon that is capable of fully automatic fire only. It can be belt fed or fired from a magazine. The Minimi is configured in several variants: the Standard model as a platoon or squad support weapon, the shortened Para version for paratroopers and the Vehicle model as secondary armament for fighting vehicles.
+
+
+== Design details ==
+
+
+=== Operating mechanism ===
+
+The Minimi uses a gas-actuated long-stroke piston system. The barrel is locked with a rotary bolt, equipped with two massive locking lugs, forced into battery by a helical camming guide in the bolt carrier. Upon firing, the piston is forced to the rear by expanding propellant gases bled through a port in the barrel near the muzzle end. The piston rod acts against...

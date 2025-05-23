@@ -1,0 +1,22 @@
+Electrostatic discharge materials (ESD materials) are plastics that reduce static electricity to protect against damage to electrostatic-sensitive devices (ESD) or to prevent the accidental ignition of flammable liquids or gases.
+
+
+== Materials ==
+ESD materials are generally subdivided into categories with related properties: Anti-Static, Conductive, and Dissipative.
+
+Note that the sheet resistance quoted above depends on the thickness of the layer of material, and the value is the resistance of a square of the material for a current flowing from one edge to the opposite edge.
+
+
+=== Conductive ===
+Conductive materials have a low electrical resistance, thus electrons flow easily across the surface or through these materials.  Charges go to ground or to another conductive object that the material contacts.
+
+
+=== Dissipative ===
+Dissipative materials allow the charges to flow to ground more slowly in a more controlled manner than with conductive materials.
+
+
+=== Anti-Static ===
+Anti-static materials are generally referred to as any material which inhibits triboelectric charging.  This kind of charging is the buildup of an electric charge by the rubbing or contact with another material.
+
+
+=== Insulative... ===

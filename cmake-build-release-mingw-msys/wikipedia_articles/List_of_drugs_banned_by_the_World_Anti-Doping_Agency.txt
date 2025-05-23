@@ -1,0 +1,11 @@
+The International Standard for the Prohibited List is the standard published by the World Anti-Doping Agency (WADA) that lists substances prohibited in competitive sport. It is updated at least once per year as required by the World Anti-Doping Code.
+The adoption of the first World Anti-Doping Code (the Code) occurred at the 2nd World Conference on Doping in Sport in March 2003 in Copenhagen, Denmark. It was there that WADA assumed the responsibility of maintaining, updating, and publishing the List of Prohibited Substances and Methods (the List) in sport. The List is to be updated and published by WADA at least annually.
+WADA specifies that the List generally includes any substance that meets any two of the following criteria: it enhances sport performance, it represents a health risk to the athlete, it violates the spirit of sport (as defined in the WADA Code).
+Substances and techniques that are prohibited by WADA fall into the following categories:
+S0 non-approved substances;
+S1 anabolic agents;
+S2 peptide hormones, growth factors, related substances, and mimetics ;
+S3 beta-2 agonists;
+S4 hormone and metabolic modulators;
+S5 diuretics and masking agents;
+prohibited methods (M1 blood...

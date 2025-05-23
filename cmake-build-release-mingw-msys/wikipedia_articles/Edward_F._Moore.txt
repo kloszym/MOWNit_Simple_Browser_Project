@@ -1,0 +1,10 @@
+Edward Forrest Moore (November 23, 1925 in Baltimore, Maryland – June 14, 2003 in Madison, Wisconsin) was an American professor of mathematics and computer science, the inventor of the Moore finite state machine, and an early pioneer of artificial life.
+
+
+== Biography ==
+Moore received a B.S. in chemistry from the Virginia Polytechnic Institute in Blacksburg, Virginia in 1947 and a Ph.D. in Mathematics from Brown University in Providence, Rhode Island in June 1950. He worked at the University of Illinois at Urbana–Champaign  from 1950 to 1952 and was a visiting professor at MIT and visiting lecturer at Harvard University simultaneously in 1961-1962. He worked at Bell Labs from 1952 to 1966. After that, he was a professor at the University of Wisconsin–Madison from 1966 until he retired in 1985.
+He married Elinor Constance Martin and they had three children.
+
+
+== Scientific work ==
+He was the first to use the type of finite-state machine (FSM) that is commonly used today, the Moore FSM. With Claude Shannon he did seminal work on computability theory and built reliable circuits using less reliable relays. He also spent a great deal of his later years on a fruitless effort to solve the Four...

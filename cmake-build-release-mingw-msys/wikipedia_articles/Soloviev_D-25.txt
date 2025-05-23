@@ -1,0 +1,38 @@
+The Soloviev D-25V is a Soviet gas-turbine turboshaft engine for use in large helicopters. Designed and originally manufactured by the Soloviev Design Bureau the engine has been in production since May 1960. The power unit consists of two engines coupled to a gearbox weighing 3,200 kg (7,050 lb).
+The V in the designation means vertolyotnyy (Russian: Вертолётный), for helicopters.
+
+
+== Variants ==
+D-25V
+Standard helicopter use production engines
+D-25VF
+Additional compressor zero-stage, power output 6,500 hp (4,847 kW)
+D-25VK
+A combined propeller and shaft output engine for the Kamov Ka-22 developing 5,500 hp (4,101 kW)
+
+
+== Applications ==
+Mi-6 helicopter
+Mi-10 helicopter
+Mi-10K "flying crane" helicopter
+Mi-12 helicopter
+Kamov Ka-22 compound helicopter
+Yakovlev Yak-60 heavy lift helicopter (concept cancelled during design stage)
+
+
+== Specifications (D-25V) ==
+Data from Aircraft engines of the World 1970.
+
+
+==== General characteristics ====
+Type: Free-turbine single-shaft turboshaft engine
+Length: 2,737 mm (107.8 in)
+Diameter: 508 mm (20.0 in) (casing)
+Width: 1,086 mm (42.8 in)
+Height: 1,158 mm (45.6 in)
+Frontal area: 0.2 m2 (2.2 sq ft)
+Dry weight: 1,200 kg (2,600 lb)
+
+
+==== Components ====
+Compressor...

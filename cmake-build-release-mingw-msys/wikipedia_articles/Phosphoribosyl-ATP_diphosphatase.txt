@@ -1,0 +1,23 @@
+In enzymology, a phosphoribosyl-ATP diphosphatase (EC 3.6.1.31) is an enzyme that catalyzes the chemical reaction
+
+1-(5-phosphoribosyl)-ATP + H2O 
+  
+    
+      
+        ⇌
+      
+    
+    {\displaystyle \rightleftharpoons }
+  
+ 1-(5-phosphoribosyl)-AMP + diphosphate
+Thus, the two substrates of this enzyme are 1-(5-phosphoribosyl)-ATP and H2O, whereas its two products are 1-(5-phosphoribosyl)-AMP and diphosphate.
+This enzyme participates in histidine metabolism.  It employs one cofactor, H+.
+
+
+== Nomenclature ==
+This enzyme belongs to the family of hydrolases, specifically those acting on acid anhydrides in phosphorus-containing anhydrides.  The systematic name of this enzyme class is 1-(5-phosphoribosyl)-ATP diphosphohydrolase. Other names in common use include phosphoribosyl-ATP pyrophosphatase, and phosphoribosyladenosine triphosphate pyrophosphatase.
+
+
+== References ==
+
+Smith DW, Ames BN (July 1965). "Phosphoribosyladenosine monophosphate, an intermediate in histidine biosynthesis". The Journal of Biological Chemistry. 240 (7): 3056–63. doi:10.1016/S0021-9258(18)97286-8. PMID 14342333.

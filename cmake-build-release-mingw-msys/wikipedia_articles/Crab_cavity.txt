@@ -1,0 +1,8 @@
+Crab cavities are a form of electromagnetic cavity used in particle accelerators to provide a transverse deflection to particle bunches. They can be used to provide rotation to a charged particle bunch by applying a time varying magnetic field. This rotation of the bunch can be used as a diagnostic tool to measure the length of a bunch (the longitudinal dimension is projected into the transverse plane, and imaged) or as a means of increasing the luminosity at an interaction point of a collider if the colliding beams cross each other at an angle (then called crab crossing). The KEKB accelerator introduced this technology in its last upgrade.
+
+
+== See also ==
+Cavity resonator
+
+
+== References ==

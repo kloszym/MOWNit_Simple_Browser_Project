@@ -1,0 +1,54 @@
+The Foster–Greer–Thorbecke indices are a family of poverty metrics. The most commonly used index from the family, FGT2, puts higher weight on the poverty of the poorest individuals, making it a combined measure of poverty and income inequality and a popular choice within development economics. The indices were introduced in a 1984 paper by economists Erik Thorbecke, Joel Greer, and James Foster.
+The individual indices within the family are derived by substituting different values of the parameter α into the following equation:
+
+  
+    
+      
+        F
+        G
+        
+          T
+          
+            α
+          
+        
+        =
+        
+          
+            1
+            N
+          
+        
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            H
+          
+        
+        
+          
+            (
+            
+              
+                
+                  z
+                  −
+                  
+                    y
+                    
+                      i
+                    
+                  
+                
+                z
+              
+            
+            )
+          
+          
+            α...

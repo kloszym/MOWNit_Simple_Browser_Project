@@ -1,0 +1,6 @@
+AUTINDEX is a commercial text mining software package based on sophisticated linguistics.
+AUTINDEX, resulting from research in information extraction, is a product of the Institute of Applied Information Sciences (IAI) which is a non-profit institute that has been researching and developing language technology since its foundation in 1985. IAI is an institute affiliated to Saarland University in Saarbrücken, Germany.
+AUTINDEX is the result of a number of research projects funded by the EU (Project BINDEX), by Deutsche Forschungsgemeinschaft and the German Ministry for Economy. Amongst the latter there are the projects LinSearch, and WISSMER, see also the reference to IAI-Website.
+The basic functionality of AUTINDEX is the extraction of key words from a document to represent the semantics of the document. Ideally the system is integrated with a thesaurus that defines the standardised terms to be used for key word assignment. 
+AUTINDEX is used in library applications (e.g. integrated in dandelon.com) as well as in high quality (expert) information systems, and in document management and content management environments.  
+Together with AUTINDEX a number of additional software comes along...

@@ -1,0 +1,42 @@
+A pulsed discharge ionization detector (pulsed discharge detector) is a detector for gas chromatography that utilizes a stable, low powered, pulsed DC discharge in helium as an ionization source.
+Eluants from the GC column, flowing counter to the flow of helium from the discharge zone, are ionized by photons from the helium discharge. Bias electrode(s) focus the resulting electrons toward the collector electrode, where they cause changes in the standing current which are quantified as the detector output.
+
+
+== Electron capture mode ==
+In the electron capture mode, the PDD is a selective detector for monitoring high electron affinity compounds such as freons, chlorinated pesticides, and other halogen compounds. For this type of compound, the minimum detectable quantity (MDQ) is at the femtogram (
+  
+    
+      
+        
+          10
+          
+            −
+            15
+          
+        
+        
+        
+          g
+        
+      
+    
+    {\displaystyle 10^{-15}\,\mathrm {g} }
+  
+) or picogram (
+  
+    
+      
+        
+          10
+          
+            −
+            12
+          
+        
+        
+        
+          g
+        
+      
+    
+    {\displaystyle 10^{-12}\,\mathrm...

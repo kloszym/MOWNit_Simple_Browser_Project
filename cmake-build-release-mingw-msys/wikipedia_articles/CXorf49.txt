@@ -1,0 +1,16 @@
+CXorf49 is a protein, which in humans is encoded by the gene chromosome X open reading frame 49(CXorf49).
+
+
+== Gene ==
+
+The CXorf49 gene has one alias CXorf49B. The recname A8MYA2 also refers to the protein coded by CXorf49 or CXorf49B.
+CXorf49 is located on the X chromosome at Xq13.1. It is 3912 base pairs long and the gene sequence has 6 exons. CXorf49 has one protein coding  transcript.
+
+
+== Protein ==
+The protein has 514 amino acids and a molecular mass of 54.4 kDa. The isoelectric point is 9.3. Compared to other human proteins CXorf49 is  glycine- and proline-rich, but the protein has lower levels of asparagine, isoleucine, tyrosine and threonine(Statistical Analysis of Protein Sequences, SAPS ).
+
+
+=== Domains ===
+
+The domain of unknown function, DUF4641, is almost the entire protein. It is 433 amino acids long, from amino acid 80 until amino acid number 512. DUF4641 is a part of pfam15483. The domain is proline- and arginine-rich, but DUF4641 has lower levels of isoleucine, tyrosine and threonine compared to other proteins in human (Analysis of Protein Sequences, SAPS ). DUF4641 has an unusual spacing between lysine residues and positive charged amino acids (Analysis of Protein Sequences...

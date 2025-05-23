@@ -1,0 +1,58 @@
+The Angstrom exponent or Ångström exponent or absorption Ångström exponent is a parameter that describes how the optical thickness of an aerosol typically depends on the wavelength of the light.
+
+
+== Definition ==
+In 1929, the Swedish physicist Anders K. Ångström found that the optical thickness of an aerosol depends on the wavelength of light according to the power law
+
+  
+    
+      
+        
+          
+            
+              τ
+              
+                λ
+              
+            
+            
+              τ
+              
+                
+                  λ
+                  
+                    0
+                  
+                
+              
+            
+          
+        
+        =
+        
+          
+            (
+            
+              
+                λ
+                
+                  λ
+                  
+                    0
+                  
+                
+              
+            
+            )
+          
+          
+            −
+            α
+          
+        
+      
+    
+    {\displaystyle {\frac {\tau _{\lambda }}{\tau _{\lambda _{0}}}}=\left({\frac {\lambda }{\lambda _{0}}}\right)^{-\alpha }}
+  
+
+where...

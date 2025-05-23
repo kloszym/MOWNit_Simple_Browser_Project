@@ -1,0 +1,20 @@
+Splicing factor 3B subunit 1 is a protein that in humans is encoded by the SF3B1 gene.
+
+
+== Function ==
+This gene encodes subunit 1 of the splicing factor 3b protein complex. Splicing factor 3b, together with splicing factor 3a and U2 spliceosomal RNA, forms the U2 small nuclear ribonucleoproteins complex (U2 snRNP). The splicing factor 3b/3a complex binds pre-mRNA upstream of the intron's branch site in a sequence independent manner and may anchor the U2 snRNP to the pre-mRNA. Splicing factor 3b is also a component of the minor U12-type spliceosome. The carboxy-terminal two-thirds of subunit 1 have 22 non-identical, tandem HEAT repeats that form rod-like, helical structures. Alternative splicing results in multiple transcript variants encoding different isoforms.
+
+
+== Interactions ==
+SF3B1 has been shown to interact with:
+
+CDC5L,
+DDX42,
+PPP1R8,
+SF3B2,
+SF3B3,
+SF3B6,
+
+
+== Clinical relevance ==
+Mutations in this gene have been recurrently seen in cases of advanced chronic lymphocytic leukemia, myelodysplastic syndromes and breast cancer. SF3B1 mutations are found in the vast majority of myelodysplastic syndrome with ring sideroblasts (MDS-RS) and MDS with ring sideroblasts and thrombocytosis...

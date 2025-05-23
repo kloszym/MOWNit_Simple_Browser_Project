@@ -1,0 +1,29 @@
+K2-66b is a confirmed mega-Earth orbiting the subgiant K2-66, about 520 parsecs (1,700 ly) from Earth in the direction of Aquarius. It is an extremely hot and dense planet heavier than Neptune, but with only about half its radius.
+
+
+== Planet properties ==
+
+
+=== Mass, radius, and temperature ===
+K2-66b is a mega-Earth with radius 2.49 R🜨 and mass 21.3 ME. The planet's temperature is highly variable due to the variability of its host star, and is currently estimated at 1,372 K (1,099 °C; 2,010 °F).
+
+
+=== Orbit ===
+The planet orbits every 5.07 days at 0.06 AU. It orbits within a "photoevaporation desert", where orbiting exoplanets should be very uncommon. K2-66b's orbit is nearly circular.
+
+
+== Star ==
+The star, K2-66 is a G1 sub-giant in Aquarius. It has a sun-like temperature of 5887 K, which corresponds to its spectral class and is very close to that of the rotationally variable star Kepler-130. It has a radius of 1.67 R☉ and a mass of 1.11 M☉.  Its metallicity is −0.047, and its apparent magnitude is 11.71.
+
+
+== See also ==
+Kepler
+Mega-Earth
+K2-56b
+Sub-giant
+G-type main sequence star
+Density
+List of exoplanets discovered in 2017
+List of exoplanets discovered in 2016
+Lava planet
+Stellar evolution...

@@ -1,0 +1,10 @@
+A constant current (steady current, time-independent current, stationary current) is a type of direct current (DC) that does not change its intensity with time. The syntagma stationary current is a contradiction in terms, however in use.
+
+
+== Sources ==
+If the load is constant, a steady current can be obtained via a constant voltage source. If the load is varying, a steady current can be obtained via a constant current supply source. 
+
+
+=== Constant voltage sources ===
+An electrochemical cell is a device capable of either generating electrical energy from chemical reactions or facilitating chemical reactions through the introduction of electrical energy. A common example of an electrochemical cell is a standard 1.5-volt cell meant for consumer use.  This type of device is known as a single Galvanic cell, so an obsolete name for steady current was galvanic current.  A battery consists of two or more cells, connected in either parallel or series pattern.
+A homopolar generator is an electrical generator comprising an electrically conductive disc or cylinder rotating in a plane perpendicular to a uniform static magnetic field. A magnetohydrodynamic generator directly extracts electric power from...

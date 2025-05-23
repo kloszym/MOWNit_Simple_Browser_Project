@@ -1,0 +1,39 @@
+Lai Valley Rural LLG - Kulia 741 is a local-level government (LLG) of Southern Highlands Province, Papua New Guinea.
+
+
+== Wards ==
+01. Topa
+02. Komp
+03. Tugup 1
+04. Kip 1
+05. Kip 2
+06. Tumia
+07. Munihu Station
+08. Maip 1
+09. Kuianda
+10. Soba 1
+11. Soba 2
+12. Nol
+13. Injet
+14. Tubip 2
+15. Kema
+16. Nengia
+17. Imilhoma
+18. Wariba
+19. Marara
+20. Sol
+21. Honda
+22. Monta
+23. Maip 2
+24. Soba
+25. Mariste
+26. Waip
+27. Angoma Mariste
+28. Sombol
+29. Pendia
+
+
+== References ==
+
+OCHA FISS (2018). "Papua New Guinea administrative level 0, 1, 2, and 3 population statistics and gazetteer". Humanitarian Data Exchange. 1.31.9.
+United Nations in Papua New Guinea (2018). "Papua New Guinea Village Coordinates Lookup". Humanitarian Data Exchange. 1.31.9.

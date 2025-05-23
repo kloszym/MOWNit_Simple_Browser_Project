@@ -1,0 +1,81 @@
+In asymptotic analysis, the method of Chester–Friedman–Ursell is a technique to find asymptotic expansions for contour integrals. It was developed as an extension of the steepest descent method for getting uniform asymptotic expansions in the case of coalescing saddle points. The method was published in 1957 by Clive R. Chester, Bernard Friedman and Fritz Ursell.
+
+
+== Method ==
+
+
+=== Setting ===
+We study integrals of the form
+
+  
+    
+      
+        I
+        (
+        α
+        ,
+        N
+        )
+        :=
+        
+          ∫
+          
+            C
+          
+        
+        
+          e
+          
+            −
+            N
+            f
+            (
+            α
+            ,
+            t
+            )
+          
+        
+        g
+        (
+        α
+        ,
+        t
+        )
+        d
+        t
+        ,
+      
+    
+    {\displaystyle I(\alpha ,N):=\int _{C}e^{-Nf(\alpha ,t)}g(\alpha ,t)dt,}
+  
+
+where 
+  
+    
+      
+        C
+      
+    
+    {\displaystyle C}
+  
+ is a contour and
+
+  
+    
+      
+        f
+        ,
+        g
+      
+    
+    {\displaystyle f,g}
+  
+ are two analytic functions in the complex variable 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle...

@@ -1,0 +1,6 @@
+Fuse Energy Technologies Corporation (also known as Fuse) is a U.S. based fusion defense company that provides radiation testing services for national security customers as a path to commercial fusion energy. It builds advanced radiation machines to test the resilience of governments and commercial hardware through short bursts of radiation. Fuse is also developing a fusion generator capable of delivering clean energy. It was founded by JC Btaiche in 2019 and is headquartered in San Leandro, California.
+
+
+== History ==
+In 2019, at 19 years old, JC Btaiche founded Fuse to evaluate various fusion energy approaches.  Fuse ultimately chose to develop an advanced pulsed power machine capable of powering a MagLIF Z-pinch MIF concept.
+In February 2024, Fuse was awarded a contract from the U.S. Air Force to develop new nuclear effects testing options for the military. Fuse conducted a live-fire, six-stage test of the world’s first high-energy, high-power impedance-matched Marx generator (IMG), called “TITAN,” and published experimental results from the machine in Nature Scientific Reports in July 2024. TITAN will serve as Fuse’s pulsed power driver for future fusion generators. In the same year...

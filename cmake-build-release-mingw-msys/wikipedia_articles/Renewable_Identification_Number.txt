@@ -1,0 +1,22 @@
+A Renewable Identification Number (or RIN) is a serial number assigned to a batch of biofuel for the purpose of tracking its production, use, and trading as required by the United States Environmental Protection Agency's Renewable Fuel Standard (RFS) implemented according to the Energy Policy Act of 2005 and the Energy Independence and Security Act of 2007.
+
+
+== RIN components ==
+As defined in the regulation:
+Under RFS2, each batch-RIN generated will continue to uniquely identify not only a specific batch of renewable fuel, but also every gallon-RIN assigned to that batch. Thus the RIN will continue to be defined as follows:
+RIN: KYYYYCCCCFFFFFBBBBBRRDSSSSSSSSEEEEEEEE
+Where:
+
+K = Code distinguishing assigned RINs from separated RINs
+YYYY = Calendar year of production or import
+CCCC = Company ID
+FFFFF = Facility ID
+BBBBB = Batch number
+RR = Code identifying the Equivalence Value
+D = Code identifying the renewable fuel category
+SSSSSSSS = Start of RIN block
+EEEEEEEE = End of RIN block
+
+
+== Authorizing legislation ==
+Under the Energy Policy Act of 2005, the EPA is authorized to set annual quotas dictating what percentage of the total amount of motor fuels consumed in the US must be represented...

@@ -1,0 +1,6 @@
+SH3BP2 (SH3 domain-binding protein 2) is a protein that comes from a gene located on Chromosome 4. It is widely expressed in hematopoietic cells, including: Macrophages, B and T lymphocytes, and osteoclast precursors. SH3BP2 has an N-terminal pleckstrin homology domain to bind differentially to the SH3 domains of certain proteins of signal transduction pathways, as well as a proline-rich domain and a C-terminal Src homology domain. It functions as an adaptor protein involved in signaling pathways, in concert with SRC kinases, SYK, and PLCγ, affecting immune cell activation, inflammatory signaling, and bone metabolism-- it is also associated with cherubism. It binds to phosphatidylinositol, linking the hemopoietic tyrosine kinase fes to the cytoplasmic membrane in a phosphorylation-dependent mechanism.
+
+
+== SH3BP2 Role in Osteoclast Genesis ==
+A gain-of-function mutation in the protein's exon 9 region leads to several common mutations that affect its proline-rich domain, resulting in its hyperactivation. This upregulation of SH3BP2 increases osteoclast formation and activity, causing bone reabsorption and cyst-like lesions in a TNF-α-dependent mechanism. 
+Mutated SH3BP2 can lead to upregulation...

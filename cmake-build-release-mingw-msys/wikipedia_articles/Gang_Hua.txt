@@ -1,0 +1,6 @@
+Gang Hua (Chinese: 华刚; born 1979) is a Chinese-American computer scientist who specializes in the field of computer vision and pattern recognition. He is an IEEE Fellow, IAPR Fellow and ACM Distinguished Scientist. He is a key contributor to Microsoft's Facial Recognition technologies.
+
+
+== Biography ==
+Gang Hua is the Vice President of the Multimodal Experiences Research Lab at Dolby Laboratories. His research focuses on computer vision, pattern recognition, machine learning, robotics, towards general Artificial Intelligence, with primary applications in cloud and edge intelligence, and currently with a focus on new retail intelligence. 
+Before that, he was the Chief Technology Officer of Convenience Bee, and Chief Scientist and Managing Director of its research branch, Wormpex AI Research. He also served in various roles at Microsoft (2015–18) as the science/technical adviser to the CVP of the Computer Vision Group, director of Computer Vision Science Team in Redmond and Taipei ATL, and principal researcher/research manager at Microsoft Research. He was an associate professor in Computer Science at Stevens Institute of Technology (2011–15). During 2014-15, he took an on leave and worked...

@@ -1,0 +1,10 @@
+Cylindrocyclophanes are a class of cyclophane, a group of aromatic hydrocarbons composed of two benzene rings attached in a unique structure.  Cylindrocyclophanes were the first cyclophanes found in nature, isolated from a species of cyanobacteria, and have proven to be an interesting group of compounds to study due to their unusual molecular structure and intriguing biological possibilities, especially its cytotoxicity to some cancer cell lines.
+
+
+== Origin ==
+Before the cylindrocyclophanes, the cyclophanes had all been produced synthetically.  However, when a culture of the cyanobacteria Cylindrospermum lichenforme was being evaluated for antitumor activity, the extract was analyzed for new compounds, and a [7,7] paracyclophane was discovered.  The structure of the cyclophane was determined and cylindrocyclophane A was named.  A related class of compounds, the nostocyclophanes, were discovered during the same study but from another species of cyanobacteria, the Nostoc linckia.  In a later study on the cytotoxicity of cyanobacterial compounds, an additional related class of compounds was discovered, the carbamidocyclophanes, from a Vietnamese species of Nostoc sp.
+
+
+== Structure ==
+
+Cylindrocyclophanes...

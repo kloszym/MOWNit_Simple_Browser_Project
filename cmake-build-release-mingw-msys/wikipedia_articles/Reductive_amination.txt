@@ -1,0 +1,10 @@
+Reductive amination (also known as reductive alkylation) is a form of amination that converts a carbonyl group to an amine via an intermediate imine. The carbonyl group is most commonly a ketone or an aldehyde. It is a common method to make amines and is widely used in green chemistry since it can be done catalytically in one-pot under mild conditions. In biochemistry, dehydrogenase enzymes use reductive amination to produce the amino acid glutamate. Additionally, there is ongoing research on alternative synthesis mechanisms with various metal catalysts which allow the reaction to be less energy taxing, and require milder reaction conditions. Investigation into biocatalysts, such as imine reductases, have allowed for higher selectivity in the reduction of chiral amines which is an important factor in pharmaceutical synthesis.
+
+
+== Reaction process ==
+Reductive amination occurs between a carbonyl such as an aldehyde or ketone and an amine in the presence of a reducing agent. The reaction conditions are neutral or weakly acidic.
+
+
+=== Reaction steps ===
+The nucleophilic amine reacts at the carbon of the carbonyl group to form a hemiaminal species
+reversible loss of one molecule of water from...

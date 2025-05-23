@@ -1,0 +1,11 @@
+Vasculogenesis is the process of blood vessel formation, occurring by a de novo production of endothelial cells. It is the first stage of the formation of the vascular network, closely followed by  angiogenesis. 
+
+
+== Process ==
+In the sense distinguished from angiogenesis, vasculogenesis is different in one aspect: whereas angiogenesis is the formation of new blood vessels from pre-existing ones, vasculogenesis is the formation of new blood vessels, in blood islands, when there are no pre-existing ones. For example, if a monolayer of endothelial cells begins sprouting to form capillaries, angiogenesis is occurring. Vasculogenesis, in contrast, is when endothelial precursor cells (angioblasts) migrate and differentiate in response to local cues (such as growth factors and extracellular matrices) to form new blood vessels. These vascular trees are then pruned and extended through angiogenesis.
+
+
+== Occurrences ==
+
+Vasculogenesis occurs during embryonic development of the circulatory system. Specifically, around blood islands, which first arise in the mesoderm of the yolk sac at 3 weeks of development.
+Vasculogenesis can also arise in the adult organism from circulating endothelial progenitor...

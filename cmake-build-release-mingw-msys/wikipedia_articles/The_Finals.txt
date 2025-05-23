@@ -1,0 +1,7 @@
+The Finals is a free-to-play first-person shooter, developed and published by Embark Studios. The game focuses on team-based matches on maps with a destructible environment, where players are encouraged to use the dynamic environment to their advantage.
+
+
+== Gameplay ==
+
+The Finals revolves around players competing in the titular fictional VR combat game show. This is reflected in the holographic crowds which are seen during gameplay, as well as the commentary provided by the game in the form of The Finals' two hosts making observations about the status of a given team or the game itself. Developer Embark Studios has stated that the game is partly inspired by The Hunger Games and Gladiator (2000).
+Most game modes feature 2, 3, or 4 teams, each competing against each other in a free-for-all competition. The players choose their characters based on a Light, Medium, or Heavy build, with the character model changing to reflect that. Each build has access to a unique arsenal of specializations, weapons, and gadgets. They also each have a different movement speed and health. Light builds are faster and smaller, but have the lowest health in the game. Medium builds are a traditional soldier...

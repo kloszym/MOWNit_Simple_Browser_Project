@@ -1,0 +1,12 @@
+In crystal growth, a Knudsen cell is an  effusion  evaporator source for relatively low partial pressure elementary sources (e.g. Ga, Al, Hg, As). Because it is easy to control the temperature of the evaporating material in Knudsen cells, they are commonly used in molecular-beam epitaxy.
+
+
+== Development ==
+The Knudsen effusion cell was developed by Martin Knudsen (1871–1949). A typical Knudsen cell contains a crucible (made of pyrolytic boron nitride, quartz, tungsten or graphite), heating filaments (often made of metal tantalum), water cooling system, heat shields, and an orifice shutter.
+
+
+== Vapor pressure measurement ==
+The Knudsen cell is used to measure the vapor pressures of a solid with very low vapor pressure. Such a solid forms a vapor at low pressure by sublimation. The vapor slowly effuses through the pinhole, and the loss of mass is proportional to the vapor pressure and can be used to determine this pressure. The heat of sublimation can also be determined by measuring the vapor pressure as a function of temperature, using the Clausius–Clapeyron relation.
+
+
+== References ==

@@ -1,0 +1,22 @@
+The Cheetah MMPV (Medium Mine Protected Vehicle) was a prototype built by the Force Protection, Inc., division of General Dynamics. It was intended as part of Force Protection's armoured military vehicle line-up, which includes the MRAP-class of Buffalo and Cougar vehicles and the Ocelot light protected patrol vehicle (LPPV).
+Its design was based on the South African RG-31 Charger class of light-armored vehicle, intended as a reconnaissance, forward command and control, and urban operations vehicle for homeland security missions.
+No contracts were procured for the Cheetah MMPV, and production ended in 2008 after 13 prototypes had been manufactured.
+
+
+== Specifications ==
+Transfer case: Marmon-Herrington 2 Speed with 4X4 or optional ADM
+Wheels: Hutchinson aluminum two-piece CTIS ready
+Tires: Michelin XZL run flat tires 365/80R20
+Electrical System: 24 V
+Approach angle: 45°
+Departure angle: 45°
+Turning radius: 27’
+Gradient: 60%
+Side Slope: 30%
+Fording Depth: 48"
+Center of Gravity: 35"
+
+
+== Production history ==
+The Cheetah never went into full production.
+In early 2007, Force Protection stated that full production could begin in July 2007, but did not proceed after the May 2007 announcement...

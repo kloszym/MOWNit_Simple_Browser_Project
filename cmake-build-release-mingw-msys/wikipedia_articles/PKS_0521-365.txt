@@ -1,0 +1,5 @@
+PKS 0521-365 is an active galactic nucleus in the southern constellation of Columba. Because of its proximity, the source (BL Lac object) is a strong emitter from radio to gamma frequencies. The object is at a redshift of z = 0.056.
+This object first came of interest when an optical counterpart of a radio source was identified. At higher resolutions, this object was found to display an elliptical profile, suggesting an active elliptical galaxy. Photometric study showed the source varied in brightness by up to a magnitude over monthly periods. The spectrum is nearly continuous with only weak emission lines, suggesting this is a BL Lac object. There is a jet-like structure extending toward the northwest.
+
+
+== References ==

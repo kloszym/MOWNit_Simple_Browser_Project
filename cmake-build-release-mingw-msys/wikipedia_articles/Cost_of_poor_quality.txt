@@ -1,0 +1,16 @@
+Cost of poor quality (COPQ), poor quality costs (PQC), cost of nonquality, Cost of Quality (QOQ), Cost of Current Quality (COCQ) are costs that would disappear if systems, processes, and products were perfect.
+COPQ was popularized by IBM quality expert H. James Harrington in his 1987  book Poor-Quality Cost.
+COPQ is a refinement of the concept of quality costs.  In the 1960s, IBM undertook an effort to study its own quality costs and tailored the concept for its own use.  While Feigenbaum's term "quality costs" is technically accurate, it's easy for the uninitiated to jump to the conclusion that better quality products cost more to produce.  Harrington adopted the name "poor quality costs" to emphasize the belief that investment in detection and prevention of product failures is more than offset by the savings in reductions in product failures.
+Harrington breaks down COPQ into the following elements:
+
+
+== Examples ==
+
+
+== White collar COPQ ==
+Harrington noted that expanding cost analyses to management and clerical workers could also make a significant dent in waste.  He defined the following costs by functional area:
+
+
+== Cost of poor quality by inception point ==
+ 
+The damages of poor quality...

@@ -1,0 +1,14 @@
+Bulgarian Braille is a braille alphabet for writing the Bulgarian language. It is based on the unified international braille conventions, with braille letters approximating their Latin transliteration, and the same punctuation, with the French question mark. In Bulgarian, it is known as Брайлова азбука (Brailova azbuka) "braille alphabet".
+
+
+== Alphabet ==
+Bulgarian is nearly identical to Russian Braille where they overlap. Bulgarian lacks a few Russian letters, and has the additional letter ѝ, which takes the place of Russian й (with Bulgarian й being the mirror image of that).
+
+
+== Punctuation ==
+
+
+== Formatting ==
+
+
+== References ==

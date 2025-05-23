@@ -1,0 +1,17 @@
+Triazines are a class of nitrogen-containing heterocycles.  The parent molecules' molecular formula is C3H3N3.  They exist in three isomeric forms, 1,3,5-triazines being common.
+
+
+== Structure ==
+The triazines have planar six-membered benzene-like ring but with three carbons replaced by nitrogens. The three isomers of triazine are distinguished by the positions of their nitrogen atoms, and are referred to as 1,2,3-triazine, 1,2,4-triazine, and 1,3,5-triazine. 
+Other aromatic nitrogen heterocycles are pyridines with one ring nitrogen atom, diazines with 2 nitrogen atoms in the ring, triazoles with 3 nitrogens in a 5-membered ring, and tetrazines with 4 ring nitrogen atoms.
+
+
+== Uses ==
+
+
+=== Melamine ===
+A well known triazine is melamine (2,4,6-triamino-1,3,5-triazine). With three amino substituents, melamine is a precursor to commercial resins. Guanamines are closely related to melamine, except with one amino substituent replaced by an organic group. This difference is exploited in the use of guanamines to modify the crosslinking density in melamine resins.  Some commercially important guanamines are benzoguanamine and acetoguanamine.
+
+
+=== Cyanuric chloride ===
+Another important triazine is cyanuric...

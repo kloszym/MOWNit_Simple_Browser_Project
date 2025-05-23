@@ -1,0 +1,8 @@
+The DOS MZ executable format is the executable file format used for .EXE files in DOS.
+The file can be identified by the ASCII string "MZ" (hexadecimal: 4D 5A) at the beginning of the file (the "magic number"). "MZ" are the initials of Mark Zbikowski, one of the leading developers of MS-DOS.
+The MZ DOS executable file is newer than the COM executable format and differs from it. The DOS executable header contains relocation information, which allows multiple segments to be loaded at arbitrary memory addresses, and it supports executables larger than 64k; however, the format still requires relatively low memory limits. These limits were later bypassed using DOS extenders.
+
+
+== Segment handling ==
+The environment of an EXE program run by DOS is found in its Program Segment Prefix.
+EXE files normally have separate segments for the code, data, and stack. Program execution begins at address 0 of the code segment, and the stack pointer register is set to whatever value is contained in the header information (thus if the header specifies a 512 byte stack, the stack pointer is set to 200h). It is possible to not use a separate stack segment and simply use the code segment for the stack if desired...

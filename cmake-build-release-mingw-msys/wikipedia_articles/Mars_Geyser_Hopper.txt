@@ -1,0 +1,8 @@
+The Mars Geyser Hopper (MGH) was proposed in 2012 as a NASA design reference mission for a Discovery-class spacecraft concept that would investigate the springtime carbon dioxide Martian geysers found in regions around the south pole of Mars.
+The power technology that MGH proposed to use was the Advanced Stirling radioisotope generator (ASRG). NASA finished the ASRG design and made one test unit of the device but the program was concluded by the mid-2010s. Neither InSight nor any of the next Discovery's semi-finalists use the ASRG or an RTG due to high demand and limited supply of the type of plutonium it relies on.
+
+
+== Background ==
+
+The Discovery program was started in the 1990s following discussions at NASA for a new program, and has achieved such missions as Genesis, Deep Impact and Kepler among others; this is the program this mission was designed for selection in, at least initially.
+One of the first unmanned robotic spacecraft to do a hop was Surveyor 6 lunar lander, which successfully soft landed on the Moon 1967 and conducted a post-landing hop. Another possibly for a hopper mission may be Saturn's moon Enceladus. Hoppers are noted for their ability to potentially visit different...

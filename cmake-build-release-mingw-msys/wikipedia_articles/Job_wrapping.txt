@@ -1,0 +1,6 @@
+Job wrapping is a process by which jobs can be captured from employer website and posted to the job boards that the employer wants to advertise them.
+Corporate recruiters and HR professionals who send job listings to multiple Internet employment sites can sometimes delegate those chores to the employment sites themselves under an arrangement called "job wrapping". Job wrap ensures that employer job openings and updates get wrapped up regularly and posted on the job boards that they have designated.
+The term "job wrapping" is synonymous with "spidering", "scraping", or "mirroring". Job wrapping is generally done by a third party vendor.
+
+
+== References ==

@@ -1,0 +1,9 @@
+Noninvasive follicular thyroid neoplasm with papillary-like nuclear features (NIFTP) is an indolent thyroid tumor that was previously classified as an encapsulated follicular variant of papillary thyroid carcinoma, necessitating a new classification as it was recognized that encapsulated tumors without invasion have an indolent behavior, and may be over-treated if classified as a type of cancer.
+
+
+== Signs and symptoms ==
+The clinical presentation of the patients is identical to other thyroid tumors, where there is usually a painless, asymptomatic, mobile thyroid gland nodule or enlargement. Depending on the size, additional symptoms of hoarseness, difficulty swallowing, or other compression symptoms may be experienced. In nearly all cases, the patients do not have any thyroid hormone dysfunction (hyperthyroidism or hypothyroidism – respectively, excessive or low hormone levels).
+
+
+== Genetics ==
+This tumor shows a very high association with other follicular-pattern tumors, with RAS mutations the most commonly identified. However, PPARγ and THADA gene fusions, and BRAF K601E mutations may be seen on occasion. BRAF V600E mutations and RET gene fusions that are commonly seen in classical...

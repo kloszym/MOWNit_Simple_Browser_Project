@@ -1,0 +1,10 @@
+The Prelude and Fugue in D major, BWV 874, is a keyboard composition by Johann Sebastian Bach. It is the fifth prelude and fugue in the second book of Bach's The Well-Tempered Clavier, a series of 48 preludes and fugues. It was composed between 1739 and 1742.
+
+
+== Prelude ==
+The prelude consists of 56 bars and uses a double time signature of cut time and 128 time, which gives rise to two performance issues: if the dotted quaver and semiquaver pairs should be played at the same time as the triplet quavers (such as in bar 10); where most commentators think they should be, and if the quavers in bar 2 should be played as triplets; where most commentators think they should not be.
+The prelude's structure follows that of sonata form, having a 16-bar exposition, a 24-bar development, and a 16-bar recapitulation. Below are the first 2 bars of the prelude:
+
+
+== Fugue ==
+The fugue is in cut time and consists of 50 bars. Its subject consists of a motif of three quavers and two crotchets repeated twice. It seems similar to a stile antico, though the structure is modern, with expositions and episodes alternating throughout the fugue. Moreover, the structure uses many modulations, including the modulation...

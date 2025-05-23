@@ -1,0 +1,11 @@
+Dedicator of cytokinesis protein 5 (Dock5) is a large (~180 kDa) protein encoded in the human by the DOCK5 gene, involved in intracellular signalling networks. It is a member of the DOCK-A subfamily of the DOCK family of guanine nucleotide exchange factors (GEFs) which function as activators of small G-proteins. Dock5 is predicted to activate the small G protein Rac.
+
+
+== Function ==
+Dock5 shares significant sequence identity with Dock180, the archetypal member of the DOCK family. It is therefore predicted to partake in similar interactions although this has yet to be demonstrated. Indeed, the function and signalling properties of Dock5 are poorly understood thus far. Dock5 has been identified as a crucial signalling protein in osteoclasts, and suppression of Dock5 expression with shRNA has been shown to inhibit survival and differentiation of osteoclast precursor cells. In addition, a mutation in Dock5 has been associated with the rupture of murine lens cataracts. In zebrafish Dock5 has been implicated in myoblast fusion.
+
+
+== References ==
+
+
+== Further reading ==

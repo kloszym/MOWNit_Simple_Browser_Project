@@ -1,0 +1,16 @@
+Glider Rider is an isometric action-adventure game published by Quicksilva in 1986 for the ZX Spectrum, Commodore 64, and Amstrad CPC. The music was composed by David Whittaker.
+
+
+== Plot ==
+The criminal Abraxas Corporation must be destroyed. An agent has been sent to their artificial island to bomb the ten reactors that power their base. To complete the mission he has been given a supply of grenades and a motorcycle capable of transformation into a hang glider.
+
+
+== Gameplay ==
+The player must destroy the reactors on the island by dropping grenades on them. The reactors are defended by laser gun towers which can be temporarily disabled by disrupting their control towers.
+The player's character rides a machine which is a combination motorcycle and hang glider. By driving down a mountainside and suddenly reversing direction, the player can take to the air. He can fly in any direction, or lose height, but cannot climb higher. There are many mountains on the island to help him achieve flight. To destroy a reactor he must fly over it dropping grenades.
+On touching ground the motorcycle is restored. If the player falls in the sea he will be eaten by sharks.
+
+
+== Reception ==
+
+Sinclair User:"....

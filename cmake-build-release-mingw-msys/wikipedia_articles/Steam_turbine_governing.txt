@@ -1,0 +1,8 @@
+Steam turbine governing is the procedure of controlling the flow rate of steam to a steam turbine so as to maintain its speed of rotation as constant. The variation in load during the operation of a steam turbine can have a significant impact on its performance. In a practical situation the load frequently varies from the designed or economic load and thus there always exists a considerable deviation from the desired performance of the turbine. The primary objective in the steam turbine operation is to maintain a constant speed of rotation irrespective of the varying load.  This can be achieved by means of governing in a steam turbine. There are many types of governors.
+
+
+== Overview ==
+Steam turbine governing is the procedure of monitoring and controlling the flow rate of steam into the turbine with the objective of maintaining its speed of rotation as constant. The flow rate of steam is monitored and controlled by interposing valves between the boiler and the turbine. Depending upon the particular method adopted for control of steam flow rate, different types of governing methods are being practiced. The principal methods used for governing are described below.
+
+
+== Throttle governing... ==

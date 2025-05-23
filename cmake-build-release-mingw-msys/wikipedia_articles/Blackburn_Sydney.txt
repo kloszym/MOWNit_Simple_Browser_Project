@@ -1,0 +1,24 @@
+The Blackburn R.B.2 Sydney (serial N241) was a long-range maritime patrol flying boat developed for the Royal Air Force in 1930 in response to Air Ministry Specification R.5/27. It was a parasol-winged braced monoplane with a typical flying boat configuration, featuring triple tailfins and three engines mounted on the wing's leading edge. After evaluation, it was not ordered into production, and no further examples were built.
+With development of the Sydney abandoned, the construction of a cargo-carrying variant powered by radial engines, the C.B.2 Nile, was also discontinued.
+
+
+== Specifications (Sydney) ==
+
+Data from British Flying Boats General characteristics
+Crew: 5
+Length: 65 ft 7 in (19.99 m)
+Wingspan: 100 ft (30 m)
+Height: 20 ft 4 in (6.20 m)
+Wing area: 1,500 sq ft (140 m2)
+Empty weight: 17,065 lb (7,741 kg)
+Gross weight: 23,350 lb (10,591 kg)
+Powerplant: 3 × Rolls-Royce F.XII MS V-12 liquid-cooled piston engines, 525 hp (391 kW)  each
+Propellers: 2-bladed fixed-pitch propellers
+Performance
+
+Maximum speed: 123 mph (198 km/h, 107 kn)
+Cruise speed: 100 mph (160 km/h, 87 kn)
+Endurance: 7 hours 30 minutes
+Service ceiling: 16,300 ft (5,000 m)
+Rate of climb: 390 ft/min (2.0 m/s)
+Armament...

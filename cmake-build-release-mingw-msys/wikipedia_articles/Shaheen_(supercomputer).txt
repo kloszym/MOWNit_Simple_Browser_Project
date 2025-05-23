@@ -1,0 +1,17 @@
+Shaheen is the name of a series of supercomputers owned and operated by King Abdullah University of Science and Technology (KAUST), Saudi Arabia. Shaheen is named after the Peregrine Falcon. The most recent model, Shaheen III, is the largest and most powerful supercomputer in the Middle East.
+
+
+== Shaheen I ==
+The first generation of Shaheen (2009-2015) was an IBM Blue Gene/P. It was originally built at IBM's Thomas J. Watson Research Center in Yorktown Heights, New York, and moved to KAUST in mid-2009. The computer was created by Majid Alghaslan while he was working for King Abdullah University of Science and Technology.
+The first generation of Shaheen included the following functional elements:
+
+16 racks of Blue Gene/P, having a peak performance of 222 Teraflops
+164 IBM IBM System x 3550 Xeon nodes, having a peak performance of 12 Teraflops
+
+
+=== Performance ===
+Shaheen I's performance and computing capabilities included:
+
+65,536 independent processing cores.
+10 Gbit/s access to world's academic and research networks. 
+The file system and Spectra Logic TFinity tape system were mounted across both the Blue Gene system and the Linux cluster. All elements of the system were connected together...

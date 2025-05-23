@@ -1,0 +1,23 @@
+The Guggenmos ESC is a German high-wing, single-place, rigid-wing hang glider that was designed by World Hang Gliding Champion Josef Guggenmos and produced by his company Drachenbau Josef Guggenmos.
+
+
+== Design and development ==
+The ESC was designed as a competition rigid wing glider. The aircraft was built in two sizes, both certified to DHV Class 3. The aircraft underwent a program of continuous improvement and refinement during its production history.
+
+
+== Variants ==
+ESC 2002
+Large size model for heavier pilots, with a 12.1 m (39.7 ft) span wing, nose angle of 143°, wing area of 13.4 m2 (144 sq ft) and an aspect ratio of 11.1:1. The pilot hook-in weight range is 70 to 104 kg (154 to 229 lb). The price was €8155 in 2003.
+ESC C
+Small size model for lighter pilots, with a 11.2 m (36.7 ft) span wing, nose angle of 143°, wing area of 12.1 m2 (130 sq ft) and an aspect ratio of 10.5:1. The pilot hook-in weight range is 66 to 90 kg (146 to 198 lb). The price was €8155 in 2003.
+
+
+== Specifications (ESC 2002) ==
+Data from BertrandGeneral characteristics
+Crew: one
+Wingspan: 12.1 m (39 ft 8 in)
+Wing area: 13.4 m2 (144 sq ft)
+Aspect ratio: 11:1
+
+
+== References ==

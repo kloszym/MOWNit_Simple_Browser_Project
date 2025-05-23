@@ -1,0 +1,50 @@
+In mathematics, the theory of optimal stopping or early stopping is concerned with the problem of choosing a time to take a particular action, in order to maximise an expected reward or minimise an expected cost. Optimal stopping problems can be found in areas of statistics, economics, and mathematical finance (related to the pricing of American options). A key example of an optimal stopping problem is the secretary problem. Optimal stopping problems can often be written in the form of a Bellman equation, and are therefore often solved using dynamic programming.
+
+
+== Definition ==
+
+
+=== Discrete time case ===
+Stopping rule problems are associated with two objects:
+
+A sequence of random variables 
+  
+    
+      
+        
+          X
+          
+            1
+          
+        
+        ,
+        
+          X
+          
+            2
+          
+        
+        ,
+        …
+      
+    
+    {\displaystyle X_{1},X_{2},\ldots }
+  
+, whose joint distribution is something assumed to be known
+A sequence of 'reward' functions 
+  
+    
+      
+        (
+        
+          y
+          
+            i
+          
+        
+        
+          )
+          
+            i
+            ≥
+            1...

@@ -1,0 +1,11 @@
+Banksia subser. Longistyles is a
+valid botanic name for a subseries of Banksia. It was published by Kevin Thiele in 1996, but discarded by Alex George in 1999.
+
+
+== Cladistics ==
+The name came about after a cladistic analysis of Banksia by Thiele and Pauline Ladiges yielded a phylogeny somewhat at odds with the accepted taxonomic arrangement, prompting them to publish a revised arrangement. Their cladogram contained clade a consisting of B. tricuspis (Lesueur banksia) and all of the taxa in George's B. ser. Abietinae, implying that George's B. ser. Abietinae could be rendered monophyletic by transferring B. tricuspis into it. This clade resolved into four subclades, for which Thiele published four corresponding subseries. B. subser. Longistyles was based upon the second subclade:
+
+
+== Taxonomy ==
+B. subser. Longistyles was formally defined as containing those taxa with very long and slender styles, and with smoothly convex perianth limbs without a costal ridge and with thickened margins. The epithet Longistyles is from the Latin longus ("long") and stylus (style).
+Although the nearest outgroup of B. subser. Longistyles was the clade corresponding to B. subser. Nutantes, the subseries was...

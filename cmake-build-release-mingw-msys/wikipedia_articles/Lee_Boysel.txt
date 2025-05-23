@@ -1,0 +1,9 @@
+Lee Boysel (December 31, 1938 – April 25, 2021) was an American electrical engineer and entrepreneur.  While at Fairchild Semiconductor, he developed four-phase logic and built the first integrated circuit with over 100 logic gates, and designed the Fairchild 3800 / 3804 8-bit ALUs. Boysel designed the Four-Phase Systems AL1. He founded Four-Phase Systems to commercialize the technology, and sold the company to Motorola in 1981.
+He was a graduate of the University of Michigan.
+
+
+== Litigation ==
+Texas Instruments claimed to have patented the microprocessor and, in response, Boysel assembled a system in which a single 8-bit AL1 was used as part of a courtroom demonstration computer system, together with ROM, RAM and an input-output device.
+
+
+== References ==

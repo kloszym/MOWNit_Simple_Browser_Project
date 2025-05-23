@@ -1,0 +1,5 @@
+ARINC 826 is a protocol for avionic data loading  over the Controller Area Network (CAN) as internationally standardized in ISO 11898-1.  It allows Loadable Software Aircraft Parts to be loaded in a verifiable and secure manner to avionics Line Replaceable Units (LRUs) and Line Replaceable Modules (LRMs) using CAN.
+Based on a subset of ARINC 615A features (the avionic data loading protocol for data loading over Ethernet), ARINC 826 provides basic features for avionics data loading.
+
+
+== References ==

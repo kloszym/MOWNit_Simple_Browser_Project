@@ -1,0 +1,23 @@
+In enzymology, a dihydropyrimidinase (EC 3.5.2.2) is an enzyme that catalyzes the chemical reaction
+
+5,6-dihydrouracil + H2O 
+  
+    
+      
+        ⇌
+      
+    
+    {\displaystyle \rightleftharpoons }
+  
+ 3-ureidopropanoate
+Thus, the two substrates of this enzyme are 5,6-dihydrouracil and H2O, whereas its product is 3-ureidopropanoate.
+This enzyme belongs to the family of hydrolases, those acting on carbon-nitrogen bonds other than peptide bonds, specifically in cyclic amides.  The systematic name of this enzyme class is 5,6-dihydropyrimidine amidohydrolase. Other names in common use include hydantoinase, hydropyrimidine hydrase, hydantoin peptidase, pyrimidine hydrase, and D-hydantoinase.  This enzyme participates in 3 metabolic pathways: pyrimidine metabolism, beta-alanine metabolism, and pantothenate and coa biosynthesis.
+
+
+== Structural studies ==
+As of late 2007, 10 structures have been solved for this class of enzymes, with PDB accession codes 1GKP, 1GKQ, 1GKR, 1NFG, 1YNY, 2FTW, 2FTY, 2FVK, 2FVM, and 2GSE.
+
+
+== References ==
+
+Brooks KP, Jones EA, Kim BD, Sander EG (1983). "Bovine liver dihydropyrimidine amidohydrolase: purification, properties, and characterization as a zinc metalloenzyme...

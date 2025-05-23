@@ -1,0 +1,8 @@
+Marc J. Rochkind invented the Source Code Control System while working at Bell Labs, as well as writing Advanced UNIX Programming, and founding XVT Software, Inc.
+
+
+== References ==
+
+
+== External links ==
+Marc Rochkind's web site

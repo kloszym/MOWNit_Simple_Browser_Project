@@ -1,0 +1,7 @@
+Talal G. Shamoon is a Silicon Valley executive, computer scientist, entrepreneur, and investor. In 2003 he became the chief executive of Intertrust Technologies Corporation. Starting in 1999, Shamoon has been involved in the development of digital rights management (DRM) technology which was first targeted to copyrights holders such as movie studios, music labels and publishers. He is the chairman of the developer community for the DRM technology Marlin.
+
+
+== Biography ==
+Shamoon worked at the NEC Research Institute Princeton from 1994 to 1997 in the fields of signal processing and computer science.
+Shamoon joined Intertrust Technologies as a researcher in July 1997 where he worked with Robert Tarjan. Since then, he was executive vice president for business development and marketing, and head of Intertrust's initiatives in the entertainment and media sectors. He became CEO in 2003 when Sony and Philips acquired Intertrust and took it private.
+Shamoon was one of the authors of Secure spread spectrum watermarking for multimedia in 2014, a  paper on digital watermarking published in IEEE Transactions on Image Processing (Volume 6, Issue 12). This paper was awarded the Sustained Impact Paper...

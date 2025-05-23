@@ -1,0 +1,31 @@
+In mathematical logic, the lambda calculus (also written as λ-calculus) is a formal system for expressing computation based on function abstraction and application using variable binding and substitution. Untyped lambda calculus, the topic of this article, is a universal machine, a model of computation that can be used to simulate any Turing machine (and vice versa). It was introduced by the mathematician Alonzo Church in the 1930s as part of his research into the foundations of mathematics. In 1936, Church found a formulation which was logically consistent, and documented it in 1940.
+Lambda calculus consists of constructing lambda terms and performing reduction operations on them. A term is defined as any valid lambda calculus expression. In the simplest form of lambda calculus, terms are built using only the following rules:
+
+  
+    
+      
+        x
+      
+    
+    {\textstyle x}
+  
+: A variable is a character or string representing a parameter.
+
+  
+    
+      
+        (
+        λ
+        x
+        .
+        M
+        )
+      
+    
+    {\textstyle (\lambda x.M)}
+  
+: A lambda abstraction is a function definition, taking as input the bound variable 
+  
+    
+      
+        x...

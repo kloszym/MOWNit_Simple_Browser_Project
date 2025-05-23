@@ -1,0 +1,8 @@
+Geohashing  is an outdoor recreational activity inspired by the webcomic xkcd, in which participants have to reach a random location (chosen by a computer algorithm), prove their achievement by taking a picture of a Global Positioning System (GPS) receiver or another mobile device and then tell the story of their trip online. Proof based on non-electronic navigation is also acceptable.
+The geohashing community and culture is extremely tongue-in-cheek, supporting any kind of humorous behavior during the practice of geohashing and resulting in a parody of traditional outdoor activities. Navigating to a random point is sometimes done with a goal in mind. Some geohashers document new mapping features they find on the OpenStreetMap project, clean up litter, or create art to commemorate the trip, among other activities.
+A variation on geocaching, known as geodashing, features a closely comparable principle, with participants racing between coordinate points.
+
+
+== Invention and spread ==
+
+On May 21, 2008, the 426th xkcd comic was published. Titled "Geohashing", it described a way for a computer to create an algorithm that could generate random Global Positioning System (GPS) coordinates each...

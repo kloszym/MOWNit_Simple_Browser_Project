@@ -1,0 +1,76 @@
+The Richardson number (Ri) is named after Lewis Fry Richardson (1881–1953).  It is the dimensionless number that expresses the ratio of the buoyancy term to the flow shear term:
+
+  
+    
+      
+        
+          R
+          i
+        
+        =
+        
+          
+            buoyancy term
+            flow shear term
+          
+        
+        =
+        
+          
+            g
+            ρ
+          
+        
+        
+          
+            
+              ∂
+              ρ
+              
+                /
+              
+              ∂
+              z
+            
+            
+              (
+              ∂
+              u
+              
+                /
+              
+              ∂
+              z
+              
+                )
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {Ri} ={\frac {\text{buoyancy term}}{\text{flow shear term}}}={\frac {g}{\rho }}{\frac {\partial \rho /\partial z}{(\partial u/\partial z)^{2}}}}
+  
+
+where 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+  
+ is gravity, 
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+  
+ is density...

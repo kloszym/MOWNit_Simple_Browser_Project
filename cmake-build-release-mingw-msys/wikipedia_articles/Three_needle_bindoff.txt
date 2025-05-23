@@ -1,0 +1,16 @@
+In knitting, the three needle bindoff is a method of joining two pieces of knitted fabric using three needles. One needle is on each piece of the fabric, and a third needle is used for the knitting.
+The three needle bindoff is useful for joining the front and back pieces of a sweater.
+
+
+== Method ==
+The three needle bindoff is done by lining up the two needles on the fabrics next to one another. The outer sides of the fabric face one another.
+From one piece of fabric, one stitch is moved to the needle holding the other. The third needle is placed under both stitches, second stitch first. A piece of excess yarn is wrapped around, and the stitch is knitted. The resulting stitch remains on the third needle.
+For the next stitch, a stitch from needle B is moved to needle A, and the step is repeated, with the resulting stitch moved to needle C. On needle C, the second stitch is lifted above the first stitch and off the needle.
+This process is repeated until there are no more stitches.
+
+
+== See also ==
+Kitchener stitch
+
+
+== References ==

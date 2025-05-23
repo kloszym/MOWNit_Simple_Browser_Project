@@ -1,0 +1,12 @@
+Jürg Gutknecht (born 3 January 1949) is a Swiss computer scientist. He developed, with Niklaus Wirth, the programming language Oberon and the corresponding operating system Oberon.
+
+
+== Biography ==
+Jürg Gutknecht was born in Bülach. He was full professor in the computer science department at the Eidgenössische Technische Hochschule (ETH Zurich) until April 2014.
+From 1967 to 1970, he was a member of the real-time computing system programming group at Swissair. Then he studied mathematics at the ETH and worked in parallel at International Business Machines (IBM) as a student employee. In 1978, he received his Doctor of Philosophy (Ph.D.) in mathematics. He joined Niklaus Wirth's research team in 1981, working on the Lilith computer and Modula-2. After a sabbatical at PARC in 1984–1985, he developed, conjointly with Wirth, the Oberon operating system based on the Oberon language. With Peter Schweri, he developed the system Sakkara for the purpose of writing partiturs of typical constructive Peter-Schweri-art compositions for presentation on computer and internet. In 2013, Gutknecht released another Oberon-style programming language, named Zonnon.
+
+
+== Publications ==
+
+
+== External links... ==

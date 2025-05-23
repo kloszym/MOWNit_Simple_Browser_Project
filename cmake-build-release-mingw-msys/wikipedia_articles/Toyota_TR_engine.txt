@@ -1,0 +1,23 @@
+The Toyota TR engine is a family of gasoline engines that appeared in 2004. They are mainly used for Toyota Hilux and other vehicles in the Toyota IMV platform; and are designed to be mounted longitudinally for pickup RWD and 4WD pickup applications.
+
+
+== 1TR-FE ==
+
+The 1TR-FE is a 2.0 L (1,998 cc) Straight-4 gasoline engine. It features DOHC, 16 valves and VVT-i. Bore and stroke is 86 mm × 86 mm (3.39 in × 3.39 in). Its power is 100 kW (134 hp; 136 PS) at 5,600 rpm, and 18.6 kg⋅m (182 N⋅m; 135 lbf⋅ft) of torque at 4,000 rpm with redline of 6000 rpm.
+Just like its sister, the 2TR-FE engine, the 1TR-FE engine also received a Dual VVT-i update. The updated power is 102 kW (137 hp; 139 PS) at 5,600 rpm.
+
+Applications
+Toyota Dyna Y200 (2003–present)
+Toyota HiAce H100/200 (2003–present)
+Toyota RegiusAce H100/200 (2003–2020)
+Toyota ToyoAce Y200 (2003–2020)
+Toyota Innova AN40/140 (2004–2022)
+Toyota Hilux AN10/110 (2004–present)
+Toyota Comfort TSS13Y (2007–2009, 2011–2017)
+Toyota Hilux Champ (2023–present)
+Hino Dutro
+Mazda Bongo Brawny H200 (2019–present)
+
+
+== 1TR-FPE ==
+The 1TR-FPE is an LPG version of the 1TR-FE engine. Its power is 85 kW (114 hp; 116 PS) at 4,800 rpm and torque is 19.3 kg⋅m...

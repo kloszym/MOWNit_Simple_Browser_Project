@@ -1,0 +1,13 @@
+This is a list of electricity-generating power stations in Northern Ireland, sorted by type and name, with installed capacity (May 2011).
+Note that the Digest of United Kingdom energy statistics (DUKES) maintains a comprehensive list of United Kingdom power stations, accessible through the Department of Energy and Climate Change here.
+A red background denotes a power station that is no longer operational.
+
+
+== List ==
+
+*Joint venture with Scottish and Southern Energy
+
+
+== Tidal power ==
+Northern Ireland was home to the world's first commercially viable tidal stream generator. Trials were begun in Scotland, then in England, before Marine Current Turbines installed the thousand-tonne SeaGen turbine at the mouth of Strangford Lough. The lough was chosen because it has one of the fastest tidal flows in the world. The installation went live and was connected to the grid in mid-December 2008, injecting an extra 1.2 megawatts of electricity.
+The turbine was scheduled to produce power for five years, though Marine Current Turbines were reported to have asked for an extension beyond their 2013 contract. By March 2010, the turbine had passed an operating time of over 1,000 hours - a first for any...

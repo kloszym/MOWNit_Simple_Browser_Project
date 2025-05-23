@@ -1,0 +1,24 @@
+Photon Paint is a Hold-And-Modify (HAM) based bitmap graphics editor for the Amiga, first released in 1987. Photon Paint was the first bitmap graphics editor to incorporate 3D solid modeling and texture mapping as an integral part of the program.
+Photon Paint was programmed by Oren Peli, Eyal Ofek, and Amir Zbeda at Bazbosoft, an Israeli software house. It was published by MicroIllusions distributed worldwide.
+The program sold 250,000 copies and received a best of breed award from Amiga World magazine.
+
+
+== Releases ==
+The original Photon Paint v1.0 was released in 1987 for the Amiga. A Macintosh version was released in 1988 by Mediagenic.
+Photon Paint v2.0 for the Amiga was released in 1988.
+
+
+== See also ==
+
+Deluxe Paint
+Brilliance
+List of raster graphics editors
+Comparison of raster graphics editors
+
+
+== References ==
+
+
+=== Other sources ===
+Macworld. 1988. Retrieved 2013-08-23.
+Verbum. 1987. Retrieved 2013-08-23.

@@ -1,0 +1,11 @@
+As shown in the table below, GTK has a range of bindings for various languages that implement some or all of its feature set. GTK 2 is no longer supported, meaning some languages below do not have current GTK support.
+
+GObject (GOB) was initially written as a central component of GTK, but outsourced into GLib.
+GObject Introspection is a middleware layer between C libraries (using GObject) and language bindings, e.g. PyGObject uses this, while PyGTK does not.
+Official GNOME Bindings follow the GNOME release schedule which guarantees API stability and time-based releases.
+Glade Interface Designer
+
+
+== Gtk# ==
+Gtk# is a set of .NET Framework bindings for the GTK graphical user interface (GUI) toolkit and assorted GNOME libraries. The library facilitates building graphical GNOME applications using Mono or any other compliant Common Language Runtime (CLR). Gtk# is an event-driven system like any other modern windowing library where every widget allows associating handler methods, which get called when certain events occur.
+Applications built using Gtk# will run on many platforms including Linux, Windows and macOS. The Mono packages for Windows include GTK, Gtk# and a native theme to make applications...

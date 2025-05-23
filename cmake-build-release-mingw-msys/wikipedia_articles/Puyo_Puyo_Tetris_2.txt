@@ -1,0 +1,7 @@
+Puyo Puyo Tetris 2 is a puzzle video game developed and published by Sega. It is an installment in the Puyo Puyo series and a direct sequel to Puyo Puyo Tetris. The game was released for Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One, and Xbox Series X/S on December 8, 2020 with a Windows version released on March 21, 2021. A version for Nintendo Switch 2, titled Puyo Puyo Tetris 2S, is scheduled for release on June 5, 2025. The game was released to generally positive reviews.
+This game is notable for being the first Puyo Puyo game that allowed players outside of Japan to compete in Sega's esport events.
+
+
+== Gameplay ==
+
+Like the previous game, Puyo Puyo Tetris 2 revolves around the two different gameplay styles of the Puyo Puyo and Tetris series respectively. Players can choose between Puyo style, which involves arranging colored blobs (puyos) and matching them together to set off combo chains, and Tetris style, which involves placing shaped blocks (tetriminos) to create lines and removing them from the grid. Players compete against each other with the style of their choosing, with the aim of sending garbage to their opponents, causing their play field to overflow and eliminating...

@@ -1,0 +1,38 @@
+This is a partial list of expansion bus interfaces, or expansion card slots, for installation of expansion cards.
+
+
+== Bus interfaces ==
+
+	Bus interfaces
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+== See also ==
+
+List of interface bit rates
+
+
+== References ==

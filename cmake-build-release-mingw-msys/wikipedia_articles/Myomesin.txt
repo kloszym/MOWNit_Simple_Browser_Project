@@ -1,0 +1,9 @@
+Myomesin is a protein family found in the M-line of the sarcomere structure. Myomesin has various forms throughout the body in striated muscles with specialized functions. This includes both slow and fast muscle fibers. Myomesin are made of 13 domains including a unique N-terminal followed by two immunoglobulin-like (Ig) domains, five fibronectin type III (Fn) domains, five more Ig domains. These domains all promote binding which indicates that myomesin is regulated through binding.
+
+
+== Functions ==
+
+
+=== Sarcomere structure ===
+
+Myomesin plays an important role in the structure of sarcomeres. They are found in the M-band region of the sarcomere, between the thick filaments (myosin). Its main purpose in this setting is to provide structural integrity by linking the antiparallel myosin fibers and titin filaments which are connected to the Z-discs. These myosin filaments form a hexagonal lattice with titin and myomesin. This shape allows the M-band to withstand large conformational changes during muscle contraction and return to their original shape upon relaxation. Since the Z-disc region of the sarcomere is very stiff and unable to bend for contraction, the elastic activity of myomesin in...

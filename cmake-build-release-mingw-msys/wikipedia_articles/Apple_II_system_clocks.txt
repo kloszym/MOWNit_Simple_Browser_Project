@@ -1,0 +1,6 @@
+Apple II system clocks, also known as real-time clocks, were devices in the early years of microcomputing. A clock/calendar did not become standard in the Apple II line of computers until 1986 with the introduction of the Apple IIGS. Although many productivity programs as well as the ProDOS operating system implemented time and date functions, users would have to manually enter this information every time they turned the computer on. Power users often had their Apple II's peripheral slots completely filled with expansion cards, so third party vendors came up with alternative approaches with products like the Serial Pro and No-Slot Clock.
+
+
+== No-Slot Clock (Dallas Semiconductor) ==
+The No-Slot Clock, also known as the Dallas Smartwatch (DS1216E), was a 28-pin chip-like device that could be used directly in any Apple II or Apple II compatible with a 28-pin ROM. Dallas Semiconductor produced the device as an easy implementation for a real-time clock for a variety of applications. The clock was powered by an embedded lithium battery, electrically disconnected until power was first applied to retain freshness. The non-replaceable battery had a life expectancy of 10 years.
+In an Apple II,...

@@ -1,0 +1,6 @@
+In-Cell Charge Control or I-C3 is a method for very rapid charging of a Nickel-metal hydride battery, patented by Rayovac. Batteries using this technology are commonly sold as "15-minute rechargeables".
+The charge control consists of a pressure switch built into the cell, which disconnects the charging current when the internal cell pressure rises above a certain limit; usually 200 pounds per square inch (1.4 MPa) to 300 pounds per square inch (2.1 MPa). This prevents overcharging and damage to the cell.
+
+
+== Sources ==
+U.S. patent 6,878,481

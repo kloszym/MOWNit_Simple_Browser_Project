@@ -1,0 +1,10 @@
+A-004 was the sixth and final test of the Apollo launch escape vehicle and the first flight of a Block I production-type Apollo Command/Service Module.
+
+
+== Objectives ==
+Mission A-004 was uncrewed and was conducted to demonstrate that 
+
+The launch escape vehicle would satisfactorily orient and stabilize itself in the proper attitude after being subjected to a high rate of tumbling during the powered phase of an abort
+The escape vehicle would maintain its structural integrity under test conditions in which the command module structure was loaded to the design limit.
+The launch vehicle was the fifth and final Little Joe II flown. The propulsion system consisted of four Algol and five Recruit rocket motors. The attitude control system was similar to the one used on mission A-003 except that the reaction control system was deleted and the vehicle was provided with the capability of responding to a radio-transmitted pitch up command. The 
+pitch up maneuver was required to help initiate tumbling of the launch vehicle. The spacecraft for this mission consisted of a modified Block I command and service module (Block I production model 002), and a modified Block I launch escape system (airframe...

@@ -1,0 +1,12 @@
+Gamma-sarcoglycan is a protein that in humans is encoded by the SGCG gene. The α to δ-sarcoglycans are expressed predominantly (β) or exclusively (α, γ and δ) in striated muscle. A mutation in any of the sarcoglycan genes may lead to a secondary deficiency of the other sarcoglycan proteins, presumably due to destabilisation of the sarcoglycan complex.  The disease-causing mutations in the α to δ genes cause disruptions within the dystrophin-associated protein (DAP) complex in the muscle cell membrane. The transmembrane components of the DAP complex link the cytoskeleton to the extracellular matrix in adult muscle fibres, and are essential for the preservation of the integrity of the muscle cell membrane.
+
+
+== Function ==
+Gamma-sarcoglycan is one of several sarcolemmal transmembrane glycoproteins that interact with dystrophin, probably to provide a link between the membrane associated cytoskeleton and the extracellular matrix.  Defects in the protein can lead to early onset autosomal recessive muscular dystrophy, in particular limb-girdle muscular dystrophy, type 2C (LGMD2C).
+
+
+== Structure ==
+
+
+=== Gene ===
+Human SGCG gene maps to chromosome 13 at q12, spans over 100 kb of DNA and includes...

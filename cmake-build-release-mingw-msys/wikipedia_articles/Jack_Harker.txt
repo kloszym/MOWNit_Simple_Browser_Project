@@ -1,0 +1,10 @@
+John Mason "Jack" Harker (June 29, 1926 – April 27, 2013) was an inventor, mechanical engineer, and product and program manager who pioneered development of disk storage systems. Starting as a member of the original team that developed the first disk storage system, he went on to develop IBM Direct Access Storage products for the next 35 years. Over that time, Harker was twice director of the IBM San Jose Storage Laboratories, an IBM Fellow, and an IEEE Fellow. He retired from IBM in 1987 and died in 2013.
+
+
+== Early years ==
+Jack Harker was born in San Francisco in 1926 and during World War II enlisted in the navy, becoming an electronics repair specialist, serving on board in both the Atlantic and Pacific. He received his BA in mechanical engineering from Swarthmore in 1950 and master's degree in mechanical engineering from University of California Berkeley in 1952. In 1962 he received a master's degree in electrical engineering from Stanford University.
+
+
+== IBM career ==
+
+Harker advanced through a series of positions at IBM to become the IBM San Jose Laboratory Director in 1972. He is best known  for his leadership of the 1311 Disk File project, but he considered the 1350/1360 (Cypress...

@@ -1,0 +1,6 @@
+In mathematics, Hurwitz's automorphisms theorem bounds the order of the group of automorphisms, via orientation-preserving conformal mappings, of a compact Riemann surface of genus g > 1, stating that the number of such automorphisms cannot exceed 84(g − 1). A group for which the maximum is achieved is called a Hurwitz group, and the corresponding Riemann surface a Hurwitz surface. Because compact Riemann surfaces are synonymous with non-singular complex projective algebraic curves, a Hurwitz surface can also be called a Hurwitz curve. The theorem is named after Adolf Hurwitz, who proved it in (Hurwitz 1893).
+Hurwitz's bound also holds for algebraic curves over a field of characteristic 0, and over fields of positive characteristic p > 0 for groups whose order is coprime to p, but can fail over fields of positive characteristic p > 0 when p divides the group order. For example,  the double cover of the projective line y2 = xp − x branched at all points defined over the prime field has genus g = (p − 1)/2 but is acted on by the group PGL2(p) of  order p3 − p.
+
+
+== Interpretation in terms of hyperbolicity ==
+One of the fundamental themes in differential geometry is a trichotomy between...

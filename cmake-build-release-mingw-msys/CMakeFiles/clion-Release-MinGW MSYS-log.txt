@@ -1,0 +1,25 @@
+D:\MSys\mingw64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Release -DCMAKE_MAKE_PROGRAM=D:/MSys/mingw64/bin/mingw32-make.exe -DCMAKE_C_COMPILER=D:/MSys/mingw64/bin/gcc.exe -DCMAKE_CXX_COMPILER=D:/MSys/mingw64/bin/g++.exe -G "MinGW Makefiles" -S D:\Mownit\Browser -B D:\Mownit\Browser\cmake-build-release-mingw-msys
+-- The CXX compiler identification is GNU 15.1.0
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: D:/MSys/mingw64/bin/g++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- Performing Test HAVE_STDATOMIC
+-- Performing Test HAVE_STDATOMIC - Success
+-- Found WrapAtomic: TRUE
+-- Found WrapVulkanHeaders: D:/MSys/mingw64/include
+-- Found Eigen3: D:/MSys/mingw64/include/eigen3 (Required is at least version "2.91.0")
+-- Found CURL: D:/MSys/mingw64/lib/cmake/CURL/CURLConfig.cmake (found version "8.13.0")
+-- Configuring done (22.3s)
+-- Generating done (0.5s)
+CMake Warning:
+  Manually-specified variables were not used by the project:
+
+    CMAKE_C_COMPILER
+
+
+-- Build files have been written to: D:/Mownit/Browser/cmake-build-release-mingw-msys

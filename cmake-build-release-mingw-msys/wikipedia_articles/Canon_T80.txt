@@ -1,0 +1,10 @@
+The Canon T80 is Canon's first autofocus 35mm single-lens reflex camera. It was introduced in April 1985 and discontinued in June 1986 and is part of the T series of FD mount cameras. It is not compatible with Canon's later EOS system and its autofocus EF-mount lenses. Three special lenses, designated AC, were produced specifically for the camera.  Other FD-mount lenses can also be used, but without autofocus capabilities.
+
+
+== Autofocus ==
+The autofocus system in the T80 works in the same manner as the focus assist system built into the earlier AL-1.  A linear CCD is used to detect contrast in the focus area.  When this area has the maximum contrast, the lens is in focus.  This is a similar mechanism to that used in compact digital cameras.  When a manual focus lens is used, the camera provides focus assistance in exactly the same manner as the AL-1.
+The autofocus lenses contain a motor, and electrical contacts in the lens mount connect this motor to the camera's circuits.
+
+
+== Auto exposure and scene modes ==
+Except for its autofocus capability, the T80 is very similar to the earlier T70, with four programmed scene modes in addition to regular Program auto-exposure (AE).  These are:...

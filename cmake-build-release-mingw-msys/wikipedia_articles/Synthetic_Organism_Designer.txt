@@ -1,0 +1,4 @@
+Synthetic Organism Designer is a piece of software created by Craig Venter's team for designing organisms.
+
+
+== References ==

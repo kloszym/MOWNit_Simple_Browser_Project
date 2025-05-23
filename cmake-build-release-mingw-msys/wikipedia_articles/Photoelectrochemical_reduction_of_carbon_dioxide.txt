@@ -1,0 +1,6 @@
+Photoelectrochemical reduction of carbon dioxide, also known as photoelectrolysis of carbon dioxide, is a chemical process whereby carbon dioxide is reduced to carbon monoxide or hydrocarbons by the energy of incident light. This process requires catalysts, most of which are semiconducting materials. The feasibility of this chemical reaction was first theorised by Giacomo Luigi Ciamician, an Italian photochemist. Already in 1912 he stated that "[b]y using suitable catalyzers, it should be possible to transform the mixture of water and carbon dioxide into oxygen and methane, or to cause other endo-energetic processes." 
+Furthermore, the reduced species may prove to be a valuable feedstock for other processes. If the incident light utilized is solar then this process also potentially represents energy routes which combine renewable energy with CO2 reduction.
+
+
+== Thermodynamics ==
+Thermodynamic potentials for the reduction of CO2 to various products is given in the following table versus NHE at pH = 7. Single electron reduction of CO2 to CO2●− radical occurs at E° = −1.90 V versus NHE at pH = 7 in an aqueous solution at 25 °C under 1 atm gas pressure. The reason behind the high negative...

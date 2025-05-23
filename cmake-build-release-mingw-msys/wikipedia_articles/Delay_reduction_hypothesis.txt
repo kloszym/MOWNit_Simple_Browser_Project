@@ -1,0 +1,25 @@
+In operant conditioning, the delay reduction hypothesis (DRH; also known as delay reduction theory) is a quantitative description of how choice among concurrently available chained schedules of reinforcement is allocated. The hypothesis states that the greater improvement in temporal proximity to reinforcement (delay reduction) correlated with the onset of a stimulus, the more effectively that stimulus will function as a conditional reinforcer.
+The hypothesis was originally formulated to describe choice behaviour among concurrently available chained schedules of reinforcement; however, the basic principle of delay reduction 
+  
+    
+      
+        (
+        T
+        −
+        
+          t
+          
+            x
+          
+        
+        )
+      
+    
+    {\displaystyle (T-t_{x})}
+  
+ as the basis for determining a stimulus’ conditionally reinforcing function can be applied more generally to other research areas.
+A variety of empirical data corroborate and are consistent with DRH and it represents one of the most substantiated accounts of conditional reinforcement to date.
+
+
+== Application to Concurrent Chain Schedules ==
+Given two concurrently available chained schedules of reinforcement...

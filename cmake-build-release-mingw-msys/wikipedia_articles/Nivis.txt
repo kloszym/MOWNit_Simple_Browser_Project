@@ -1,0 +1,7 @@
+Nivis, LLC is a company that designs and manufactures wireless sensor networks for smart grid and industrial process automation. Target applications include process monitoring, environmental monitoring, power management, security, and the internet of things. The company is headquartered in Atlanta, Georgia, with additional offices in Romania, where much of its technology is developed. The company's product portfolio consists of standards-based wireless communications systems, including radio nodes, routers, management software and a software stack for native communications. Nivis hardware is operated by open source software.
+
+
+== Company history ==
+Nivis was founded in 1998 and purchased in 1999 by the Lupton Group / Lyndhurst Foundation, a Chattanooga, Tennessee based foundation formed by Cartter Lupton who was the son of John Thomas Lupton.
+Nivis deployed its first product, a 900MHz proprietary mesh network for environmental monitoring, in 2002.  This system consisted of gateways connected in a mesh network communicating over satellite/GPRS with a Network Operations Center in Atlanta, Georgia.
+Between 2003 and 2006, Nivis deployed 900 MHz Frequency-Hopping Spread Spectrum (FHSS) proprietary...

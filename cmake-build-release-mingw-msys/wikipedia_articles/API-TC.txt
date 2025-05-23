@@ -1,0 +1,6 @@
+API TC is a certification for two-stroke oils, awarded by the American Petroleum Institute. It is given after the product passes through stringent tests that determine the level of detergent performance, dispersion, and anti-oxidation. It is the only remaining, not revoked classification of the API Two-Cycle motor oil specifications (TA, TB, TC, TD). Being a very old standard itself, most currently produced 2T lubricants meet its specifications, even the lowest quality ones; current high-quality oils exceed them (often labeled "API TC+" although not based on actual measurements).
+The more current JASO M345 or the international ISO two-cycle oil specifications are much better indicators of oil quality, with requirements based on modern two-stroke engines and environmental policies. API-TC has been removed from the API website.
+A higher grade, TD, was considered similar to the National Marine Manufacturers association (NMMA) "TC-W" (water-cooled outboard engine) grade. The NMMA has now replaced this specification with the higher TC-W3 standard.
+
+
+== References ==

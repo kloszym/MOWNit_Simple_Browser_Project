@@ -1,0 +1,11 @@
+Powerdot is a LaTeX class for making professional-looking presentation slides. It can be considered an alternative to the class Beamer.
+This class is based on the prosper class and HA-prosper package and was created with the intention to replace prosper and HA-prosper.
+
+
+== References ==
+
+
+== External links ==
+
+powerdot
+tutorial

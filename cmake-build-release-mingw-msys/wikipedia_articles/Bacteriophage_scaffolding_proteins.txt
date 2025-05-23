@@ -1,0 +1,5 @@
+In molecular biology, bacteriophage scaffolding proteins are proteins involved in bacteriophage assembly.
+The assembly of a macromolecular structure proceeds via a specific pathway of ordered events and involves conformational changes in the proteins as they join the assembly. The assembly process is aided by scaffolding proteins, which act as chaperones. In bacteriophage, scaffolding proteins B and D are responsible for procapsid formation. 240 copies of protein D form the external scaffold, while 60 copies of protein B form the internal scaffold. The role of scaffolding protein D is in the production of viral single-stranded RNA.
+
+
+== References ==

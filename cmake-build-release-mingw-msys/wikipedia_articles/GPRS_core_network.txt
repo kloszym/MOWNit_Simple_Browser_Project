@@ -1,0 +1,8 @@
+The GPRS core network is the central part of the general packet radio service (GPRS) which allows 2G, 3G and WCDMA mobile networks to transmit Internet Protocol (IP) packets to external networks such as the Internet.  The GPRS system is an integrated part of the GSM network switching subsystem.
+The network provides mobility management, session management and transport for IP packet services in GSM and WCDMA networks.  The core network also provides support for other functions such as billing and lawful interception.  It was also proposed, at one stage, to support packet radio services in the US D-AMPS TDMA system, however, in practice, all of these networks have been converted to GSM so this option has become irrelevant.
+PRS module is an open standards driven system. The standardization body is the 3GPP.
+
+
+== GPRS tunnelling protocol (GTP) ==
+
+GPRS Tunnelling Protocol is the defining IP-based protocol of the GPRS core network.  Primarily it is the protocol which allows end users of a GSM or WCDMA network to move from place to place while continuing to connect to the Internet as if from one location at the Gateway GPRS support node (GGSN).  It does this by carrying the subscriber's data...

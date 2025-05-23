@@ -1,0 +1,1 @@
+-I"D:/Cpp/Libraries/spectra-1.1.0/include" -ID:/Mownit/Browser/Eigen3::Eigen -isystem D:/MSys/mingw64/include/eigen3 -isystem D:/MSys/mingw64/include/qt6/QtCore -isystem D:/MSys/mingw64/include/qt6 -isystem "D:/MSys/mingw64/share/qt6/mkspecs/win32-g++"

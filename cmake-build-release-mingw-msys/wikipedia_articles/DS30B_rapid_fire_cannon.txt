@@ -1,0 +1,36 @@
+The DS30B rapid-fire cannon is a 30mm Oerlikon stabilized, ship-protection system created by MSI-Defence Systems and controlled by a single operator.
+
+
+== Description ==
+The DS30B system consists of a marinized, stabilized gun mount which accommodates the Oerlikon KCB 30mm cannon. The DS30B is the predecessor to the 30mm DS30M Mark 2 Automated Small Calibre Gun, which mounts a 30mm Mark 44 Bushmaster II.
+
+
+== Operators ==
+
+ Australia
+
+Used by the Royal Australian Navy to equip Huon-class minehunters
+ Indonesia
+
+Used by the Indonesian Navy to equip Bung Tomo-class corvettes
+ Lithuania
+
+Used by the Lithuanian Naval Force to equip the LNS Skalvis and LNS Kuršis minehunters.
+ Malaysia
+
+Used by Royal Malaysian Navy to equip the following ships:
+Lekiu-class frigate
+Kasturi-class corvette
+Gagah Samudera-class training ship
+ United Kingdom
+
+The Royal Navy uses the system to equip the following ships:
+Type 45 destroyer
+Sandown-class minehunter
+Hunt-class minehunter
+Wave-class tanker
+Bay-class landing ship dock
+Tide-class tanker
+
+
+== References ==

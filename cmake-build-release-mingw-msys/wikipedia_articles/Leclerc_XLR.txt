@@ -1,0 +1,6 @@
+The Leclerc XLR is a French fourth-generation main battle tank (MBT) developed and manufactured by the KNDS France. It is a modernization of the third-generation Leclerc tank with the addition of a turret-mounted remotely-operated 7.62mm caliber machine gun manufactured by Belgian company FN Herstal, additional modular armour on the turret and hull, and rear wire cage armour to protect the engine compartment against rocket propelled grenades.
+The components that mark this tank as fourth-generation are mostly electronic: networked architecture allowing an interface between the Thales tactical radio system, the NBC protection system, night vision equipment and the Atos-brand SCORPION Information and Command System (SICS) and associated display screens. The upgraded Leclerc comes with a counter-IED jammer, new man-machine interfaces for commander and gunner, redesigned main system computers, and a battle health monitoring system. The inertial navigation system and GPS navigation system are fused.
+
+
+== History ==
+The fourth-generation upgrade of 200 Leclercs was announced in March 2015, with the first two XLR prototypes planned for 2018 and the remaining 198 slated for completion over eight...

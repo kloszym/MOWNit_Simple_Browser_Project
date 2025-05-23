@@ -1,0 +1,48 @@
+Bayesian knowledge tracing is an algorithm used in many intelligent tutoring systems to model each learner's mastery of the knowledge being tutored.
+It models student knowledge in a hidden Markov model as a latent variable, updated by observing the correctness of each student's interaction in which they apply the skill in question.
+BKT assumes that student knowledge is represented as a set of binary variables, one per skill, where the skill is either mastered
+by the student or not. Observations in BKT are also binary: a student gets a problem/step either right or wrong.
+Intelligent tutoring systems often use BKT for mastery learning and problem sequencing. In its most common
+implementation, BKT has only skill-specific parameters.
+
+
+== Method ==
+There are four model parameters used in BKT:
+
+  
+    
+      
+        p
+        (
+        
+          L
+          
+            0
+          
+        
+        )
+      
+    
+    {\displaystyle p(L_{0})}
+  
+ or 
+  
+    
+      
+        p
+        
+          -init
+        
+      
+    
+    {\displaystyle p{\text{-init}}}
+  
+, the probability of the student knowing the skill beforehand.
+
+  
+    
+      
+        p
+        (
+        T
+        )...

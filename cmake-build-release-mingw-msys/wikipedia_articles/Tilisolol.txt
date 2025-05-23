@@ -1,0 +1,9 @@
+Tilisolol (INN, trade name Selecal) is a beta blocker.
+
+
+== Synthesis ==
+
+The methanolysis of Phthalic anhydride [85-44-9] (1) gives Methyl hydrogen phthalate [4376-18-5] (2). Schotten-Baumann amidation with Methyl sarcosinate [5473-12-1] (3) gives Methyl 2-[(2-methoxy-2-oxoethyl)-methylcarbamoyl]benzoate, PC11644670 (4). Intramolecular lactamization with sodium methoxide afforded  Methyl 4-hydroxy-2-methyl-1-oxoisoquinoline-3-carboxylate, PC54684295 (5). In lye saponification followed by decarboxylation occurred to give 4-hydroxy-2-methylisoquinolin-1(2H)-one [30236-50-1] (6). Treatment with Epichlorhydrin [106-89-8] (7) in the presence of base led to 2-Methyl-4-[(oxiran-2-yl)methoxy]isoquinolin-1(2H)-one [62775-08-0] (8). Opening of the oxirane ring with tert-Butylamine [75-64-9] (9) completed the synthesis of Tilisolol (10).
+
+
+== References ==

@@ -1,0 +1,12 @@
+OMS (aka TeX math symbol) is a 7-bit TeX encoding developed by Donald E. Knuth. It encodes mathematical symbols with variable sizes like for capital Pi notation, brackets, braces and radicals.
+
+
+== Character set ==
+
+
+== See also ==
+OML encoding
+OT1 encoding
+
+
+== References ==

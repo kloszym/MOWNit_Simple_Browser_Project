@@ -1,0 +1,6 @@
+Packing problems are a class of optimization problems in mathematics that involve attempting to pack objects together into containers. The goal is to either pack a single container as densely as possible or pack all objects using as few containers as possible. Many of these problems can be related to real-life packaging, storage and transportation issues. Each packing problem has a dual covering problem, which asks how many of the same objects are required to completely cover every region of the container, where objects are allowed to overlap.
+In a bin packing problem, people are given:
+
+A container, usually a two- or three-dimensional convex region, possibly of infinite size. Multiple containers may be given depending on the problem.
+A set of objects, some or all of which must be packed into one or more containers. The set may contain different objects with their sizes specified, or a single object of a fixed dimension that can be used repeatedly.
+Usually the packing must be without overlaps between goods and other goods or the container walls. In some variants, the aim is to find the configuration that packs a single container with the maximal packing density. More commonly, the aim...

@@ -1,0 +1,8 @@
+ThetaRay is a fintech software and big data analytics company with headquarters in Hod HaSharon, Israel and New York, and offices in Madrid, London, and Singapore. 
+The company provides AI-powered SaaS and on-premises anti-money-laundering (AML) transaction monitoring and sanctions screening software for banks, fintechs, and government Financial Intelligence Units (FIUs). 
+The platform is also used to uncover unknown opportunities based on big data. The company utilizes patented mathematical algorithms developed by the company founders.
+
+
+== History ==
+ThetaRay was founded in 2013 by Amir Averbuch and Ronald Coifman. Averbuch is a professor of computer science at Tel Aviv University with a main research focus on big data processing and analysis. Coifman is a professor of mathematics at Yale University and recipient of the 1999 National Medal of Science. His main research focus is on efficient computation and numerical analysis. Mark Gazit, an international security expert and serial startup entrepreneur, is co-founder and CEO of ThetaRay.
+In June 2013, ThetaRay raised its seed funding from Jerusalem Venture Partners (JVP) as part of their cybersecurity portfolio. Two months later, General...

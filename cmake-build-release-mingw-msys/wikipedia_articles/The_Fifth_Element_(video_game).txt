@@ -1,0 +1,12 @@
+The Fifth Element (French: Le Cinquième Élément) is a 1998 action-adventure video game developed by Kalisto Entertainment for the PlayStation and Microsoft Windows. It is based on the film of the same name.
+
+
+== Gameplay ==
+
+In the game, the player controls Leeloo and Korben, fighting against the police and the Mangalores, as well as Zorg and his thugs. The game has 16 levels, or missions, as they are called in-game. Short clips from the film are played at the completion of certain levels.
+Control switches between the two main characters, dependent on the level. Each character has different combat abilities; Korben uses guns with unlimited ammunition and Leelo uses unarmed combat techniques supplemented by grenades which can be collected.
+
+
+== Development ==
+The production company behind the film, Gaumont Film Company, assisted in the game's design.
+The Windows and PlayStation versions were developed in tandem, with LibSys, a proprietary development program created by Kalisto, used to build both versions. The game was demonstrated at the June 1997 Electronic Entertainment Expo; at this time, Korben was still not playable, only Leeloo, and Kalisto had not yet settled on a publisher for the...

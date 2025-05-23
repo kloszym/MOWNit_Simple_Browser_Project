@@ -1,0 +1,13 @@
+Complement factor H-related protein 5 (CFHR5) nephropathy is a form of inherited kidney disease which is endemic in Cyprus and is caused by a mutation in the gene CFHR5. It is thought to affect up to 1:6000 Cypriots but has not been reported in anybody who is not of Cypriot descent.
+
+
+== Presentation ==
+Sometimes the disease is associated with visible blood in the urine, usually at the time of respiratory or other infections and this is thought to result from stimulation of the immune system leading to damage in the kidneys.
+
+
+== Diagnosis ==
+The diagnosis can be confirmed on a blood sample using a genetic test. CFHR5 nephropathy usually presents with microscopic amounts of blood in the urine, detectable on a routine urine dipstick test. 
+
+
+=== Biopsy findings ===
+A kidney biopsy in patients with CFHR5 nephropathy classically shows deposition of complement C3 in the kidney, without any detectable immunoglobulins there. This is evidence that the disease is caused by a problem with alternative complement pathway regulation, rather than activation of the complement system by other diseases. In addition, light microscopy often demonstrates histological features of mesangiocapillary glomerulonephritis...

@@ -1,0 +1,36 @@
+Power usage effectiveness (PUE) or power unit efficiency is a ratio that describes how efficiently a computer data center uses energy; specifically, how much energy is used by the computing equipment (in contrast to cooling and other overhead that supports the equipment).
+PUE is the ratio of the total amount of energy used by a computer data center facility to the energy delivered to computing equipment. PUE is the inverse of data center infrastructure efficiency.
+PUE was originally developed by a consortium called The Green Grid. PUE was published in 2016 as a global standard under ISO/IEC 30134-2:2016
+An ideal PUE is 1.0. Anything that isn't considered a computing device in a data center (e.g. lighting, cooling, etc.) falls into the category of facility energy consumption.
+
+  
+    
+      
+        
+          P
+          U
+          E
+        
+        =
+        
+          
+            
+              
+                Total Facility Energy
+              
+            
+            
+              
+                IT Equipment Energy
+              
+            
+          
+        
+        =
+        1
+        +
+        
+          
+            
+              
+                Non IT Facility...

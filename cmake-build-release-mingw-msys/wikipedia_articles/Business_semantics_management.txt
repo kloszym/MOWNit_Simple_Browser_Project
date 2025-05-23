@@ -1,0 +1,6 @@
+Business semantics management  (BSM) encompasses the technology, methodology, organization, and culture that brings business stakeholders together to collaboratively realize the reconciliation of their heterogeneous metadata; and consequently the application of the derived business semantics patterns to establish semantic alignment between the underlying data structures.
+BSM is established by two complementary process cycles each grouping a number of activities. The first cycle is the semantic reconciliation cycle, and the second cycle is the semantic application cycle. The two cycles are tied together by the unification process. This double process cycle is iteratively applied until an optimal balance of differences and commonalities between stakeholders are reached that meets the semantic integration requirements. This approach is based on research on community-based ontology engineering that is validated in European projects, government and industry.
+
+
+== Semantic reconciliation ==
+Semantic reconciliation is a process cycle constituted of four subsequent activities: scope, create, refine, and articulate. First, the community is scoped: user roles and affordances are appointed. Next...

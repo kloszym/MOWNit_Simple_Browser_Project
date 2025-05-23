@@ -1,0 +1,7 @@
+Modularity refers to the ability of a system to organize discrete, individual units that can overall increase the efficiency of network activity and, in a biological sense, facilitates selective forces upon the network. Modularity is observed in all model systems, and can be studied at nearly every scale of biological organization, from molecular interactions all the way up to the whole organism.
+
+
+== Evolution of Modularity ==
+The exact evolutionary origins of biological modularity has been debated since the 1990s. In the mid 1990s, Günter Wagner argued that modularity could have arisen and been maintained through the interaction of four evolutionary modes of action:
+[1] Selection for the rate of adaptation: If different complexes evolve at different rates, then those evolving more quickly reach fixation in a population faster than other complexes. Thus, common evolutionary rates could be forcing the genes for certain proteins to evolve together while preventing other genes from being co-opted unless there is a shift in evolutionary rate.
+[2] Constructional selection: When a gene exists in many duplicated copies, it may be maintained because of the many connections it has (also termed...

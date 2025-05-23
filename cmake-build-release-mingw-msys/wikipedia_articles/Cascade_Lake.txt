@@ -1,0 +1,38 @@
+Cascade Lake is an Intel codename for a 14 nm server, workstation and enthusiast processor generation, launched in April 2019. In Intel's process–architecture–optimization model, Cascade Lake is an optimization of Skylake. Intel states that this will be their first generation to support 3D XPoint-based memory modules. It also features Deep Learning Boost (DPL) instructions and mitigations for Meltdown and Spectre. Intel officially launched new Xeon Scalable SKUs on February 24, 2020.
+
+
+== Variants ==
+Server: Cascade Lake-SP, Cascade Lake-AP
+Workstation: Cascade Lake-W
+Enthusiast: Cascade Lake-X
+
+
+== List of Cascade Lake processors ==
+
+
+=== Cascade Lake-X (Enthusiast) ===
+
+
+=== Cascade Lake-AP (Advanced Performance) ===
+Cascade Lake-AP is branded as Xeon Platinum 9200 series and all SKUs are soldered to the motherboard. These CPUs will not work with Optane Memory.
+
+
+==== Xeon Platinum 9200 series ====
+
+
+=== Cascade Lake-SP (Scalable Performance) ===
+
+
+==== Xeon Platinum 8200 series ====
+
+
+==== Xeon Gold 6200 series ====
+Bolded denotes new SKUs released February 24, 2020.
+
+
+==== Xeon Gold 5200 Series ====
+Bolded denotes new SKUs released February 24, 2020.
+
+
+==== Xeon Silver series ====
+Bolded denotes new SKUs released February 24...

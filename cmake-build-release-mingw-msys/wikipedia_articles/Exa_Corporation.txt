@@ -1,0 +1,11 @@
+Exa Corporation was a developer and distributor of computer-aided engineering (CAE) software. Its main product was PowerFLOW, a lattice-boltzmann derived implementation of computational fluid dynamics (CFD), which can very accurately simulate internal and external flows in low-Mach regimes. PowerFLOW is used extensively in the international automotive and transportation industries.
+On November 17, 2017, Dassault Systèmes completed acquisition of Exa Corporation.  Exa became part of Dassault's SIMULIA brand.
+
+
+== History ==
+Exa was founded in November, 1991 in Lexington, Massachusetts.
+Exa raised about $2.4 million in a  series of venture capital investments from April 1993 though 1994 from Fidelity Ventures and individuals.
+More funding was obtained in 1994, 1996, 1998 and 2005, including Boston Capital Ventures as an investor.
+In 1999, Stephen A. Remondi became chief executive.
+The company filed for an initial public offering in June 2012. On September 28, 2017, Dassault Systèmes announced the signing of a definitive merger agreement to acquire Exa, valuing the company at about 400 million USD.
+For fiscal year 2012, Exa recorded total revenues, net income and Adjusted EBITDA of $45.9...

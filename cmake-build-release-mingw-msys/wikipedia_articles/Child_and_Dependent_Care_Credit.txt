@@ -1,0 +1,9 @@
+The Household and Dependent Care Credit is a nonrefundable tax credit available to United States taxpayers.  Taxpayers that care for a qualifying individual are eligible.  The purpose of the credit is to allow the taxpayer (or their spouse, if married) to be gainfully employed.  This credit is created by 26 U.S. Code (U.S.C) § 21, section 21 of the Internal Revenue Code (IRC).
+
+
+== Background ==
+Federal courts have confirmed that expenses incurred for the care of a dependent, such as babysitting or daycare, while the taxpayer is at work, are not included in deductible business expenses and are not deductible under IRC section 162(a). As a result, single-earner households with qualifying individuals are favored over two-earner households with qualifying individuals, as the cost of daycare often outweighs the extra income made in two-earner households.  IRC section 21 serves to lessen this imbalance by allowing a limited credit for certain expenses related to the care of a qualified dependent.
+
+
+== General eligibility requirements ==
+IRC section 21 uses the term "qualifying individual" rather than “dependent" to refer to the types of dependents the care for whom will trigger the credit. Qualifying...

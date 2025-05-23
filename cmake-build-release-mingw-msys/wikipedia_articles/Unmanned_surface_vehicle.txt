@@ -1,0 +1,6 @@
+An unmanned surface vehicle, unmanned surface vessel or uncrewed surface vessel (USV), colloquially called a drone boat, drone ship or sea drone, is a boat or ship that operates on the surface of the water without a crew. USVs operate with various levels of autonomy, from remote control to fully autonomous surface vehicles (ASV).
+
+
+== Regulatory environment ==
+The regulatory environment for USV operations is changing rapidly as the technology develops and is more frequently deployed on commercial projects. The Maritime Autonomous Surface Ship UK Industry Conduct Principles and Code of Practice 2020 (V4) has been prepared by the UK Maritime Autonomous Systems Regulatory Working Group (MASRWG) and published by Maritime UK through the Society of Maritime Industries. Organisations that contributed to the development of the MASS Code of Practice include The Maritime & Coastguard Agency (MCA), Atlas Elektronik UK Ltd, AutoNaut, Fugro, the UK Chamber of Shipping, UKHO, Trinity House, Nautical Institute, National Oceanography Centre, Dynautics Limited, SEA-KIT International, Sagar Defence Engineering and many more.
+By the end of 2017, Sagar Defence Engineering became the first company in India...

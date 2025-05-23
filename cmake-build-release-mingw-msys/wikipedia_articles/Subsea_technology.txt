@@ -1,0 +1,6 @@
+Subsea technology involves fully submerged ocean equipment, operations, or applications, especially when some distance offshore, in deep ocean waters, or on the seabed. The term subsea is frequently used in connection with oceanography, marine or ocean engineering, ocean exploration, remotely operated vehicle (ROVs) autonomous underwater vehicles (AUVs), submarine communications or power cables, seafloor mineral mining, oil and gas, and offshore wind power.
+
+
+== Oil and gas ==
+Oil and gas fields reside beneath many inland waters and offshore areas around the world, and in the oil and gas industry the term subsea relates to the exploration, drilling and development of oil and gas fields in these underwater locations. Under water oil fields and facilities are generically referred to using a subsea prefix, such as subsea well, subsea field, subsea project, and subsea developments.
+Subsea oil field developments are usually split into Shallow water and Deepwater categories to distinguish between the different facilities and approaches that are needed. The term shallow water or shelf is used for very shallow water depths where bottom-founded facilities like jackup drilling rigs and fixed offshore...

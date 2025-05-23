@@ -1,0 +1,6 @@
+ISO 14641-1, Electronic archiving—Part 1: Specifications concerning the design and the operation of an information system for electronic information preservation, was the first ISO 14641 standard prepared by ISO Technical Committee 171 (ISO/TC 171) Document management applications, Subcommittee SC 3, General issues. The document was submitted as a French National Standard and was adopted as NF Z42-013:2009 in France.
+This part of ISO 14641 describes the methods and techniques to be used in an electronic information system for managing documents within an archive.
+
+
+== Related links ==
+"International Organization for Standardization". ISO. Retrieved 2012-05-01.

@@ -1,0 +1,6 @@
+The Microsoft Security Development Lifecycle (SDL) is the approach Microsoft uses to integrate security into DevOps processes (sometimes called a DevSecOps approach). You can use this SDL guidance and documentation to adapt this approach and practices to your organization.  
+The practices outlined in the SDL approach are applicable to all types of software development and across all platforms, ranging from traditional waterfall methodologies to modern DevOps approaches. They can generally be applied to the following:
+
+Software – whether you are developing software code for firmware, AI applications, operating systems, drivers, IoT Devices, mobile device apps, web services, plug-ins or applets, hardware microcode, low-code/no-code apps, or other software formats. Note that most practices in the SDL are applicable to secure computer hardware development as well.  
+Platforms – whether the software is running on a ‘serverless’ platform approach, on an on-premises server, a mobile device, a cloud hosted VM, a user endpoint, as part of a Software as a Service (SaaS) application, a cloud edge device, an IoT device, or anywhere else.  
+The SDL recommends 10 security practices to incorporate...

@@ -1,0 +1,11 @@
+Protein NDRG2 is a protein that in humans is encoded by the NDRG2 gene (NMYC downstream-regulated gene 2).
+
+
+== Function ==
+This gene is a member of the N-myc downregulated gene family which belongs to the alpha/beta hydrolase superfamily. The protein encoded by this gene is a cytoplasmic protein that may play a role in neurite outgrowth. This gene may be involved in glioblastoma and aggressive meningioma carcinogenesis (via cell proliferation). Several alternatively spliced transcript variants of this gene have been described, but the full-length nature of some of these variants has not been determined.
+
+
+== References ==
+
+
+== Further reading ==

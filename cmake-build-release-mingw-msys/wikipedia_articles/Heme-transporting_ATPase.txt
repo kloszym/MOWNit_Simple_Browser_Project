@@ -1,0 +1,21 @@
+In enzymology, a heme-transporting ATPase (EC 3.6.3.41) is an enzyme that catalyzes the chemical reaction
+
+ATP + H2O + hemein 
+  
+    
+      
+        ⇌
+      
+    
+    {\displaystyle \rightleftharpoons }
+  
+ ADP + phosphate + hemeout
+The 3 substrates of this enzyme are ATP, H2O, and heme, whereas its 3 products are ADP, phosphate, and heme.
+This enzyme belongs to the family of hydrolases, specifically those acting on acid anhydrides to catalyse transmembrane movement of substances. The systematic name of this enzyme class is ATP phosphohydrolase (heme-exporting). This enzyme participates in abc transporters - general.
+
+
+== References ==
+
+Saier MH Jr (1998). "Molecular phylogeny as a basis for the classification of transport proteins from bacteria, archaea and eukarya". Adv. Microb. Physiol. Advances in Microbial Physiology. 40: 81–136. doi:10.1016/S0065-2911(08)60130-7. ISBN 978-0-12-027740-7. PMID 9889977.
+Jekabsons W, Schuster W (1995). "orf250 encodes a second subunit of an ABC-type heme transporter in Oenothera mitochondria". Mol. Gen. Genet. 246 (2): 166–73. doi:10.1007/BF00294679. PMID 7862087.
+Ramseier TM, Winteler HV, Hennecke H (1991). "Discovery and sequence analysis of bacterial...

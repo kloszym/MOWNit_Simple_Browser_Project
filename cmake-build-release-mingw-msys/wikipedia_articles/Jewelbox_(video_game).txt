@@ -1,0 +1,10 @@
+Jewelbox is a puzzle video game developed by Varcon Systems for the Macintosh. It is a clone of Sega's Columns.
+
+
+== Gameplay ==
+Jewel Box is a game in which the player moves colored gems that fall from the top of the screen, which disappear when they form patterns, and the round ends when the playing area becomes filled with gems; special gems cause different things to happen. The player must manipulate the jewels to form lines of three or more horizontally, vertically or diagonally. Jewels are affected by gravity, allowing the player to set up chain reactions which multiply the value of the gems matched. When the playing area is filled, it is cleared and the player loses one life - unlike Tetris, the player is given three lives in each game, and the opportunity to earn additional lives by reaching points milestones. Gems are worth different numbers of points, with black onyx-like stones being the most valuable.
+The game includes an easter egg where matching three black jewels on the bottom row of the play area resulted in a huge points bonus.
+
+
+== Development ==
+Jewelbox was originally published as shareware, in 1992, and was developed by Rodney and Brenda Jacks, with music by Jim Holt...

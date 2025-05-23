@@ -1,0 +1,47 @@
+The Roland V-Synth is a polyphonic synthesizer. It was released in 2000 and was Roland's flagship synthesizer at the time. It combines multiple oscillator technologies and a built in sampler. It also features an arpeggiator and COSM filtering to aid the creation of new sounds.
+
+
+== Features ==
+Touchscreen
+The Timetrip pad which allows real-time manipulation of waveforms
+V-LINK Onboard Video Control
+Twin D Beams
+
+
+== Construction ==
+Built in a black metal case it has plastic end cheeks. The buttons on the unit are backlit.
+
+
+== Models ==
+V-Synth XT 2005 - Rack-mount module (minus D-Beams and Trip Pad). Pre-installed with Roland's VC-1 (D-50 emulator) and VC-2 (Vocal Designer)
+V-Synth GT 2007 - Adds Roland's Vocal Designer technology. Has a maximum 28 voices of polyphony.
+
+
+== Notable users ==
+
+Asia
+BT
+cEvin Key
+Crystal Castles
+Enigma
+Jens Johansson
+Jesper Kyd
+Jordan Rudess
+Klystron
+Ladytron
+Michael Pinnella
+Nick Rhodes
+Orbital
+Richard Barbieri
+The Crystal Method
+
+
+== References ==
+
+
+== Further reading ==
+"Reviews: Roland V-Synth GT". Future Music. No. 191. September 2007. pp. 76–80. ISSN 0967-0378. OCLC 1032779031.
+
+
+== External links ==
+https://www.roland.com/global/products/v-synth/

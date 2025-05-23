@@ -1,0 +1,7 @@
+Caspase-6 is an enzyme that in humans is encoded by the CASP6 gene.
+CASP6 orthologs have been identified in numerous mammals for which complete genome data are available. Unique orthologs are also present in birds, lizards, lissamphibians, and teleosts. Caspase-6 has known functions in apoptosis, early immune response and neurodegeneration in Huntington's and Alzheimer's disease.
+
+
+== Function ==
+This gene encodes a protein that is a member of the cysteine-aspartic acid protease (caspase) family. Sequential activation of caspases plays a central role in the execution-phase of cell apoptosis. Caspases exist as inactive proenzymes that undergo proteolytic processing at conserved aspartic residues to produce two subunits, large and small, that dimerize to form the active enzyme. This protein is processed by caspases 7, 8 and 10, and is thought to function as a downstream enzyme in the caspase activation cascade. Caspase 6 can also undergo self-processing without other members of the caspase family. Alternative splicing of this gene results in two transcript variants that encode different isoforms.
+Caspase-6 plays a role in the early immune response via de-repression. It reduces the expression...

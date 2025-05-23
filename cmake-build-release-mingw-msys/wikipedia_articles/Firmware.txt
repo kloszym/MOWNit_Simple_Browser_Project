@@ -1,0 +1,10 @@
+In computing, firmware is software that provides low-level control of computing device hardware. 
+For a relatively simple device, firmware may perform all control, monitoring and data manipulation functionality.
+For a more complex device, firmware may provide relatively low-level control as well as hardware abstraction services to higher-level software such as an operating system.
+Firmware is found in a wide range of computing devices including personal computers, smartphones, home appliances, vehicles, computer peripherals and in many of the integrated circuits inside each of these larger systems.
+Firmware is stored in non-volatile memory – either read-only memory (ROM) or programmable memory such as EPROM, EEPROM, or flash. Changing a device's firmware stored in ROM requires physically replacing the memory chip – although some chips are not designed to be removed after manufacture. Programmable firmware memory can be reprogrammed via a procedure sometimes called flashing.
+Common reasons for changing firmware include fixing bugs and adding features.
+
+
+== History and etymology ==
+Ascher Opler used the term firmware in a 1967 Datamation article, as an intermediary term between hardware...

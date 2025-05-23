@@ -1,0 +1,7 @@
+A flashback arrestor or flash arrestor is a gas safety device most commonly used in oxy-fuel welding and cutting to stop the flame or reverse flow of gas back up into the equipment or supply line.  It protects the user and equipment from damage or explosions.  These devices are mainly used in industrial processes where oxy-fuel gas mixtures are handled and used.  Flashback arrestors as safety products are essential to secure the workplaces and working environment.  In former times wet flashback arrestors were also used.  Today the industry standard is to use dry flashback arrestors with at least two safety elements.
+
+
+== Dry type ==
+Dry flashback arrestors typically use a combination of safety elements to stop a flashback or reverse flow of gas.  This type is typically found in cutting and welding applications all over the world.   They work equally effectively in all orientations, and need very little maintenance.
+The simplest flashback arrestor consists of a metallic tube filled with iron wool, which cools the flame below the ignition temperature.
+In many countries or regions they are mandatory to be installed at the gas regulator or gas outlet/ tapping point.  Depending on the application...

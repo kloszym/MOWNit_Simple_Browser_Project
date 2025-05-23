@@ -1,0 +1,6 @@
+In mathematics, the Hopf lemma, named after Eberhard Hopf, states that if a continuous real-valued function in a domain in Euclidean space with sufficiently smooth boundary is harmonic in the interior and the value of the function at a point on the boundary is greater than the values at nearby points inside the domain, then the derivative of the function in the direction of the outward pointing normal is strictly positive. The lemma is an important tool in the proof of the maximum principle and in the theory of partial differential equations. The Hopf lemma has been generalized to describe the behavior of the solution to an elliptic problem as it approaches a point on the boundary where its maximum is attained.
+In the special case of the Laplacian, the Hopf lemma had been discovered by Stanisław Zaremba in 1910. In the more general setting for elliptic equations, it was found independently by Hopf and Olga Oleinik in 1952, although Oleinik's work is not as widely known as Hopf's in Western countries. There are also extensions which allow domains with corners.
+
+
+== Statement for harmonic functions ==
+Let Ω be a bounded domain in Rn with smooth boundary. Let f be a real-valued function...

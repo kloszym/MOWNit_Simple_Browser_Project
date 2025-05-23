@@ -1,0 +1,8 @@
+Moral weight is a concept used in ethical decision-making to assess the relative significance of the lives, interests, and experiences of moral patients—beings considered to have moral value. It serves as a criterion for determining the extent to which different species should be prioritized in efforts to enhance welfare, based on their capacity for conscious experience, suffering, and wellbeing. Research on moral weight seeks to establish which animals qualify as moral patients and to what degree their interests should be considered, particularly in contexts where resources for improving welfare are limited.
+
+
+== Practical uses ==
+
+
+=== Cost-effectiveness analysis ===
+Moral weight is applied to quantify and compare the impact of different charitable interventions.  American non-profit GiveWell assigns moral weights to various outcomes, such as increasing consumption versus preventing child deaths, to guide funding recommendations. These weights are based on staff values but are cross-checked with approaches used by governments and global health organizations, such as the "value of a statistical life" metric. While no universal standard exists, most frameworks prioritize childhood over adult...

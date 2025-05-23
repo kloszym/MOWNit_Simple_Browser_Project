@@ -1,0 +1,24 @@
+The Cub X or Lil Cub is a STOL homebuilt aircraft.
+
+
+== Development ==
+The Lil Cub is a two-place high wing strut braced aircraft with conventional landing gear and covered with Oratex Aircraft Fabric. The aircraft can take off and land in as little as 11 ft (3 m) with STOL braking techniques.
+
+
+== Operational history ==
+The Lil Cub Prototype won the 2013 Valdez STOL competition. In mid December 2013, a fire destroyed the first build; however, the aircraft was re-built by May 2014. In 2014, Lil Cub II (Afterburner) won the Valdez STOL competition again, and went on to win the first STOL competition at AirVentures in Oshkosh.
+In 2017 the aircraft set a new STOL world record at Valdez, with a take off in 13 feet 8 inches, and a landing in 10 feet 5 inches.
+In 2018, the aircraft set a new STOL world record at Valdez, with a take off in 11 ft 0 inches.
+
+
+== Specifications (Lil Cub) ==
+Data from EAAGeneral characteristics
+Crew: 1
+Empty weight: 685 lb (311 kg)
+Gross weight: 810 lb (367 kg)
+Powerplant: 1 × Continental C-85-8 Horizontally opposed piston, 120 hp (89 kW)
+Performance
+
+Maximum speed: 54 kn (62 mph, 100 km/h)
+Cruise speed: 43 kn (50 mph, 80 km/h)
+Stall speed: 17 kn (20 mph, 32 km/h)...

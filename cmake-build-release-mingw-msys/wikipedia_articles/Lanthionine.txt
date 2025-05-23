@@ -1,0 +1,9 @@
+Lanthionine is a nonproteinogenic amino acid with the chemical formula (HOOC-CH(NH2)-CH2-S-CH2-CH(NH2)-COOH). It is typically formed by a cysteine residue and a dehydrated serine residue. Despite its name, lanthionine does not contain the element lanthanum.
+
+
+== Background ==
+In 1941, lanthionine was first isolated by treating wool with sodium carbonate.  It was found to be a sulfur-containing amino acid; accordingly it was given the name lanthionine [wool (Latin: Lana), sulfur (Greek: theîon)]. Lanthionine was first synthesized by alkylation of cysteine with β-chloroalanine.  Lanthionines are found widely in nature.  They have been isolated from human hair, lactalbumin, and feathers.  Lanthionines have also been found in bacterial cell walls and are the components of a group of gene-encoded peptide antibiotics called lantibiotics, which includes nisin (a food preservative), subtilin, epidermin (effective against Staphylococcus and Streptococcus), and ancovenin (an enzyme inhibitor).
+
+
+== Preparation ==
+A variety of syntheses of lanthionine have been published including sulfur extrusion from cystine, ring opening of serine β-lactone, and hetero-conjugate addition of cysteine to dehydroalanine...

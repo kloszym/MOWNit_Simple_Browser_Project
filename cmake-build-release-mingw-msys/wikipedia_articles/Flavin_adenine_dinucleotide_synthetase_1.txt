@@ -1,0 +1,13 @@
+Flavin adenine dinucleotide synthetase 1 is a protein that in humans is encoded by the FLAD1 gene.
+
+
+== Function ==
+This gene encodes the enzyme that catalyzes adenylation of flavin mononucleotide (FMN) to form flavin adenine dinucleotide (FAD) coenzyme. Alternatively spliced transcript variants encoding distinct isoforms have been observed.
+
+
+== References ==
+
+
+== Further reading ==
+
+This article incorporates text from the United States National Library of Medicine, which is in the public domain.

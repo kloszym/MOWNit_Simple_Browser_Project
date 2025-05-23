@@ -1,0 +1,20 @@
+3-deoxy-D-manno-octulosonic acid kinase (EC 2.7.1.166, kdkA (gene), Kdo kinase) is an enzyme with systematic name ATP:(KDO)-lipid IVA 3-deoxy-alpha-D-manno-oct-2-ulopyranose 4-phosphotransferase. This enzyme catalyses the following chemical reaction
+
+alpha-Kdo-(2->6)-lipid IVA + ATP 
+  
+    
+      
+        ⇌
+      
+    
+    {\displaystyle \rightleftharpoons }
+  
+ 4-O-phospho-alpha-Kdo-(2->6)-lipid IVA + ADP
+The enzyme phosphorylates the 4-OH position of KDO in (KDO)-lipid IVA.
+
+
+== References ==
+
+
+== External links ==
+3-deoxy-D-manno-octulosonic+acid+kinase at the U.S. National Library of Medicine Medical Subject Headings (MeSH)

@@ -1,0 +1,8 @@
+Discovery science (also known as discovery-based science) is a scientific methodology which aims to find new patterns, correlations, and form hypotheses through the analysis of large-scale experimental data. The term “discovery science” encompasses various fields of study, including basic, translational, and computational science and research. Discovery-based methodologies are commonly contrasted with traditional scientific practice, the latter involving hypothesis formation before experimental data is closely examined. Discovery science involves the process of inductive reasoning or using observations to make generalisations, and can be applied to a range of science-related fields, e.g., medicine, proteomics, hydrology, psychology, and psychiatry.
+
+
+== Overview ==
+
+
+=== Purpose ===
+Discovery science places an emphasis on 'basic' discovery, which can fundamentally change the status quo. For example, in the early years of water resources research, the use of discovery science was demonstrated by seeking to elucidate phenomena that was, until that point, unexplained. It did not matter how unusual these ideas may have been perceived to be. In this sense, discovery science is based on the attitude...

@@ -1,0 +1,7 @@
+In celestial mechanics, the Roche limit, also called Roche radius, is the distance from a celestial body within which a second celestial body, held together only by its own force of gravity, will disintegrate because the first body's tidal forces exceed the second body's self-gravitation. Inside the Roche limit, orbiting material disperses and forms rings, whereas outside the limit, material tends to coalesce. The Roche radius depends on the radius of the second body and on the ratio of the bodies' densities.
+The term is named after Édouard Roche (French: [ʁɔʃ], English:  ROSH), the French astronomer who first calculated this theoretical limit in 1848.
+
+
+== Explanation ==
+
+The Roche limit typically applies to a satellite's disintegrating due to tidal forces induced by its primary, the body around which it orbits. Parts of the satellite that are closer to the primary are attracted more strongly by gravity from the primary than parts that are farther away; this disparity effectively pulls the near and far parts of the satellite apart from each other, and if the disparity (combined with any centrifugal effects due to the object's spin) is larger than the force of gravity holding the satellite...

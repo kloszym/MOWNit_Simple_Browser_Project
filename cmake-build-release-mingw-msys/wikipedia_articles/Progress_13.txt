@@ -1,0 +1,10 @@
+Progress 13 (Russian: Прогресс 13) was a Soviet uncrewed Progress cargo spacecraft, which was launched in May 1982 to resupply the Salyut 7 space station.
+
+
+== Spacecraft ==
+Progress 13 was a Progress 7K-TG spacecraft. The thirteenth of forty three to be launched, it had the serial number 114. The Progress 7K-TG spacecraft was the first generation Progress, derived from the Soyuz 7K-T and intended for uncrewed logistics missions to space stations in support of the Salyut programme. On some missions, the spacecraft was also used to adjust the orbit of the space station.
+The Progress spacecraft had a dry mass of 6,520 kilograms (14,370 lb), which increased to around 7,020 kilograms (15,480 lb) when fully fuelled. It measured 7.48 metres (24.5 ft) in length, and 2.72 metres (8 ft 11 in) in diameter. Each spacecraft could accommodate up to 2,500 kilograms (5,500 lb) of payload, consisting of dry cargo and propellant. The spacecraft was powered by chemical batteries and could operate in free flight for up to three days, remaining docked at the station for up to thirty.
+
+
+== Launch ==
+Progress 13 launched on 23 May 1982 from the Baikonur Cosmodrome in the Kazakh SSR. It used a Soyuz-U rocket...

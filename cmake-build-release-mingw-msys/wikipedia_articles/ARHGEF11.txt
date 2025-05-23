@@ -1,0 +1,6 @@
+Rho guanine nucleotide exchange factor 11 is a protein that in humans is encoded by the ARHGEF11 gene. This protein is also called RhoGEF11 or PDZ-RhoGEF.
+
+
+== Function ==
+Rho guanine nucleotide exchange factor 11 is guanine nucleotide exchange factor (GEF) for the RhoA small GTPase protein. Rho is a small GTPase protein that is inactive when bound to the guanine nucleotide GDP. But when acted on by Rho GEF proteins such as RhoGEF1, this GDP is released and replaced by GTP, leading to the active state of Rho. In this active, GTP-bound conformation, Rho can bind to and activate specific effector proteins and enzymes to regulate cellular functions. In particular, active Rho is a major regulator of the cell actin cytoskeleton.
+RhoGEF11 is a member of a group of four RhoGEF proteins known to be activated by G protein coupled receptors coupled to the  G12 and G13 heterotrimeric G proteins. The others are ARHGEF1 (also known as p115-RhoGEF), ARHGEF12 (also known as LARG) and AKAP13 (also known as ARHGEF13 and Lbc).  GPCR-regulated RhoGEF11 (and these related GEF proteins) acts as an effector for G12 and G13 G proteins. In addition to being activated by G12 or G13 G proteins, three of these...

@@ -1,0 +1,24 @@
+In kinematics, Chasles' theorem, or Mozzi–Chasles' theorem, says that the most general rigid body displacement can be produced by a screw displacement. A direct Euclidean isometry in three dimensions involves a translation and a rotation. The screw displacement representation of the isometry decomposes the translation into two components, one parallel to the axis of the rotation associated with the isometry and the other component perpendicular to that axis. The Chasles theorem states that the axis of rotation can be selected to provide the second component of the original translation as a result of the rotation. This theorem in three dimensions extends a similar representation of planar isometries as rotation. Once the screw axis is selected, the screw displacement rotates about it and a translation parallel to the axis is included in the screw displacement.
+
+
+== Planar isometries with complex numbers ==
+Euclidean geometry is expressed in the complex plane by points 
+  
+    
+      
+        p
+        =
+        x
+        +
+        y
+        i
+      
+    
+    {\displaystyle p=x+yi}
+  
+ where i squared is −1. Rotations result from multiplications by 
+  
+    
+      
+        ω
+        =...

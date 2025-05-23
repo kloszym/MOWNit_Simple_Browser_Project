@@ -1,0 +1,23 @@
+Acorn is a raster graphic editor for macOS developed by August Mueller of Flying Meat Inc, based out of Mukilteo, Washington, United States.  Acorn was first released on September 10, 2007 and was built upon the framework of a previous image editing application of Flying Meat Inc., FlySketch.
+Acorn makes extensive use of Apple's Core Image framework for its image processing.  The native file format of Acorn is .acorn.  Acorn combines vector drawing with bitmap editing, and has been described as an alternative to Photoshop.  Key features of Acorn include image filters, a custom color picker, a brush designer, and image editing tools such as crop, erase, paint, select, pan, zoom, move, clone, smudge, dodge, and burn.
+
+
+== Major Features ==
+Layers-based editing
+Layer masks and blending modes
+Multi-layer screenshots
+Nondestructive stackable filters
+Curves and levels
+Multi-stop live gradients
+Scriptable
+Automator support
+Built in brush designer to create custom brushes
+Photoshop brush import
+Vector shapes, Bézier pen tool, and text tools
+Shape processor
+Circle text tool
+RAW image import
+Multiple selection tools including quick mask and magic wand
+Smart layer export
+Web export
+Guides, grids...

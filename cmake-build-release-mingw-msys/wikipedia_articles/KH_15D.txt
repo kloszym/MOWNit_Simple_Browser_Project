@@ -1,0 +1,9 @@
+KH 15D (V582 Monocerotis), described as a winking star because of its unusual dips in brightness, is a binary T Tauri star system embedded in a circumbinary disk. It is a member of the young open cluster NGC 2264, located about 2,500 light-years (770 pc) from the Sun in the constellation of Monoceros.
+
+
+== Discovery ==
+The unique brightness variations of KH 15D were discovered at Wesleyan University's Van Vleck Observatory in 1995 by Dr. William Herbst and his then-master's student Kristin Kearns. The star was found to alternate, on a 48.37-day period between a brighter "on" state and a fainter "off" state that was less than 4% of the bright state (or up to 96% dimmed). As the years went by, the star spent more and more time "off", such that by 2010 it was always in the faint state, although still periodically variable. In 2012 it unexpectedly began to "wink" on and off again and has now entered a phase where its "on" state is almost twice as bright as it was in the mid-1990s (see light curve).
+
+
+== Hypotheses ==
+A consensus model of this puzzling behavior has emerged, which attributes the winking to the rising and setting of one star relative to the edge of a circumbinary ring that occults...

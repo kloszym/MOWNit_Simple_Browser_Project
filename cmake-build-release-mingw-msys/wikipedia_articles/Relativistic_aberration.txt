@@ -1,0 +1,43 @@
+In physics, relativistic aberration is the relativistic version of aberration of light, including relativistic corrections that become significant for observers who move with velocities close to the speed of light, as described by special relativity.
+Suppose, in the reference frame of the observer, the source is moving with speed v at an angle θs relative to the vector from the observer to the source at the time when the light is emitted. Then the following formula, which was derived by Albert Einstein in 1905 using Lorentz transformations, describes the aberration of the light source, θo, measured by the observer:
+
+  
+    
+      
+        cos
+        ⁡
+        
+          θ
+          
+            o
+          
+        
+        =
+        
+          
+            
+              cos
+              ⁡
+              
+                θ
+                
+                  s
+                
+              
+              −
+              
+                
+                  
+                    v
+                    c
+                  
+                
+              
+            
+            
+              1
+              −
+              
+                
+                  
+                    v...

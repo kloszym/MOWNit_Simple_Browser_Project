@@ -1,0 +1,12 @@
+Quantum Philosophy is a 2002 book by the physicist Roland Omnès, in which he aims to show the non-specialist reader how modern developments in quantum mechanics allow the recovery of our common sense view of the world.
+
+
+== Book contents ==
+Section I – a review of mathematics, epistemology and science from the classical to the early modern period.
+Section II – a review of the ineluctable rise of formalism in mathematics and in fundamental physical science, which, Omnès argues, was not a choice, but was forced on researchers by the nature of the subject matter.
+Section III – the central section of the book, in which the recovery of common sense, as outlined below, is presented.
+Section IV – a short section of reflections on possible future steps.
+
+
+== Brief summary of Omnès' central argument ==
+Omnès' project is not quite as it at first sounds. He is not trying to show that quantum mechanics itself can be understood in a common sense framework, quite the opposite.  He argues that modern science has, necessarily, become more and more formal, and more and more remote from common sense, as it strives to make itself an accurate reflection of the physical world. But he argues that we have now...

@@ -1,0 +1,17 @@
+Eugen Otto Erwin Netto (30 June 1848 – 13 May 1919) was a German mathematician. He was born in Halle and died in Giessen.
+Netto's theorem, on the dimension-preserving properties of continuous bijections, is named for Netto. Netto published this theorem in 1878, in response to Georg Cantor's proof of the existence of discontinuous bijections between the unit interval and unit square. His proof was not fully rigorous, but its errors were later repaired.
+
+
+== Works ==
+Substitutionentheorie und ihre Anwendung auf die Algebra. Teubner 1882.
+Theory of Substitutions and Its Applications to Algebra. Ann Arbor, Mich. 1892.
+Die Determinanten. Teubner, 1910.
+Die Determinanten. Teubner, 2nd edition 1925.
+Lehrbuch der Combinatorik. Teubner, 1901, 2nd edition 1927.
+Elementare Algebra. Teubner 1904.
+Gruppen- und Substitutionentheorie. Leipzig, Göschen, 1908.
+Vorlesungen über Algebra. Erster Band.  Teubner, 1896.
+Vorlesungen über Algebra. Zweiter Band. Teubner, 1900.
+Netto: Kombinatorik. Enzyklopädie der Mathematischen Wissenschaften, Bd.1, 1898.
+Netto: Rationale Funktionen einer Veränderlichen; ihre Nullstellen. Enzyklopädie Math.Wiss., Bd.1, 1899.
+Netto: Rationale Funktionen mehrerer Veränderlichen...

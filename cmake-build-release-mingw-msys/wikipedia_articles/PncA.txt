@@ -1,0 +1,8 @@
+PncA is a gene encoding pyrazinamidase in Mycobacterium species. Pyrazinamidase converts the drug pyrazinamide to the active form pyrazinoic acid. There is a strong correlation between mutations in pncA and resistance of M. tuberculosis to pyrazinamide.
+
+
+== See also ==
+Pyrazinamide
+
+
+== References ==

@@ -1,0 +1,91 @@
+In mathematics, the Ince equation, named for Edward Lindsay Ince,  is the differential equation
+
+  
+    
+      
+        
+          w
+          
+            ′
+            ′
+          
+        
+        +
+        ξ
+        sin
+        ⁡
+        (
+        2
+        z
+        )
+        
+          w
+          
+            ′
+          
+        
+        +
+        (
+        η
+        −
+        p
+        ξ
+        cos
+        ⁡
+        (
+        2
+        z
+        )
+        )
+        w
+        =
+        0.
+        
+      
+    
+    {\displaystyle w^{\prime \prime }+\xi \sin(2z)w^{\prime }+(\eta -p\xi \cos(2z))w=0.\,}
+  
+
+When p is a non-negative integer, it has polynomial solutions called Ince polynomials. In particular, when 
+  
+    
+      
+        p
+        =
+        1
+        ,
+        η
+        ±
+        ξ
+        =
+        1
+      
+    
+    {\displaystyle p=1,\eta \pm \xi =1}
+  
+, then it has a closed-form solution
+
+  
+    
+      
+        w
+        (
+        z
+        )
+        =
+        C
+        
+          e
+          
+            −
+            i
+            z
+          
+        
+        (
+        
+          e
+          
+            2
+            i
+            z...

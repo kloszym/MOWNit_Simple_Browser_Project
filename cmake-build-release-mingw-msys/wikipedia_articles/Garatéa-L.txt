@@ -1,0 +1,9 @@
+Garatéa-L is a space probe planned by the Brazilian company Airvantis with the support of institutions such as INPE, IMT, ITA, LNLS/CNPEM, PUC-RS, UFSC, USP and USRA. It will be the first Brazilian mission in deep space, as well as the first directed to the Moon. The CubeSat will be launched by an Indian rocket PSLV as part of the Pathfinder mission, which will pioneer deep space commercial exploration through a partnership between British private companies  with the UK Space Agency (UKSA) and the European Space Agency (ESA).
+
+
+== Mission objectives ==
+The Garatéa-L spacecraft aims to investigate extreme living space conditions by conducting tests that will evaluate the effects of cosmic ray exposure on bacterial colonies and on human tissues, contributing to the area of astrobiology and space medicine. Since the spacecraft will be placed in a highly eccentric orbit around the Moon, it is also planned to collect multi-spectral images of the South Pole–Aitken basin on the far side of the Moon. Mission leaders also want to boost Brazilian students' interest in careers related to STEM.
+
+
+== Preparation and costs ==
+The preparations for the mission are both technical and financial. On the technical...

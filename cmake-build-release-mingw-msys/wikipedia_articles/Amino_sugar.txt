@@ -1,0 +1,9 @@
+In organic chemistry, an amino sugar is a sugar molecule in which a hydroxyl group has been replaced with an amine group.  More than 60 amino sugars are known, with one of the most abundant being N-acetyl-D-glucosamine (a 2-amino-2-deoxysugar), which is the main component of chitin.
+Derivatives of amine containing sugars, such as N-acetylglucosamine and sialic acid, whose nitrogens are part of more complex functional groups rather than formally being amines, are also considered amino sugars. Aminoglycosides are a class of antimicrobial compounds that inhibit bacterial protein synthesis. These compounds are conjugates of amino sugars and aminocyclitols.
+
+
+== Synthesis ==
+
+
+=== From glycals ===
+Glycals are cyclic enol ether derivatives of monosaccharides, having a double bond between carbon atoms 1 and 2 of the ring. N-functionalized of glycals at the C2 position, combined with glycosidic bond formation at C1 is a common strategy for the synthesis of amino sugars. This can be achieved using azides with subsequent reduction yielding the amino sugar. One advantage of introducing azide moiety at C-2 lies in its non-participatory ability, which could serve as the basis of stereoselective synthesis...

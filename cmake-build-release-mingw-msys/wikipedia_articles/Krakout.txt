@@ -1,0 +1,28 @@
+Krakout is a Breakout clone that was released for the ZX Spectrum, Amstrad CPC, BBC Micro, Commodore 64, Thomson computers and MSX platforms in 1987. One of the wave of enhanced Breakout variants to emerge in the wake of Arkanoid, its key distinctions are that gameplay is horizontal in layout, and that it allows the player to select the acceleration characteristics of the bat before playing. It was written by Andy Green and Rob Toone and published by Gremlin Graphics. The music was composed by Ben Daglish.
+
+
+== Reception ==
+In 1990, Dragon gave the game 4 out of 5 stars, calling it "one of our favorites, this is Breakout with a different flavor".
+
+
+== Reviews ==
+Computer Gamer (June 1987)
+Tilt (May 1987)
+Happy Computer (1987)
+ASM (Aktueller Software Markt) (March 1987)
+Tilt (July 1987)
+Computer Gamer (April 1987)
+Commodore User (April 1987)
+Your Sinclair (February 1989)
+Zzap! (April 1987)
+Crash! (February 1989)
+Jeux & Stratégie #45
+
+
+== References ==
+
+
+== External links ==
+Krakout at Lemon 64
+Krakout at SpectrumComputing.co.uk
+Krakout at Complete BBC Games Archive

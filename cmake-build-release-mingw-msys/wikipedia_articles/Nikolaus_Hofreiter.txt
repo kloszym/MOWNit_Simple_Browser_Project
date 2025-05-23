@@ -1,0 +1,6 @@
+Nikolaus Hofreiter (8 May 1904 – 23 January 1990) was an Austrian mathematician who worked mainly in number theory.
+
+
+== Biography ==
+Hofreiter went to school in Linz and studied from 1923 in Vienna with Hans Hahn, Wilhelm Wirtinger, Emil Müller at the Technische Universität Wien on descriptive geometry, and Philipp Furtwängler, with whom he obtained his doctorate in 1927 on the reduction theory of quadratic forms (Eine neue Reduktionstheorie für definite quadratische Formen). In 1928 he passed the Lehramtsprüfung examination and completed the probationary year as a teacher in Vienna, but then returned to the university (first as a scientific assistant at the TU Vienna) where in 1929 he was assistant to Furtwängler and then habilitated in 1933. He was even then an excellent teacher, and gave lectures not only in Vienna but also in Graz.
+His dissertation and habilitation thesis dealt with the reduction theory of quadratic forms, which Gauss, Charles Hermite and Hermann Minkowski had worked on previously. Hofreiter treated the case of four variables of a problem of Minkowski (Minkowski had solved the problem for two variables, while Robert Remak had solved it for three variables) on the...

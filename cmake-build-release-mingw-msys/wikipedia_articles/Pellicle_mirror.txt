@@ -1,0 +1,6 @@
+A pellicle mirror is an ultra-thin, ultra-lightweight semi-transparent mirror employed in the light path of an optical instrument, splitting the light beam into two separate beams, both of reduced light intensity. Splitting the beam allows its use for multiple purposes simultaneously. The thinness of the mirror practically eliminates beam or image doubling due to a non-coincident weak second reflection from the nominally non-reflecting surface, a problem with mirror-type beam splitters. The name pellicle is a diminutive of pellis, a skin or film.
+
+
+== In photography ==
+In photography, the pellicle mirror has been employed in single-lens reflex (SLR) cameras, at first to enable through-the-lens exposure measurement and possibly to reduce camera shake, but later most successfully to enable fast series photography, which otherwise would be slowed down by the movement of the reflex mirror, while maintaining constant finder vision.
+The first use of pellicle mirrors for consumer photography however were in color separation cameras. The Devin Tricolor Camera from at least the 1938 version used two pellicle mirrors plus three color filters to split the image from a single lens into three images...

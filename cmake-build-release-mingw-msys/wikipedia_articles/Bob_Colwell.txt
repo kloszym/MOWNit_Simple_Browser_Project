@@ -1,0 +1,14 @@
+Robert P. "Bob" Colwell (born 1954) is an electrical engineer who worked at Intel and later served as Director of the Microsystems Technology Office (MTO) at DARPA. He was the chief IA-32 architect on the Pentium Pro, Pentium II, Pentium III, and Pentium 4 microprocessors. Bob retired from Intel in 2000. He was an Intel Fellow from 1995 to 2000.
+
+
+== Early life and education ==
+Colwell grew up in a small blue collar town in Pennsylvania and was born into a family of six children. His father was a milkman for 35 years. He attended the University of Pittsburgh and gained an undergraduate degree in Electrical Engineering. He later attended Carnegie Mellon University to get a PhD in Electrical Engineering.
+
+
+== Career ==
+Colwell worked at a company called Multiflow in the late 1980s as a design engineer.
+In 1990 he joined Intel as a senior architect and was involved in the development of the P6 "core". The P6 core was used in the Pentium Pro, Pentium II, and Pentium III microprocessors, and designs derived from it are used in the Pentium M, Core Duo and Core Solo, and Core 2 microprocessors sold by Intel.
+
+
+== Memberships and awards ==
+Colwell earned the ACM Eckert-Mauchly Award in 2005, and...

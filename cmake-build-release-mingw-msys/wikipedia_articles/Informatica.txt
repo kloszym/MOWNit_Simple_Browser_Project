@@ -1,0 +1,10 @@
+Informatica Inc. is an American software development company founded in 1993. It is headquartered in Redwood City, California. Its core products include enterprise cloud data management and data integration. It was co-founded by Gaurav Dhillon and Diaz Nesamoney. Amit Walia is the company's CEO.
+
+
+== History ==
+Informatica was founded in 1993 by Gaurav Dhillon and Diaz Nesamoney.
+On 29 April 1999, its initial public offering on the Nasdaq stock exchange listed its shares under the stock symbol INFA.
+On 7 April 2015, Permira and Canada Pension Plan Investment Board announced that a company controlled by the Permira funds and CPPIB would acquire Informatica for approximately US$5.3 billion. On 6 August 2015, the acquisition was completed and Microsoft and Salesforce Ventures invested in the company as part of the deal. The company's stock ceased trading on the Nasdaq effective on the same date.
+On 27 October 2021, Informatica again became publicly traded with the INFA stock symbol, this time listed on the NYSE, opening at $27.55 per share.
+In June 2023 Informatica acquired Privitar, a data management tool.
+In November 2023, Informatica announced a restructuring plan to focus on its cloud...

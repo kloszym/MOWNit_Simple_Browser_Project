@@ -1,0 +1,11 @@
+The Class C56 is a type of 2-6-0 steam locomotive designed by Hideo Shima and operated by the Japanese Government Railways (JGR) from 1935 to 1939, and later by its post-war successor Japanese National Railways (JNR). 
+A total of 164 locomotives were built between 1935 and 1939. During the Second World War, locomotives numbered C56 1 to C56 90 and C56 161 to C56 164 were sent to Southeast Asia, where some remained in service until the 1980s. The last C56 was retired in 1974, though several have been preserved and remain operational for heritage purposes.
+
+
+== History ==
+
+
+=== Design ===
+
+The Class C56 was a compact, lightweight design to operate on light-graded branch lines unsuitable for larger locomotives. Initially introduced in 1935, the C56 was based on the earlier C12 tank locomotive but adapted for longer distances by replacing its onboard water tank and coal bunker with a tender, which allowed for greater fuel and water capacity.
+Branch lines often lacked turntables, which posed operational challenges for tender locomotives. While the C12 could easily operate in reverse, the C56 required modifications to improve rear visibility. To address this, the tender was designed with cut-outs...

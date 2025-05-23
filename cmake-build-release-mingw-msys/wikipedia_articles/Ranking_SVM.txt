@@ -1,0 +1,9 @@
+In machine learning, a ranking SVM is a variant of the support vector machine algorithm, which is used to solve certain ranking problems (via learning to rank). The ranking SVM algorithm was published by Thorsten Joachims in 2002. 
+The original purpose of the algorithm was to improve the performance of an internet search engine. However, it was found that ranking SVM also can be used to solve other problems such as Rank SIFT.
+
+
+== Description ==
+The ranking SVM algorithm is a learning retrieval function that employs pairwise ranking methods to adaptively sort results based on how 'relevant' they are for a specific query. The ranking SVM function uses a mapping function to describe the match between a search query and the features of each of the possible results. This mapping function projects each data pair (such as a search query and clicked web-page, for example) onto a feature space. These features are combined with the corresponding click-through data (which can act as a proxy for how relevant a page is for a specific query) and can then be used as the training data for the ranking SVM algorithm.
+Generally, ranking SVM includes three steps in the training period: 
+
+It maps the similarities...

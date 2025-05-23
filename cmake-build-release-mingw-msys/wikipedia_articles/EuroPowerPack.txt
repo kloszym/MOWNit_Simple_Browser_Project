@@ -1,0 +1,18 @@
+The EuroPowerPack is the combination of the MTU MT883 Ka-500/501 diesel engine delivering over 1100 kW (1500 PS) shaft power with the ten-speed (five forward, five reverse) Renk HSWL 295TM automatic transmission for the use in heavy tracked vehicles like tanks.
+Initially the version with the MT883 Ka-500 engine provided 1500 shaft horsepower, but in 2002 an improved version using the MT883 Ka-501 providing 1650hp was tested 
+
+
+== Engine specifications ==
+Engine: German MTU MT883 Ka-500/501 27-litre (27,361 cc) 90° V-block 12-cylinder liquid-cooled diesel engine
+Bore x stroke: 144 mm x 140 mm (5.669 inches X 5.512 inches)
+Aspiration: 2x single-stage turbocharged & air-to-liquid intercooled (charged-air cooler)
+Fuel system: Mechanical fuel line pump or Common rail (Ka-500)/Common rail (Ka-501)
+Coolant capacity: 110 L (29.05 gal)
+Lubrication: Dry sump
+Lubricant capacity: 80 L (21.13 gal)
+Engine length: 1,488 mm (58.583 inches)
+Engine width: 972 mm (38.268 inches)
+Engine height: 742 mm (29.213 inches)
+Dry weight (estimated): 1,800 kg (3,968 lbs)
+Power: 1,500 hp (Ka-500)/1,630 hp (Ka-501) @ 2,700 rpm Rated 1min
+Torque: 3,352 lb·ft (4545Nm)(Ka-500)/3,687 lb·ft (4999Nm)(Ka-501) @ 2,000 rpm...

@@ -1,0 +1,6 @@
+.17 Hornady Magnum Rimfire, commonly known as the .17 HMR, is a rimfire rifle cartridge developed by Hornady in 2002. It was developed by necking down a .22 Winchester Magnum Rimfire case to take a .17 caliber (4.5mm) projectile. Commonly loaded with a 17 grain (1.1 g) projectile, it can deliver muzzle velocities in excess of 775 m/s (2,650 ft/s).
+
+
+== Development ==
+
+The .17 HMR round is similar to rounds developed by dedicated rimfire wildcatters who worked to create a rimfire cartridge with an exceptionally flat trajectory. These wildcatters were seeking to match the ballistics of the obsolete 5mm Remington Rimfire Magnum, which was made from 1970 to 1974, and was to that point the fastest rimfire cartridge ever produced. With 5 mm diameter barrels and bullets being virtually unavailable at the time (the 5mm RMR was the last commercial 5 mm round until the 2004 release of the centerfire .204 Ruger), the commercially available .17 caliber became their bullet of choice. The .22 Winchester Magnum Rimfire was the logical parent case, rather than the 5mm RMR (with its unique case head size, which requires a significantly different bolt and magazine) because it was commonly available, and...

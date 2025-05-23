@@ -1,0 +1,30 @@
+The S&P/TSX 60 Index is a stock market index of 60 large companies listed on the Toronto Stock Exchange. Launched on December 30, 1998 by the Canadian S&P Index Committee, a unit of S&P Dow Jones Indices, the index has components across nine sectors of the Canadian economy. The index forms the S&P/TSX Composite Index alongside the S&P/TSX Completion Index, as well as being the Canadian component of the S&P Global 1200.
+
+
+== Constituents ==
+As of October 3, 2024 the constituents were:
+
+
+== Sector weights ==
+The weighting of the Global Industry Classification Standard (GICS) as of May 10, 2024 are:
+
+
+== TSX 60-based funds ==
+The iShares S&P/TSX 60 Index Fund (TSX: XIU) and the Global X S&P/TSX 60 Index ETF (TSX: HXT) are Canadian exchange-traded index funds that are tied to the S&P/TSX 60.
+
+
+== See also ==
+S&P/TSX Composite Index
+List of companies listed on the Toronto Stock Exchange
+S&P Global 1200
+TSX Venture 50
+Jantzi Social Index
+
+
+== References ==
+
+
+== External links ==
+S&P/TSX 60 index at Toronto Stock Exchange
+S&P/TSX 60 index at S&P Dow Jones Indices
+Bloomberg page for SPTSX60:IND

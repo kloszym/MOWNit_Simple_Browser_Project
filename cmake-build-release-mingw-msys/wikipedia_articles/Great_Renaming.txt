@@ -1,0 +1,15 @@
+The Great Renaming was a restructuring of Usenet newsgroups that took place in 1987. B News maintainer and UUNET founder Rick Adams is generally considered to be the initiator of the Renaming.
+
+
+== Motivation ==
+The primary reason for the Great Renaming was said to be the difficulty of maintaining a list of all the existing groups.
+An alternative explanation was that European networks refused to pay for some of the high-volume and low-content groups such as those regarding religion and racism; this resulted in a need for categorization of all such newsgroups.
+The suggested category for the newsgroups less popular among European networks was talk.*
+
+
+== History ==
+
+
+=== Pre-renaming ===
+Before the Renaming, the newsgroups were categorized into three hierarchies: fa.* for groups gatewayed from ARPANET, mod.* for moderated discussions, and net.* for unmoderated groups. Names of the groups were said to be rather haphazard.
+While reorganization discussions had occurred earlier, software limitations prevented the adoption of a consistent organizational scheme.  Improvements introduced by Adams during 1986 with B News version 2.11 removed the requirement for moderated groups to use the "mod." prefix...

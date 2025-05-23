@@ -1,0 +1,32 @@
+The Wolseley Aries III or A.R.9 was a British nine-cylinder, air-cooled radial aero engine that first ran in 1933, it was designed and built by Wolseley Motors. Intended for the military trainer aircraft market few were produced as Wolseley withdrew from the aero engine market in 1936.
+A larger capacity version was known as the Wolseley Scorpio. Further-enlarged versions, the Leo and Libra, were test run but did not fly.
+
+
+== Variants ==
+A.R.9 Mk I
+203 horsepower (151 kW).
+A.R.9 Mk II
+205 horsepower (153 kW). Higher permissible rpm version of Mk I.
+A.R.9 Aries Mk III
+225 horsepower (168 kW), low boost supercharger fitted.
+Scorpio I
+250 horsepower (186 kW), (230 bhp at 2,250 rpm), increased bore (111mm x 120 mm) to give a displacement of 9,477 cc, increased compression ratio. Reduction gearing.
+Scorpio II and III
+250 horsepower (186 kW), designed to run on 87 octane fuel with 6.5:1 ratio.
+Leo
+280 horsepower (209 kW), few details, not flown or produced.
+Libra
+390 hp at 6,000 ft. 725 lbs (329 kg). Tested but not flown or produced.
+
+
+== Applications ==
+Airspeed Envoy
+Hawker Tomtit
+
+
+== Specifications (A.R.9 Aries Mk III) ==
+Data from Lumsden
+
+
+=== General characteristics ===
+Type: 9-cylinder, single...

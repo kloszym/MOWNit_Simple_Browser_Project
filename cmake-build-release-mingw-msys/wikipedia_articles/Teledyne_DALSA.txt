@@ -1,0 +1,7 @@
+Teledyne DALSA (formerly DALSA Corporation) is a Canadian company specializing in the design and manufacture of specialized electronic imaging components (image sensors, cameras, frame grabbers, imaging software) as well as specialized semiconductor fabrication (MEMS, high voltage ASICs). Teledyne DALSA is part of the Teledyne Imaging group, the leading-edge imaging companies aligned under the Teledyne umbrella.
+
+
+== History ==
+The company was founded in Waterloo, Ontario, Canada in 1980 by imaging pioneer Savvas Chamberlain, a former professor in electrical engineering at the University of Waterloo. It originally concentrated in developing and generating charge-coupled device (CCD) image sensor technology.
+The company was capitalised in November 1984 and was publicly listed on the Toronto Stock Exchange in May 1996.
+It has grown into an industry leader in semiconductor technology, employing as of 2011 approximately 1000 individuals worldwide and earning revenues of more than $200 million.  Headquarters remain in Waterloo, Ontario, Canada, but the company has expanded operations into Billerica, Massachusetts; Santa Clara, California; Bromont and Montreal, Quebec; Eindhoven and Enschede...

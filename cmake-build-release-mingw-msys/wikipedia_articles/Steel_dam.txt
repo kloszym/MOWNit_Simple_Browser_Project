@@ -1,0 +1,8 @@
+A steel dam is a type of dam (a structure to impound or retard the flow of water) that is made of steel, rather than the more common masonry, earthworks, concrete or timber construction materials.
+Relatively few examples were ever built. Of the three built in the US, two remain: the Ashfork-Bainbridge Steel Dam, built in 1898 in the Arizona desert to supply locomotive water to the Atchison, Topeka and Santa Fe Railway (ATSF), and the Redridge Steel Dam, built 1901, in the Upper Peninsula of Michigan to supply water to stamp mills. The third, the Hauser Lake Dam in Montana, was finished in 1907 but failed in 1908.
+Steel dams were found to be uneconomical after World War I, as the price of steel increased by many multiples, compared with cement prices. Their economics are highly favourable in 21st century due to lower total onsite labour costs, lower cost for bulk material transportation, availability of more construction time in a year, and flexibility in construction plan complying statuary requirements, etc.
+
+
+== Principles of operation ==
+
+Steel dams use a series of footings anchored in the earth. These footings hold struts which in turn hold up a series of deck girders which in turn...

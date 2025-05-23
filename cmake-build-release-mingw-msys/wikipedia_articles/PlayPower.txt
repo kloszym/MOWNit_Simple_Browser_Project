@@ -1,0 +1,7 @@
+PlayPower is a non-profit organization designed to create free educational computer software for low income families in India and other developing countries. After 2012 the project was reformed as PlayPower Labs, LLC, which focuses now on educational games for mobile platforms.
+
+
+== Concept ==
+
+The games are designed to run on 8-bit systems, using designs and processors that are in the public domain e.g. Famicom clones which patents have expired, which allows the games to be run on very low cost computers. For $12, families can buy a compatible computer with an 8-bit, 6502 processor, a keyboard, a slot for game cartridges, a mouse, and two game controllers. Lacking its own monitor, the computer plugs into a TV screen for display. Part of the software should be acquired as source code of commercially unavailable educational games, like Number Munchers and Lemonade Stand, and ported by the open-source community.
+At least three games were in production as of early 2010, "Hanuman Typing warrior", "Hanuman's Quiz Adventure" and the "Mosquito game". The project opened the source code for these three games, written in assembly. One of them teaches players how to type, which can greatly improve...

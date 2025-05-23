@@ -1,0 +1,8 @@
+A photographic lens for which the focus is not adjustable is called a fixed-focus lens or sometimes focus-free. The focus is set at the time of lens design, and remains fixed. It is usually set to the hyperfocal distance, so that the depth of field ranges all the way down from half that distance to infinity, which is acceptable for most cameras used for capturing images of humans or objects larger than a meter.
+Rather than having a method of determining the correct focusing distance and setting the lens to that focal point, a fixed-focus lens relies on sufficient depth of field to produce acceptably sharp images. Most cameras with focus-free lenses also have a relatively small aperture, which increases the depth of field. Fixed-focus cameras with extended depth of field (EDOF) sometimes are known as full-focus cameras.
+
+
+== Concept ==
+
+In order to reach a minimal focal distance, the aperture and the focal length of the lens are reduced (a slow wide-angle lens), to make the hyperfocal distance small. This allows the depth of field to extend from a short distance to infinity.
+A disadvantage of this is there will be reduction in light that will reach the film or sensor through the small...

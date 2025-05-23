@@ -1,0 +1,6 @@
+Slicing the Truth: On the Computability Theoretic and Reverse Mathematical Analysis of Combinatorial Principles is a book on reverse mathematics in combinatorics, the study of the axioms needed to prove combinatorial theorems. It was written by Denis R. Hirschfeldt, based on a course given by Hirschfeldt at the National University of Singapore in 2010, and published in 2014 by World Scientific, as volume 28 of the Lecture Notes Series of the Institute for Mathematical Sciences, National University of Singapore.
+
+
+== Topics ==
+The book begins with five chapters that discuss the field of reverse mathematics, which has the goal of classifying mathematical theorems by the axiom schemes needed to prove them, and the big five subsystems of second-order arithmetic into which many theorems of mathematics have been classified. These chapters also review some of the tools needed in this study, including computability theory, forcing, and the low basis theorem.
+Chapter six, "the real heart of the book", applies this method to an infinitary form of Ramsey's theorem: every edge coloring of  a countably infinite complete graph or complete uniform hypergraph, using finitely many colors, contains a monochromatic...

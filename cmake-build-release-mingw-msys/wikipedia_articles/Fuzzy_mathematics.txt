@@ -1,0 +1,14 @@
+Fuzzy mathematics  is the branch of mathematics including fuzzy set theory and fuzzy logic that deals with partial inclusion of elements in a set on a spectrum, as opposed to simple binary "yes" or "no" (0 or 1) inclusion.  It started in 1965 after the publication of Lotfi Asker Zadeh's seminal work Fuzzy sets. Linguistics is an example of a field that utilizes fuzzy set theory.
+
+
+== Definition ==
+A fuzzy subset A of a set X is a function A: X → L, where L is the interval [0, 1]. This function is also called a membership function. A membership function is a generalization of an indicator function (also called a characteristic function) of a subset defined for L = {0, 1}.  More generally, one can use any complete lattice L in a definition of a fuzzy subset A.
+
+
+== Fuzzification ==
+The evolution of the fuzzification of mathematical concepts can be broken down into three stages: 
+
+straightforward fuzzification during the sixties and seventies,
+the explosion of the possible choices in the generalization process during the eighties,
+the standardization, axiomatization, and L-fuzzification in the nineties.
+Usually, a fuzzification of mathematical concepts is based on a generalization of these...

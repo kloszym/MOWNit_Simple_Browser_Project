@@ -1,0 +1,9 @@
+Spiroplasma kunkelii is a species of Mollicutes, which are small bacteria that all share a common cell wall-less feature. They are characterized by helical and spherical morphology, they actually have the ability to be spherical or helical depending on the circumstances. The cells movement is bound by a membrane. The cell size ranges from 0.15 to 0.20 micrometers.
+
+
+== Morphology ==
+Spiroplasma kunkelii is a helical prokaryote that does not have a cell wall. The helical shape of S. kunkelii allows for the bacterium to be motile through flexional and rotational motility. The cell sizes are approximately 0.15-0.2 μm in diameter and 2.0 15 μm in length. The elongated shape of S. kunkelii aids in nutrient import. The helical shape is thought to be the result of the cytoskeletal protein fibril. Though it has been observed that with environmental changes S. kunkelii can change into a coccoid shape. The ends of the helical shape have a tapered ends and blunt or rounded tips. The tip structure exposes adhesins that are used to attach to cells.
+
+
+== Genome and phylogeny ==
+Initial phylogeny of S. kunkelii was established according to biochemical and phenotypic characteristics. These methods provided...

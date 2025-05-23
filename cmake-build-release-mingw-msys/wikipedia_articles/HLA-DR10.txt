@@ -1,0 +1,29 @@
+HLA-DR10 (DR10) is a HLA-DR serotype that recognizes the DRB1*1001 gene product.
+
+
+== Serology ==
+
+The serological reaction of DR10 is relatively good.
+
+
+== Disease associations ==
+
+
+=== By serotype ===
+DR10 serotype or cognate alleles are associated with: Lichen planus
+
+
+=== By allele ===
+DRB1*1001 is associated with  ovarian cancer and invasive squamous cell cervical cancer (SCC)
+
+
+== Extended linkage ==
+DRB1*1001:DQA1*01:DQB1*05 haplotype: Rheumatoid arthritis The primary involvement appears to be DR10.
+
+
+== Genetic Linkage ==
+
+HLA-DR10 is not genetically linked to DR51, DR52 or DR53, but is linked to HLA-DQ1 and DQ5 serotypes. One haplotype found in caucasians is the HLA-A1-B37-Cw6-DR10-DQ5.
+
+
+== References ==

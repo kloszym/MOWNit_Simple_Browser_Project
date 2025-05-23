@@ -1,0 +1,18 @@
+Time in Niger is given by a single time zone, officially denoted as West Africa Time (WAT; UTC+01:00). Niger adopted WAT on 1 January 1912, and has never observed daylight saving time.
+
+
+== IANA time zone database ==
+In the IANA time zone database, Niger is given one zone in the file zone.tab – Africa/Niamey. "NE" refers to the country's ISO 3166-1 alpha-2 country code. Data for Niger directly from zone.tab of the IANA time zone database; columns marked with * are the columns from zone.tab itself:
+
+
+== See also ==
+List of time zones by country
+List of UTC time offsets
+
+
+== References ==
+
+
+== External links ==
+Current time in Niger at Time.is
+Time in Niger at TimeAndDate.com

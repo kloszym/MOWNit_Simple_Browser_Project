@@ -1,0 +1,10 @@
+Quantum Computing Since Democritus is a 2013 book on quantum information science written by Scott Aaronson. It is loosely based on a course Aaronson taught at the University of Waterloo, Canada, the lecture notes for which are available online.
+
+
+== Contents ==
+Aaronson has stated that he intends the book to be at the same level as Leonard Susskind's The Theoretical Minimum or Roger Penrose's The Road to Reality; Physics Today compared it to George Gamow's One Two Three... Infinity. The book covers everything from computer science to mathematics to quantum mechanics and quantum computing, starting, as the title indicates, with Democritus.
+
+
+=== Front cover ===
+The front cover image is an oil canvas painting of Democritus by Hendrik ter Brugghen dated 1628. It depicts Democritus as a young, laughing hedonist who points in the distance, as to where the folly of mankind is found.
+The image invokes Aaronson's discussions on  Democritus' concept of atoms and the void, which forms the foundational understanding of matter at the atomic level, is relevant to quantum computing, where manipulating and controlling individual quantum objects for calculations echoes the early atomic theory's significance...

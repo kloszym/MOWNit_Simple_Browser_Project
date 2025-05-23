@@ -1,0 +1,8 @@
+In electrochemistry, protein film voltammetry (or protein film electrochemistry, or direct electrochemistry of proteins) is a technique for examining the behavior of proteins immobilized (either adsorbed or covalently attached) on an electrode. The technique is applicable to proteins and enzymes that engage in electron transfer reactions and it is part of the methods available to study enzyme kinetics.
+Provided that it makes suitable contact with the electrode surface (electron transfer between the electrode and the protein is direct) and provided that it is not denatured, the protein can be fruitfully interrogated by monitoring current as a function of electrode potential and other experimental parameters.
+Various electrode materials can be used. Special electrode designs are required to address membrane-bound proteins.
+
+
+== Experiments with redox proteins ==
+Small redox proteins such as cytochromes and ferredoxins can be investigated on condition that their electroactive coverage (the amount of protein undergoing direct electron transfer) is large enough (in practice, greater than a fraction of pmol/cm2).
+Electrochemical data obtained with small proteins can be used to measure the redox...

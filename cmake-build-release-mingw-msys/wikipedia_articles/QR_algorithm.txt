@@ -1,0 +1,39 @@
+In numerical linear algebra, the QR algorithm or QR iteration is an eigenvalue algorithm: that is, a procedure to calculate the eigenvalues and eigenvectors of a matrix. The QR algorithm was developed in the late 1950s by John G. F. Francis and by Vera N. Kublanovskaya, working independently.  The basic idea is to perform a QR decomposition, writing the matrix as a product of an orthogonal matrix and an upper triangular matrix, multiply the factors in the reverse order, and iterate.
+
+
+== The practical QR algorithm ==
+Formally, let A be a real matrix of which we want to compute the eigenvalues, and let A0 := A. At the k-th step (starting with k = 0), we compute the QR decomposition Ak = Qk Rk where Qk is an orthogonal matrix (i.e., QT = Q−1) and Rk is an upper triangular matrix. We then form Ak+1 = Rk Qk. Note that
+
+  
+    
+      
+        
+          A
+          
+            k
+            +
+            1
+          
+        
+        =
+        
+          R
+          
+            k
+          
+        
+        
+          Q
+          
+            k
+          
+        
+        =
+        
+          Q
+          
+            k
+          
+          
+            −
+            1...

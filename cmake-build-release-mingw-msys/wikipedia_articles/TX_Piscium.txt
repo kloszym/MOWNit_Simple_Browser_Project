@@ -1,0 +1,12 @@
+TX Piscium (19 Piscium) is a variable red giant star in the constellation Pisces.  It is amongst the reddest naked eye stars, with a significant reddish hue when seen in binoculars.   It is approximately 800 light years from Earth. It is close to—and sometimes considered part of—the asterism on the western end of the constellation called the circlet of Pisces.
+
+
+== Spectrum ==
+TX Piscium is a very red star, 2.6 magnitudes fainter at blue wavelengths than in the middle of the visual range, and another 3.3 magnitudes fainter in the ultraviolet.
+It has been given a spectral class C7,2, indicating a relatively cool carbon star with only modest C2 band strength.  It has alternately been classified as C-N5 C24, suggesting a warmer star with stronger C2 bands.  Spectral features have been observed to vary.
+
+
+== Variability ==
+
+The apparent magnitude of TX Piscium varies between +4.9 and +5.5 and it is classified as a slow irregular variable.  Photometry has shown some periodicity in the brightness of 224 days, and some spectral variation over 450 days, suggesting the star is not entirely irregular.
+The star apparently lies on the period-luminosity relation corresponding to fundamental mode pulsations...

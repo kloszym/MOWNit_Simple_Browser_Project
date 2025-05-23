@@ -1,0 +1,54 @@
+In philosophical logic, the concept of an impossible world (sometimes called a non-normal world)
+is used to model certain
+phenomena that cannot be adequately handled using ordinary possible worlds. An
+impossible world, 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  
+, is the same sort of thing as a possible world 
+  
+    
+      
+        w
+      
+    
+    {\displaystyle w}
+  
+ (whatever that may be),
+except that it is in some sense "impossible." Depending on the context, this may mean that some contradictions, statements of the form  
+  
+    
+      
+        p
+        ∧
+        ¬
+        p
+      
+    
+    {\displaystyle p\land \lnot p}
+  
+ are true at 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  
+,  or that the normal laws of logic, metaphysics, and mathematics, fail to
+hold at 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  
+, or both. Impossible worlds are controversial objects in philosophy, logic, and semantics. They have been around since the advent of possible world semantics for modal logic, as well as world based semantics for non-classical logics, but have yet to find the ubiquitous acceptance, that their possible counterparts have...

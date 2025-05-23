@@ -1,0 +1,39 @@
+This is a list of electricity-generating power stations in the U.S. state of South Carolina, sorted by type and name. In 2022, South Carolina had a total summer capacity of 24,286 MW through all of its power plants, and a net generation of 98,709 GWh. In 2023, the electrical energy generation mix was 54.6% nuclear, 23.8% natural gas, 14.9% coal, 2.7% solar, 2% hydroelectric, 1.9% biomass, and 0.1% petroleum.
+South Carolina is the nation's third largest producer of nuclear power, with four nuclear plants. Natural gas has been the most rapidly growing source of generation; quadrupling over the decade starting 2010. Data from the U.S. Energy Information Administration serves as a general reference.
+
+
+== Nuclear power stations ==
+
+
+== Fossil-fuel power stations ==
+
+
+=== Coal ===
+
+A  Units 2 and 3 were originally planned to be converted to natural gas as an interim step to closure, but those plans were abandoned.
+B  Fueled by mix of coal and natural gas
+C  Units 3 and 4 are permitted to fire up to 30% petcoke by weight on either boiler.
+
+
+=== Natural gas ===
+
+
+== Renewable power stations ==
+
+
+=== Biomass ===
+
+
+=== Hydroelectric ===
+
+
+=== Solar ===
+
+
+== Storage power stations ==
+
+
+=== Pumped storage ===
+
+
+== See also... ==

@@ -1,0 +1,10 @@
+Leprecan is a protein associated with osteogenesis imperfecta type VIII. 
+Leprecan is part of a superfamily of 2OG-Fe(II) dioxygenase, along with DNA repair protein AlkB, and disease resistant EGL-9. The enzyme was found to be a type of hydroxylases used in the substrate formation of protein glycosylation.
+
+
+== Activities ==
+Leprecan, a proteoglycan, has demonstrated prolyl hydroxylase activity; prolyl hydroxylases hydroxylate proline residues. Prolyl 3-hydroxylase 1, P3H1, forms a larger complex with CRTAP and cyclophilin B, CyPB, in the endoplasimic reticulum. The complex hydroxylates a single proline residue, Pro986, on collagen chains. Recessive forms of Osteogenesis Imperfecta are partly caused by a mutation in the LEPRE1 gene. The mutation in the gene encodes prolyl 3-hydroxylase 1. The malfunctioning prolyl 3-hydroxylase in leprecan leads to inappropriate collagen folding. This is due to the instability caused by the absence of hydroxyproline. Hydroxyproline is the product of hydroxylating a proline residue.
+
+
+== Structure ==
+Leprecan, also known as P3H1, forms a tight complex with CRTAP and cyclophilin B (PPIB), a collagen processing enzyme complex named PCP complex (P3H1-CRTAP...

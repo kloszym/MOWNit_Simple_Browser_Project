@@ -1,0 +1,6 @@
+A Butterworth cover (also Butterworth hatch and Butterworth plate) is a hatch on the deck of a cargo vessel that is used to seal a small opening that admits to the space below.
+In oil tankers and other marine vessels used for transporting fluid products, there are small service openings though the deck into each tank to allow access for miscellaneous reasons such as sampling, inspection, gauging and cleaning. When the service opening is not in use, it is sealed by a removable cover plate, commonly referred to as a Butterworth cover. Butterworth hatches are not the main access hatches, but are the servicing hatches, and are generally closed with a metal cover plate with a gasket that is fastened to the deck by a number of bolts which stick up from the deck. Holes on the edges of the plate fit over these bolts and the cover is fastened down with nuts or dogs.
+Vapor accidents can occur when pressure builds up in the tank below and the Butterworth cover is carelessly removed. Butterworth hatches have been responsible for a number of marine losses. In the United States, regulations prescribe requirements for Butterworth hatches and covers.
+
+
+== References ==

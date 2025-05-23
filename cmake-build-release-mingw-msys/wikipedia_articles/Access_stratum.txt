@@ -1,0 +1,28 @@
+The access stratum (AS) in computer networking and telecommunications is a functional layer in the UMTS and LTE wireless telecom protocol stacks between radio network and user equipment.  
+While the definition of the access stratum is very different between UMTS and LTE, in both cases the access stratum is responsible for transporting data over the wireless connection and managing radio resources. The radio network is also called access network.
+
+  +- - - - - -+       +- - - - - - -+
+  | HTTP      |       | Application |
+  +- - - - - -+       +- - - - - - -+
+  | TCP       |       | Transport   |
+  +- - - - - -+       +- - - - - - -+
+  | IP        |       | Internet    |
+  +- - - - - -+       +- - - - - - -+
+  | NAS       |       | Network     |
+  +- - - - - -+       +- - - - - - -+
+  | AS        |       | Link        |
+  +- - - - - -+       +- - - - - - -+
+  | Channels  |       | Physical    |
+  +- - - - - -+       +- - - - - - -+
+
+
+== See also ==
+Mobility Management
+GSM
+Communication protocol
+Internet protocol suite
+X.25 protocol suite
+OSI protocol suite
+
+
+== References ==

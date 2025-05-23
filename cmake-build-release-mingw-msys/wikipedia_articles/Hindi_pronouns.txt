@@ -1,0 +1,7 @@
+The personal pronouns and possessives in Modern Standard Hindi of the Hindustani language displays a higher degree of inflection than other parts of speech. Personal pronouns have distinct forms according to whether they stand for a subject (nominative), a direct object (accusative), an indirect object (dative), or a reflexive object. Pronouns further have special forms used with postpositions.
+The possessive pronouns are the same as the possessive adjectives, but each is inflected to express the grammatical person of the possessor and the grammatical gender of the possessed.
+Pronoun use displays considerable variation with register and dialect, with particularly pronoun preference differences between the most colloquial varieties of Hindi.
+
+
+== Postpositions ==
+The function of case marking in Hindi is done exclusively by postpositions. The pronouns of Hindi can be declined into three cases, nominative, oblique (and ergative), and dative/accusative. The oblique and ergative case is used with the case marking postpositions to form the ergative, accusative/dative, instrumental/ablative, genitive, inessive, adessive, terminative, and semblative cases. The postpositions are considered to...

@@ -1,0 +1,14 @@
+Middle Dutch is a collective name for a number of closely related West Germanic dialects whose ancestor was Old Dutch. It was spoken and written between 1150 and 1500. Until the advent of Modern Dutch after 1500 or c. 1550, there was no overarching standard language, but all dialects were mutually intelligible. During that period, a rich Medieval Dutch literature developed, which had not yet existed during Old Dutch. The various literary works of the time are often very readable for speakers of Modern Dutch since Dutch is a rather conservative language.
+
+
+== Phonology ==
+
+
+=== Differences with Old Dutch ===
+Several phonological changes occurred leading up to the Middle Dutch period.
+
+Earlier Old Dutch /ie/, /ia/, /io/ merge into /iə/ already in Old Dutch.
+Voiceless fricatives become voiced syllable-initially: /s/ > /z/, /f/ > /v/ (merging with /v/ from Proto-Germanic /b/), /θ/ > /ð/. (10th or 11th century)
+/ft/ > /xt/
+/iu/ > /yː/ or /iə/. The outcome is dialect-specific, with /iə/ found in more western dialects and /yː/ further east. This results in later pairs such as dietsc /diətsk/ versus duitsc /dyːtsk/.
+Various dialects also show /iw/ > /yw/, while others retain /iw/. Compare southeastern...

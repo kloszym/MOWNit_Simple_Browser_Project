@@ -1,0 +1,6 @@
+KOI8-U (RFC 2319) is an 8-bit character encoding, designed to cover Ukrainian, which uses a Cyrillic alphabet. It is based on KOI8-R, which covers Russian and Bulgarian, but replaces eight box drawing characters with four Ukrainian letters Ґ, Є, І, and Ї in both upper case and lower case.
+KOI8-RU is closely related, but adds Ў for Belarusian. In both, the letter allocations match those in KOI8-E, except for Ґ which is added to KOI8-F.
+In Microsoft Windows, KOI8-U is assigned the code page number 21866. In IBM, KOI8-U is assigned code page/CCSID 1168.
+KOI8 remains much more commonly used than ISO 8859-5, which never really caught on.  Another common Cyrillic character encoding is Windows-1251. In the future, both may eventually give way to Unicode.
+KOI8 stands for Kod Obmena Informatsiey, 8 bit (Russian: Код Обмена Информацией, 8 бит) which means "Code for Information Exchange, 8 bit".
+The KOI8 character sets have the property that the Cyrillic letters are in pseudo-Latin alphabetic order rather than Cyrillic alphabetical order as in ISO 8859-5. This has the useful effect that if the eighth bit is stripped and the text is presented in any character set based on ASCII including the KOI8...

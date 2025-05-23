@@ -1,0 +1,18 @@
+GMX Mail is a free, advertising-supported email service provided by Global Mail eXchange or Global Message eXchange in Germany. Users may access received GMX mail via webmail, or using POP3 or IMAP4 protocols. Mail is sent using SMTP. Founded in 1997, GMX is a subsidiary of Ionos SE, a stock-listed company in Germany, and a sister company to Ionos and Fasthosts Internet. In addition to an email address, each GMX account includes a Mail Collector, Address Book, Organizer, and File Storage. Every user can register up to 10 individual GMX email addresses. Popup ads are displayed to all users, including premium, at GMX login; as of 2021 GMX was the only large email provider using popup ads.
+
+
+== Security ==
+GMX Mail provides GMX.net and GMX.com users two-factor authentication (2FA) as a security measure.
+
+
+== Accessibilty ==
+Currently GMX Mail only allows select few countries to have an account. This includes (not complete list):
+
+United Kingdom
+Germany
+Switzerland
+Austria
+Italia
+
+
+== References ==

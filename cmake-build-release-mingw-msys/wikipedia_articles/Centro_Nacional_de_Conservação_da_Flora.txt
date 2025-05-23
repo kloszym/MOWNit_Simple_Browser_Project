@@ -1,0 +1,8 @@
+The Centro Nacional de Conservação da Flora (CNCFlora) is a Brazilian nonprofit organization that determines extinction risk of various Brazilian plant species. It intends to create a Red List (lista vermelha in Portuguese) of plants – a reference work of assessments of the state of conservation of the native plant species of Brazil.  It is hosted at the Rio de Janeiro Botanical Garden. It partnered with the Rafael Loyola Conservation Biogeography Lab, the International Union for Conservation of Nature (IUCN)  and Botanic Gardens Conservation International. It is supported financially by the Global Environment Facility, the Brazilian Ministry of Environment, as well as the Fundo Brasileiro para Biodiversidade and Associação Instituto V5.
+
+Conservation statuses of various Brazilian plant species is done by performing a risk assessment analysis, applying IUCN-recommended standards and procedures, then assigning said species to conservation categories as dictated by the IUCN.
+The goal is to investigate the status of all species by 2020. 
+
+
+== History ==
+In 2013, a list of threatened species was published. As a result, the Brazilian government extended legal protection to a total of 2,113...

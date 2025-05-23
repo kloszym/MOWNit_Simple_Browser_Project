@@ -1,0 +1,8 @@
+PDZ domain containing 9 is a protein that in humans is encoded by the PDZD9 gene.
+
+
+== References ==
+
+
+== External links ==
+PDBe-KB provides an overview of all the structure information available in the PDB for Mouse PDZ domain-containing protein 9

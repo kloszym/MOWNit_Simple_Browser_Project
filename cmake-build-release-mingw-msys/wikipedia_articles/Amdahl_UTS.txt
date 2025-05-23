@@ -1,0 +1,16 @@
+UTS (Universal Timesharing System) is a discontinued implementation of the UNIX operating system for IBM mainframe (and compatible) computers. Amdahl created the first versions of UTS, and released it in May 1981, with UTS Global acquiring rights to the product in 2002. UTS Global has since gone out of business.
+
+
+== System requirements ==
+UTS Release 4.5 supports the following S/390 model processors and their successors:
+
+Amdahl 5990, 5995A, 5995M series of ECL processors
+Amdahl Millennium Global Server series of CMOS processors
+Fujitsu Global Server
+IBM ES/9000/9021 series of ECL processors
+IBM G4, G5 & G6 Servers (the 9672 R and X series of CMOS processors)
+
+
+== History ==
+The UTS project had its origins in work started at Princeton University in 1975 to port UNIX to the IBM VM/370 system. Team members there were Tom Lyon, Joseph Skudlarek, Peter Eichenberger, and Eric Schmidt. Tom Lyon joined Amdahl in 1978, and by 1979 there was a full Version 6 Unix system on the Amdahl 470 being used internally for design automation engineering. In late 1979 this was updated to the more commonly ported Version 7.
+In 1980 Amdahl announced support for Unix on the System 470. The UTS (Universal Timesharing...

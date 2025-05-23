@@ -1,0 +1,20 @@
+Alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase (EC 3.6.1.63, phnM (gene)) is an enzyme with systematic name alpha-D-ribose-1-methylphosphonate-5-triphosphate diphosphohydrolase. This enzyme catalyses the following chemical reaction
+
+alpha-D-ribose 1-methylphosphonate 5-triphosphate + H2O 
+  
+    
+      
+        ⇌
+      
+    
+    {\displaystyle \rightleftharpoons }
+  
+ alpha-D-ribose 1-methylphosphonate 5-phosphate + diphosphate
+This enzyme is isolated from the bacterium Escherichia coli.
+
+
+== References ==
+
+
+== External links ==
+Alpha-D-ribose+1-methylphosphonate+5-triphosphate+diphosphatase at the U.S. National Library of Medicine Medical Subject Headings (MeSH)

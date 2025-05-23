@@ -1,0 +1,16 @@
+The farfallino alphabet (in Italian: alfabeto farfallino) is a language game used primarily in Italy, which can be regarded as an elementary form of substitution cipher. It is usually used by children for amusement or to converse in (perceived) privacy from adults. The name "farfallino" comes from the word "farfalla" (butterfly), which is an ordinary Italian word but sounds like the "codified" words in farfallino alphabet. The farfallino alphabet is similar to games found in other languages such as jeringonza (Spanish/Portuguese), langue de feu (French), Fay Kee Bolee (Urdu) and pig latin (English).
+
+
+== Rules and variations ==
+The usual rules for farfallino alphabet are based on the substitution of each vowel with a 3 letter sequence where the vowel itself is repeated with an interceding f.
+
+casa → cafasafa
+lago → lafagofo
+stella → stefellafa
+re → refe
+cercare → cefercafarefe
+ Here is an example:
+Quefestofo èfe ufun efesefempifiofo difi frafasefe ifin afalfafabefetofo fafarfafallifinofo. Nofon èfe fafacifilefe, afanchefe peferchèfe vafa defettofo ifil pifiùfu vefelofocefe pofossifibifilefe
+Its translation in Italian is:
+
+Questo è un esempio di frase in alfabeto farfallino. Non è facile...

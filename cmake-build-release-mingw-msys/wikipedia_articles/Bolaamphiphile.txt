@@ -1,0 +1,8 @@
+In chemistry, bolaamphiphiles (also known as bolaform surfactants, bolaphiles, or alpha-omega-type surfactants) are amphiphilic molecules that have hydrophilic groups at both ends of a sufficiently long hydrophobic hydrocarbon chain. Compared to single-headed amphiphiles, the introduction of a second head-group generally induces a higher solubility in water, an increase in the critical micelle concentration (CMC), and a decrease in aggregation number. The aggregate morphologies of bolaamphiphiles include spheres, cylinders, disks, and vesicles. Bolaamphiphiles are also known to form helical structures that can form monolayer microtubular self-assemblies.
+
+
+== References ==
+
+Fuhrhop, J-H; Wang, T. Bolaamphiphile, Chem. Rev. (2004), 104(6), 2901-2937.
+Chen, Yuxia; Liu, Yan; Guo, Rong.  Aggregation behavior of an amino acid-derived bolaamphiphile and a conventional surfactant mixed system.    Journal of Colloid and Interface Science  (2009),  336(2),  766-772.  CODEN: JCISA5  ISSN 0021-9797.  AN 2009:776584
+Yin, Shouchun; Wang, Chao; Song, Bo; Chen, Senlin; Wang, Zhiqiang.  Self-Organization of a Polymerizable Bolaamphiphile Bearing a Diacetylene Group and L-Aspartic Acid Group.    Langmuir...

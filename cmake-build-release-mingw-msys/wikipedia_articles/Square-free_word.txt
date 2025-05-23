@@ -1,0 +1,86 @@
+In combinatorics, a square-free word is a word (a sequence of symbols) that does not contain any squares. A square is a word of the form XX, where X is not empty. Thus, a square-free word can also be defined as a word that avoids the pattern XX.
+
+
+== Finite square-free words ==
+
+
+=== Binary alphabet ===
+Over a binary alphabet 
+  
+    
+      
+        {
+        0
+        ,
+        1
+        }
+      
+    
+    {\displaystyle \{0,1\}}
+  
+, the only square-free words are the empty word 
+  
+    
+      
+        ϵ
+        ,
+        0
+        ,
+        1
+        ,
+        01
+        ,
+        10
+        ,
+        010
+      
+    
+    {\displaystyle \epsilon ,0,1,01,10,010}
+  
+, and 
+  
+    
+      
+        101
+      
+    
+    {\displaystyle 101}
+  
+.
+
+
+=== Ternary alphabet ===
+Over a ternary alphabet 
+  
+    
+      
+        {
+        0
+        ,
+        1
+        ,
+        2
+        }
+      
+    
+    {\displaystyle \{0,1,2\}}
+  
+, there are infinitely many square-free words. It is possible to count the number 
+  
+    
+      
+        c
+        (
+        n
+        )
+      
+    
+    {\displaystyle c(n)}
+  
+ of ternary square-free words of length n.
+
+This number is bounded by 
+  
+    
+      
+        c...

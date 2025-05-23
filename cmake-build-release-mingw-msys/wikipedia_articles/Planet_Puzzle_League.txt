@@ -1,0 +1,6 @@
+Planet Puzzle League, known as Puzzle League DS in Europe, and as Panel de Pon DS in Japan, is a video game for the Nintendo DS handheld video game console in the Puzzle League Panel de Pon visual matching puzzle game series. In North America, Planet Puzzle League is part of the Touch! Generations brand; in Japan, Panel de Pon DS is marketed in the general Touch! brand. The publisher for the game is Nintendo, and the developer is Nintendo's second-party developer Intelligent Systems, creator of the original Panel de Pon and its cult classic English-language adaptation Tetris Attack. The game was released in Japan on April 26, 2007 in North America on June 4, 2007, and in Europe on June 29, 2007.
+
+
+== Gameplay ==
+In Planet Puzzle League, identically-sized square blocks (panels) of various colors are stacked in a two-dimensional well 6 spaces wide, of which the active on-screen playfield is 12 spaces tall. The blocks in the stack align according to an invisible grid, such that the blocks occupy distinct rows and columns.
+Planet Puzzle League, by default, is played with the Nintendo DS unit in a sideways "book-style" orientation, which allows the vertically oriented playfield and its blocks...

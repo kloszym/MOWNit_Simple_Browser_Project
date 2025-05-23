@@ -1,0 +1,25 @@
+The following tables compare general and technical information for a number of notable LAN messengers.
+
+
+== General information ==
+Basic general information about the LAN messengers: creator/company, license/price, among others.
+
+
+== Operating system support ==
+The operating systems the messengers can run on without emulators or compatibility layers.
+
+
+== Features ==
+
+Note 1: Using Apple's Bonjour protocol
+
+
+== See also ==
+Comparison of cross-platform instant messaging clients
+Comparison of instant messaging protocols
+Comparison of Internet Relay Chat clients
+LAN messenger
+Windows Messenger service
+
+
+== References ==

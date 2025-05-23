@@ -1,0 +1,8 @@
+Ferroelectric ceramics is a special group of minerals that have ferroelectric properties: the strong dependence of the dielectric constant of temperature, electrical field, the presence of hysteresis and others.
+The first widespread ferroelectric ceramics material, which had ferroelectric properties not only in the form of a single crystal, but in the polycrystalline state, i.e. in the form of ceramic barium titanate was BaO•TiO2, which is important now. Add to it some m-Liv not significantly change its properties. A significant nonlinearity of capacitance capacitor having ferroelectric ceramics materials, so-called varikondy, types of VC-1 VC-2, VC-3 and others.
+Ferroelectric ceramics are used in capacitors, sensors, actuators, non-volatile memory, and medical devices due to their ability to maintain and reverse electric polarization. Due to their piezoelectric and pyroelectric properties, they are also used in energy harvesting, infrared detectors, and ultrasonic transducers. Additionally, they are employed in RF filters, electro-optic devices, and various energy-efficient applications.
+
+
+== References ==
+
+Гірничий енциклопедичний словник: в 3 т. / За ред. В. С. Білецького. — Донецьк...

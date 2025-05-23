@@ -1,0 +1,67 @@
+In linear algebra, a power cone is a kind of a convex cone that is particularly important in modeling convex optimization problems. It is a generalization of the quadratic cone: the quadratic cone is defined using a quadratic equation (with the power 2), whereas a power cone can be defined using any power, not necessarily 2.
+
+
+== Definition ==
+The n-dimensional power cone is parameterized by a real number 
+  
+    
+      
+        0
+        <
+        r
+        <
+        1
+      
+    
+    {\displaystyle 0<r<1}
+  
+.  It is defined as:
+  
+    
+      
+        
+          P
+          
+            n
+            ,
+            r
+            ,
+            1
+            −
+            r
+          
+        
+        :=
+        
+          {
+          
+            
+              x
+            
+            ∈
+            
+              
+                R
+              
+              
+                n
+              
+            
+            :
+             
+             
+            
+              x
+              
+                1
+              
+            
+            ≥
+            0
+            ,
+             
+             
+            
+              x
+              
+                2...

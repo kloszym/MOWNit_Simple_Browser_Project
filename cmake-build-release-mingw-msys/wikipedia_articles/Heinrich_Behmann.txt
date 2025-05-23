@@ -1,0 +1,8 @@
+Heinrich Behmann (German: [ˈbeːman]; 10 January 1891, Bremen-Aumund – 3 February 1970, Bremen-Aumund) was a German mathematician. He performed research in the field of set theory and predicate logic.
+Behmann studied mathematics in Tübingen, Leipzig and Göttingen. During World War I, he was wounded and received the Iron Cross 2nd Class. David Hilbert supervised the preparation of his doctoral thesis, Die Antinomie der transfiniten Zahl und ihre Auflösung durch die Theorie von Russell und Whitehead. In 1922 Behmann proved that the monadic predicate calculus is decidable. In 1938 he obtained a professorial chair in mathematics at Halle (Saale). In 1945 he was dismissed for having been a member of the Nazi Party.
+
+
+== External links ==
+Biography (in German)
+Heinrich Behmann at the Mathematics Genealogy Project
+Mancosu, Paolo (Sep 1999). "Between Russell and Hilbert: Heinrich Behmann on the Foundations of Mathematics". The Bulletin of Symbolic Logic. 5 (3): 303–330. doi:10.2307/421183. JSTOR 421183. S2CID 14257163. Retrieved 2007-08-07.

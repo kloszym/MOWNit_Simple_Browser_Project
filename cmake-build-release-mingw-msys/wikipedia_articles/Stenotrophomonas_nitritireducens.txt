@@ -1,0 +1,11 @@
+Stenotrophomonas nitritireducens is a yellow-pigmented bacteria, named after its quality to reduce nitrite. It is a common soil bacteria. Its type strain is L2T (= DSM 12575T).
+Stenotrophomonas nitritireducens has the ability to transform unsaturated fatty acids into hydroxy fatty acids.  Hydroxy acids are incredibly important as they are the precursors of dicarboxylic acids and lactones and are one of the starting substances of polymers. 
+
+
+== References ==
+
+
+== Further reading ==
+In-Sik Yu; Soo-Jin Yeom; Hye-Jung Kim; Jung-Kul Lee; Yong-Hwi Kim; Deok-Kun Oh (February 2008). "Substrate specificity of Stenotrophomonas nitritireducens in the hydroxylation of unsaturated fatty acid". Applied Microbiology and Biotechnology. 78 (1): 157–163. doi:10.1007/s00253-007-1280-6. PMID 18060400. S2CID 23352609.
+Ryan, Robert P.; Monchy, Sebastien; Cardinale, Massimiliano; Taghavi, Safiyh; Crossman, Lisa; Avison, Matthew B.; Berg, Gabriele; van der Lelie, Daniel; Dow, J. Maxwell (2009). "The versatility and adaptation of bacteria from the genus Stenotrophomonas". Nature Reviews Microbiology. 7 (7): 514–525. doi:10.1038/nrmicro2163. ISSN 1740-1526. PMID 19528958. S2CID 1969926.
+Ramos, Patrícia Locosque...

@@ -1,0 +1,10 @@
+Intel Ct is a programming model developed by Intel to ease the exploitation of its future multicore chips, as demonstrated by the Tera-Scale research program.
+It is based on the exploitation of SIMD to produce automatically parallelized programs.
+On August 19, 2009, Intel acquired RapidMind, a privately held company founded and headquartered in Waterloo, Ontario, Canada. RapidMind and Ct combined into a successor named Intel Array Building Blocks (ArBB) released in September 2010.
+
+
+== References ==
+
+
+== External links ==
+The Official Ct Website at Intel (archived copy; see also https://web.archive.org/web/20090817022457/http://software.intel.com/en-us/data-parallel/)

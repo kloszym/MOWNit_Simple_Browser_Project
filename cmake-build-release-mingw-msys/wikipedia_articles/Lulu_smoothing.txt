@@ -1,0 +1,17 @@
+In signal processing, Lulu smoothing is a nonlinear mathematical technique for removing impulsive noise from a data sequence such as a time series. It is a nonlinear equivalent to taking a moving average (or other smoothing technique) of a time series, and is similar to other nonlinear smoothing techniques, such as Tukey or median smoothing. LULU smoothers are compared in detail to median smoothers by Jankowitz and found to be superior in some aspects, particularly in mathematical properties like idempotence.
+
+
+== Properties ==
+Lulu operators have a  number of attractive mathematical properties, among them idempotence – meaning that repeated application of the operator yields the same result as a single application – and co-idempotence. 
+An interpretation of idempotence is that: 'Idempotence means that there is no “noise” left in the smoothed data and co-idempotence means that there is no “signal” left in the residual.'
+When studying smoothers there are four properties that are useful to optimize:
+
+Effectiveness
+Consistency
+Stability
+Efficiency
+The operators can also be used to decompose a signal into various subcomponents similar to wavelet or Fourier decomposition.
+
+
+== History ==
+Lulu...

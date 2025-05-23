@@ -1,0 +1,51 @@
+In mathematics, the diameter of a set of points in a metric space is the largest distance between points in the set. As an important special case, the diameter of a metric space is the largest distance between any two points in the space. This generalizes the diameter of a circle, the largest distance between two points on the circle. This usage of diameter also occurs in medical terminology concerning a lesion or in geology concerning a rock. 
+A bounded set is a set whose diameter is finite. Within a bounded set, all distances are at most the diameter.
+
+
+== Formal definition ==
+The diameter of an object is the least upper bound (denoted "sup") of the set of all distances between pairs of points in the object.
+Explicitly, if 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+  
+ is a set of points with distances measured by a metric 
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+  
+, the diameter is
+
+  
+    
+      
+        diam
+        ⁡
+        (
+        S
+        )
+        =
+        
+          sup
+          
+            x
+            ,
+            y
+            ∈
+            S
+          
+        
+        ρ
+        (
+        x
+        ,
+        y
+        )...

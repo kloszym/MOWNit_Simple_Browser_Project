@@ -1,0 +1,7 @@
+In statistics, path analysis is used to describe the directed dependencies among a set of variables. This includes models equivalent to any form of multiple regression analysis, factor analysis, canonical correlation analysis, discriminant analysis, as well as more general families of models in the multivariate analysis of variance and covariance analyses (MANOVA, ANOVA, ANCOVA).
+In addition to being thought of as a form of multiple regression focusing on causality, path analysis can be viewed as a special case of structural equation modeling (SEM) – one in which only single indicators are employed for each of the variables in the causal model. That is, path analysis is SEM with a structural model, but no measurement model. Other terms used to refer to path analysis include causal modeling and analysis of covariance structures.
+Path analysis is considered by Judea Pearl to be a direct ancestor to the techniques of causal inference.
+
+
+== History ==
+Path analysis was developed around 1918 by geneticist Sewall Wright, who wrote about it more extensively in the 1920s. It has since been applied to a vast array of complex modeling areas, including biology, psychology, sociology, and econometrics...

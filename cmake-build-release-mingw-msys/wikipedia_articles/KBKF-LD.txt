@@ -1,0 +1,8 @@
+KBKF-LD (channel 6) is a low-power television station in San Jose, California, United States. Owned by Venture Technologies Group, it transmits from an antenna on Loma Prieta Peak.
+Although licensed as a TV station, KBKF-LD primarily functions as a radio station, broadcasting Bollywood music that can be heard by FM radios at 87.7 MHz. Its ATSC 3.0 video feed broadcasts U Channel on digital channel 6.2.
+
+
+== History ==
+Originally KBKF-LP, it initially transmitted as an analog TV station, taking advantage of the fact that the analog TV standard for channel 6 specifies the audio portion of the transmission as an FM signal centered on 87.75 MHz. This can be picked up by most FM receivers at 87.7 FM.
+Faced with an approaching July 13, 2021, FCC deadline requiring all LPTV stations to convert from analog to digital transmissions, Venture Technologies developed a version of the ATSC 3.0 digital TV standard that allows an analog FM audio subcarrier to coexist with the digital TV signal.
+Now operating as a digital LPTV station with the call sign KBKF-LD, this station was used as a test site, and began dual digital TV/analog FM transmissions in February 2021. On June 10, 2021, the Federal Communications...

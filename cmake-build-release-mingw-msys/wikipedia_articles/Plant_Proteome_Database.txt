@@ -1,0 +1,12 @@
+The Plant Proteome Database is a National Science Foundation-funded project to determine the biological function of each protein in plants. It includes data for two plants that are widely studied in molecular biology,  Arabidopsis thaliana and maize (Zea mays).   Initially the project was limited to plant plastids, under the name of the Plastid PDB, but was expanded  and renamed Plant PDB in November 2007.
+
+
+== See also ==
+Proteome
+
+
+== References ==
+
+
+== External links ==
+Plant Proteome Database home page

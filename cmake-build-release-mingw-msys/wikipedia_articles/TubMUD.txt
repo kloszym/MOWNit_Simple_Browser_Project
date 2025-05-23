@@ -1,0 +1,19 @@
+TubMUD is an English language MUD which went online in 1990. TubMUD claims to be one of the oldest German MUDs. Tubmud is an offshoot of the Swedish Genesis LPMud and used parts of its library during TubMUD's starting phase.
+
+
+== Community ==
+Tubmud had taken a large community of MUD Wizards (programmers) and the library was obtained from various other MUDs in 1990. It ran on the computers of the computer science department of Technische Universität Berlin, but from 2007 the MUD has been provided by the MUD administrators on a private basis.
+
+
+== Technology ==
+Tubmud is a long-running LPMud, with core code is written in C and a library written in LPC.
+As in many MUDs, the code-base has been modified by the high-level users.
+Connection to the MUD is done via Telnet, usually through one of the many MUD clients with a convenient user interface.
+
+
+== Contents ==
+The world of Tubmud  consists of many thematically different areas, each overseen by a wizard, with domains the responsible of multiple wizards. The overall scenario is medieval fantasy; technology is prohibited.
+
+
+== Publications ==
+Ragnhild Tronstad: interpretation, performance, play, & Seduction:. Textual Adventures in Tubmud PhD. Oslo...

@@ -1,0 +1,10 @@
+In oceanic biogeochemistry, the continental shelf pump is proposed to operate in the shallow waters of the continental shelves, acting as a mechanism to transport carbon (as either dissolved or particulate material) from surface waters to the interior of the adjacent deep ocean.
+
+
+== Overview ==
+Originally formulated by Tsunogai et al. (1999), the pump is believed to occur where the solubility and biological pumps interact with a local hydrography that feeds dense water from the shelf floor into sub-surface (at least subthermocline) waters in the neighbouring deep ocean.  Tsunogai et al.'s (1999) original work focused on the East China Sea, and the observation that, averaged over the year, its surface waters represented a sink for carbon dioxide.  This observation was combined with others of the distribution of dissolved carbonate and alkalinity and explained as follows :
+
+the shallowness of the continental shelf restricts convection of cooling water
+as a consequence, cooling is greater for continental shelf waters than for neighbouring open ocean waters
+this leads to the production of relatively cool and dense water on the shelf
+the cooler waters promote the solubility pump and lead...

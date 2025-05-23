@@ -1,0 +1,10 @@
+Retinol binding protein 4, also known as RBP4, is a transporter protein for retinol (vitamin A alcohol).  RBP4 has a molecular weight of approximately 21 kDa and is encoded by the RBP4 gene in humans. It is mainly, though not exclusively, synthesized in the liver and circulates in the bloodstream as a hepatokine bound to retinol in a complex with transthyretin. RBP4 has been a drug target for ophthalmology research due to its role in vision. RBP4 may also be involved in metabolic diseases as suggested by recent studies.
+
+
+== Function ==
+This protein belongs to the lipocalin family and is the specific carrier for retinol (vitamin A) in the blood. It delivers retinol from the liver stores to the peripheral tissues. In plasma, the RBP-retinol complex interacts with transthyretin, which prevents its loss by filtration through the kidney glomeruli. A deficiency of vitamin A blocks secretion of the binding protein posttranslationally and results in defective delivery and supply to the epidermal cells.
+
+
+== Structure ==
+
+RBP4 is a single polypeptide chain with a hydrophobic pocket where retinol binds. The RBP4-retinol complex then binds transthyretin in circulation to prevent renal filtration...

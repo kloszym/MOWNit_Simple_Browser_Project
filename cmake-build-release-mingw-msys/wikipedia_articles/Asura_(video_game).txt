@@ -1,0 +1,14 @@
+Asura (Thai: อสุรา) or formerly ProjectONE (Thai: โปรเจควัน) is a free, 2D isometric MMORPG developed by Thailand's company Debuz. It is considered the first Thai MMORPG that was developed by Thai developers.
+
+
+== Characters ==
+Every character starts with the "Cadet" job. When characters meet certain requirements, they can complete the first job advancement and become a Fighter, Ranger, or Caster. Further class progression is only allowed within the scope of the first class advancement chosen. There are three class advancements available progressingly throughout the game.
+
+
+== Statistics ==
+Strength (STR): Determines the amount of physical damage done to enemies.
+Agility (AGI): Time between normal attacks. The lower the number, the less time taken for a player to execute attacks and avoid.
+Dexterity (DEX): Determines the accuracy of physical attacks executed, gun damage and critical rate of spells. Also determines critical damage for physical attacks and some skills.
+Vitality (VIT): A character's resistance to physical attacks.
+Intelligence (INT): Determines the damage done by spells and increases resistance to enemy spells.
+Luck (LUK): Determines accuracy of spells, accuracy of gun and...

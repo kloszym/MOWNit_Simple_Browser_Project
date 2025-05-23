@@ -1,0 +1,10 @@
+Vascular cell adhesion protein 1 also known as vascular cell adhesion molecule 1 (VCAM-1) or cluster of differentiation 106 (CD106) is a protein that in humans is encoded by the VCAM1 gene. VCAM-1 functions as a cell adhesion molecule.
+
+
+== Structure ==
+VCAM-1 is a member of the immunoglobulin superfamily, the superfamily of proteins including antibodies and T-cell receptors. The VCAM-1 gene contains six or seven immunoglobulin domains, and is expressed on both large and small blood vessels only after the endothelial cells are stimulated by cytokines. It is alternatively spliced into two known RNA transcripts that encode different isoforms in humans. The gene product is a cell surface sialoglycoprotein, a type I membrane protein that is a member of the Ig superfamily.
+
+
+== Function ==
+The VCAM-1 protein mediates the adhesion of lymphocytes, monocytes, eosinophils, and basophils to vascular endothelium. It also functions in leukocyte-endothelial cell signal transduction, and it may play a role in the development of atherosclerosis and rheumatoid arthritis.
+Upregulation of VCAM-1 in endothelial cells by cytokines occurs as a result of increased gene transcription (e.g., in response to tumor...

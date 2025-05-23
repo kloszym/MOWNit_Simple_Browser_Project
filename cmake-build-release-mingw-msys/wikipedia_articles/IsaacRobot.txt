@@ -1,0 +1,8 @@
+IsaacRobot is a biped humanoid robot, produced and realized by the IsaacTeam, a group of students of the Politecnico di Torino.
+The project is a combination of several branches of engineering (mechanics, computer science, automation, electronics), and in March 2007 it was presented in its second version, under the name of I2Project.
+Currently the purpose of the project is exclusively scientific and oriented to research, but possible fields of application are multiple and varied.
+Above all, the studies that have been made give sensible cues to therapeutical areas, especially for people affected by motional disabilities; the legs, indeed, can reproduce the natural movements of human legs, utilizing their six freedom degrees.
+Wide are the co-operations with physicians and experts in this field.
+Isaac, besides, offers many solutions oriented to automation industry, embedded computer science, and Real Time software development.
+Isaac is committed to the RoboCup, an international robotic-football competition, from the 2003 edition in Padova (except for the 2006 edition that took place in Bremen); it claims the second place in 2004 in Lisbon.
+It has been a guest in the 2004 and 2006 editions...

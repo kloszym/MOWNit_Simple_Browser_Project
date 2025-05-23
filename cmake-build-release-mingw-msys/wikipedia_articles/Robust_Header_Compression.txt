@@ -1,0 +1,13 @@
+Robust Header Compression (ROHC) is a standardized method to compress the IP, UDP, UDP-Lite, RTP, and TCP headers of Internet packets.
+
+
+== The need for header compression ==
+In streaming applications, the overhead of IP, UDP, and RTP is 40 bytes for IPv4, or 60 bytes for IPv6. For VoIP, this corresponds to around 60% of the total amount of data sent. Such large overheads may be tolerable in local wired links where capacity is often not an issue, but are excessive for wide area networks and wireless systems where bandwidth is scarce.
+ROHC compresses these 40 bytes or 60 bytes of overhead typically into only one or three bytes, by placing a compressor before the link that has limited capacity, and a decompressor after that link. The compressor converts the large overhead to only a few bytes, while the decompressor does the opposite.
+The ROHC compression scheme differs from other compression schemes, such as IETF RFC 1144 and RFC 2508, by the fact that it performs well over links where the packet loss rate is high, such as wireless links.
+
+
+== Main ROHC compression principles ==
+The ROHC protocol takes advantage of information redundancy in the headers of the following:
+
+one single network...

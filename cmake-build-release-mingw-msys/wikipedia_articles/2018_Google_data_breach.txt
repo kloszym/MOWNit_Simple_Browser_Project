@@ -1,0 +1,9 @@
+The 2018 Google data breach was a major data privacy scandal in which the Google+ API exposed the private data of over five hundred thousand users.
+Google+ managers first noticed harvesting of personal data in March 2018, during a review following the Facebook–Cambridge Analytica data scandal. The bug, despite having been fixed immediately, exposed the private data of approximately 500,000 Google+ users to the public. Google did not reveal the leak to the network's users. In November 2018, another data breach occurred following an update to the Google+ API. Although Google found no evidence of failure, approximately 52.5 million personal profiles were potentially exposed. In August 2019, Google declared a shutdown of Google+ due to low use and technological challenges.
+
+
+== Overview of Google+ ==
+Google+ was launched in June 2011 as an invite-only social network, but was opened for public access later in the year. It was managed by Vic Gundotra.
+Similar to Facebook, Google+ also included key features Circles, Hangouts and Sparks.
+
+Circles let users personalize their social groups by sorting friends into different categories. Once allowed into a Circle, users could regulate information...

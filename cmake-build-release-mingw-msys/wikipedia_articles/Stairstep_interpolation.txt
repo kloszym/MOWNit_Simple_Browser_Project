@@ -1,0 +1,21 @@
+In the field of  image processing, stairstep interpolation is a widely employed method technique for interpolating pixels after enlarging an image. The fundamental concept is to interpolate multiple times, in small increments, using any interpolation algorithm that is better than nearest-neighbor interpolation such as; bilinear interpolation, and bicubic interpolation. A common scenario is to interpolate an image by using a bicubic interpolation which increases the image size by no more than 10% (110% of the original size) at a time until the desired size is reached.
+Fred Miranda, a developer, popularized this method by creating and developing several Photoshop plug-ins that incorporate this technique.
+
+
+== Example ==
+
+
+== See also ==
+Anti-aliasing
+Bézier surface
+Cubic Hermite spline, the one-dimensional analogue of bicubic spline
+Lanczos resampling
+Sinc filter
+Spline interpolation
+
+
+== References ==
+
+
+== External links ==
+Photoshop plugin to achieve stairstep interpolation

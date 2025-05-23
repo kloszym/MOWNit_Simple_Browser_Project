@@ -1,0 +1,7 @@
+FOG-MPM (fiber optics guided multiple purpose missile) is a missile built by the Brazilian company Avibras. Its range is about 60 km. The weight is about 34 kg. Its main use is as an anti-tank, anti-fortification and anti-helicopter missile. FOG-MPM is guided by optical fiber technology.  The FOG-MPM is very flexible, can be launched from ground vehicles (Astros II MLRS), ships and helicopters, and is immune to electronic measures.
+
+
+== Development ==
+Work on the development of FOG-MPM or MAC-MP (fiber optics guided multiple purpose missile – missile anti-car multi-purpose) was initiated in 1985 by Avibrás and unveiled in 1989. The program is funded by the company itself, with all the components produced in country. In 1989 there were three test launches; in 1992, there were 8.
+The missile has a length of 1.50 meters and is 18 centimeter in diameter, weighing 33 kg (24 kg initially). It has a range of about 10 km to 20 km, relaxed in later versions. The speed is 150–200 m/s with a cruising altitude of 200m. The hollow charge warhead can penetrate rolled homogeneous armor 1,000mm thick. A weapon operator can be trained in 8 hours in the simulator made by Avibrás.
+One version has a cruising...

@@ -1,0 +1,6 @@
+Outlook on the web (formerly Outlook Web App and Outlook Web Access) is a personal information manager web app from Microsoft. It is a web-based version of Microsoft Outlook, and is included in Exchange Server and Exchange Online (a component of Microsoft 365.)
+It can be freely accessed from any web browser whether inside or outside an organization's network, and includes a web email client, a calendar tool, a contact manager, and a task manager. It also includes add-in integration, Skype on the web, and alerts as well as unified themes that span across all the web apps. 
+
+
+== Purpose ==
+Outlook on the web is available to Microsoft 365 (formerly Outlook 365) and Exchange Online subscribers, and is included with the on-premises Exchange Server, to enable users to connect to their email accounts via a web browser, without requiring the installation of Microsoft Outlook or other email clients. In case of Exchange Server, it is hosted on a local intranet and requires a network connection to the Exchange Server for users to work with e-mail, address book, calendars and task. The Exchange Online version, which can be bought either independently or through Office 365 licensing program, is hosted...

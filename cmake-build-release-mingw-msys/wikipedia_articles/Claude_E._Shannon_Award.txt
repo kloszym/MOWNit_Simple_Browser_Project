@@ -1,0 +1,18 @@
+The Claude E. Shannon Award of the IEEE Information Theory Society was created to honor consistent and profound contributions to the field of information theory. Each Shannon Award winner is expected to present a Shannon Lecture at the following IEEE International Symposium on Information Theory. It is a prestigious prize in information theory, covering technical contributions at the intersection of mathematics, communication engineering, and theoretical computer science. It is the highest honor given by the IEEE Information Theory Society and is also regarded as the highest award in the entire field of information theory.
+It is named for Claude E. Shannon, who was also the first recipient in 1973.
+
+
+== Recipients ==
+The following people have received the Claude E. Shannon Award:
+
+
+== See also ==
+List of computer science awards
+
+
+== References ==
+
+
+== External links ==
+IEEE Information Theory Society page
+Claude E. Shannon Award & recipients

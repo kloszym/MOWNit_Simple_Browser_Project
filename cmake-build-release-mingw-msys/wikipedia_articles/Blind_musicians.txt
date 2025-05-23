@@ -1,0 +1,6 @@
+Blind musicians are singers or instrumentalists, or in some cases singer-accompanists, who are legally blind.
+
+
+== Resources ==
+Historically, many blind musicians, including some of the most famous, have performed without the benefit of formal instruction, since such instruction relies extensively on written musical notation.  However, today there are many resources available for blind musicians who wish to learn Western music theory and classical notation. Louis Braille, the man who created the braille alphabet for the blind, also created a system of classical notation for the blind called Braille music.  This system allows the blind to read and write music much as the sighted do.  The largest collection of Braille musical scores is located at the Library of Congress in Washington, D.C. Outside the U.S., the largest collection of braille music scores is stored at the National Library for the Blind in England.
+Computer technology and the Internet make it possible in theory for blind musicians to be more independent in composing and studying music.  In practice, however, most programs rely on graphical user interfaces, which are difficult for the blind to navigate.  There has been some...

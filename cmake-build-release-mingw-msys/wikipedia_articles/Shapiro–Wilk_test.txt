@@ -1,0 +1,54 @@
+The Shapiro–Wilk test is a test of normality. It was published in 1965 by Samuel Sanford Shapiro and Martin Wilk.
+
+
+== Theory ==
+The Shapiro–Wilk test tests the null hypothesis that a sample x1, ..., xn came from a normally distributed population. The test statistic is
+
+  
+    
+      
+        W
+        =
+        
+          
+            
+              
+                
+                  (
+                  
+                    
+                      ∑
+                      
+                        i
+                        =
+                        1
+                      
+                      
+                        n
+                      
+                    
+                    
+                      a
+                      
+                        i
+                      
+                    
+                    
+                      x
+                      
+                        (
+                        i
+                        )
+                      
+                    
+                  
+                  )
+                
+              
+              
+                2
+              
+            
+            
+              
+                ∑...

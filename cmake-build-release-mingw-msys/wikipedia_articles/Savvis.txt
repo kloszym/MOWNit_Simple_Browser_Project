@@ -1,0 +1,7 @@
+Savvis is a subsidiary of Lumen Technologies (formerly CenturyLink) that sells managed hosting and colocation services headquartered in Town and Country, Missouri. The company owns more than 50 data centers spread across North America, Europe, and Asia and provides information technology consulting. Savvis has approximately 2,500 unique business and government customers.
+
+
+== Early history ==
+
+Savvis was founded in November 1995 under the name DiamondNet by CTO/COO Timothy Munro Roberts and CEO Andrew Gladney. The two met in the St. Louis area in 1994 where both lived, with Roberts working for a computer store and Gladney as a customer. Gladney provided the initial capital ($600,000 to $1 million, according to different sources) in return for a 75% stake in the startup, with Roberts’ stake being the remaining 25%.
+Gary Zimmerman was recruited by Roberts from SBC Communications Inc. to become vice president of engineering at Savvis in November 1995. He built out Robert's first national network design. The authentic network design was unique within the industry at the time it became fully operational, and there was significant coverage and discussion in the trade press regarding both the...

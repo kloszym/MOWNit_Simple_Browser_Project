@@ -1,0 +1,8 @@
+BO Lyncis, abbreviated BO Lyn and otherwise referred to as GSC 02985-01044, is a white-hued binary star in the northern constellation of Lynx. With an apparent magnitude of 11.49, it is too faint to be seen by the naked eye but can be observed using a telescope with an aperture of 60 mm (2.4 in) or larger. It is located at a distance of 1,350 parsecs (4,400 light-years) according to Gaia EDR3 parallax measurements, and is receding farther away from the Sun at a heliocentric radial velocity of 23.48 km/s.
+It was first discovered to be a Delta Scuti variable in 1994 during a survey of blue horizontal branch stars, and was subsequently assigned its variable-star designation in 1997.
+
+
+== Stellar properties ==
+The primary star is an A-type main-sequence star between the spectral types A5V and A8V, with a mass of approximately 1.76 M☉ and a luminosity fluctuating between 9.4 L☉ and 13.6 L☉. A detailed spectral type of kA6hA5mA9 indicates that the classification would be A6 based on calcium K-lines, A5 based on hydrogen lines, and A9 based on the spectral lines of other metals.
+
+It has been described as a high-amplitude Delta Scuti variable (HADS), also known as an AI Velorum star, with a period...

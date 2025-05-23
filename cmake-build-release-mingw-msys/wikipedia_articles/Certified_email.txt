@@ -1,0 +1,9 @@
+Certified email (known as  Posta elettronica certificata in Italy, or PEC in short) is a special type of email in use in Italy, Switzerland, Hong Kong and Germany. Certified email is meant to provide a legal equivalent of the traditional registered mail, where users are able to legally prove that a given email has been sent and received by paying a small fee.
+Registered mail is mainly used in Italy, but there are present efforts to extend its legal validity according to the framework of the European Union.
+
+
+== Description ==
+A certified email can only be sent using a special Certified Email Account provided by a registered provider.
+When a certified email is sent, the sender's provider will release a receipt of the successful (or failed) transaction. This receipt has legal value and it includes precise information about the time the certified email was sent.
+Similarly, the receiver's provider will deliver the message in the appropriate certified email account and will then release to the sender a receipt of successful (or failed) delivery, indicating on this receipt the exact time of delivery.
+If either of these two receipts are lost by the sender, providers are required to issue a proof...

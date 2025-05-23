@@ -1,0 +1,20 @@
+Transmembrane protein 8B is a protein that in humans is encoded by the TMEM8B gene. It encodes for a transmembrane protein that is 338 amino acids long, and is located on human chromosome 9. Aliases associated with this gene include C9orf127, NAG-5, and NGX61.
+
+
+== Gene ==
+
+
+=== Location ===
+Cytogenic location: 9p13.3
+Located on chromosome 9 in the human genome. It starts at base pair 35,814,451, and ends at 35,865,518, and contains 19 exons. There are 13 transcript variants that are protein encoding, and the longest transcript variant is 790 amino acids long.
+
+
+=== Expression ===
+Using information from NCBI's EST Abundance Profile page on TMEM8B, expression levels vary in 32 different human tissues. The highest levels of expression can be found in the brain, ovaries, prostate, placenta, and the pancreas. Expression levels are down regulated in some cancerous tissue, specifically nasopharyngeal and colorectal carcinomas. TMEM8B is expressed in all stages of development, including fetal stages, as low levels of expression are present in the fetal liver, brain, and thymus.
+
+
+== mRNA ==
+
+
+=== Splice Variants ===
+TMEM8B has 13 known mRNA splice variants in humans: Refer to the table below. All 13 variants...

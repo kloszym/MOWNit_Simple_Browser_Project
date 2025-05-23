@@ -1,0 +1,8 @@
+Prescopranone is a key intermediate in the biosynthesis of scopranones. Prescopranone is the precursor to scopranone A, scopranone B, and scopranone C, which are produced by Streptomyces sp. BYK-11038. 
+
+
+== Biosynthesis ==
+
+The biosynthesis of prescopranone follows the module structure of a Type I polyketide synthase (PKS) with three elongation modules and a lactonizing thioesterase domain. Genome mining of Streptomyces sp. BYK identified a scopranone biosynthetic gene cluster containing 3 genes, sprA, sprB, and sprC, that encode modular PKSs.
+A starter acyl carrier protein is loaded with malonyl-CoA, and decarboxylated by a ketosynthase (KSQ). The starter unit is then transferred to module 1, which elongates the polyketide chain with ethyl malonyl-CoA. The tailoring domain of this module reduces the β-carbonyl to an alkene. Module 2 elongates the polyketide with ethylbutyl-malonyl-CoA. Finally, module 3 elongates the polyketide chain with ethyl malonyl-CoA, and is released upon the lactonization of the polyketide product by a thioesterase domain. Following the cyclization and release of the polyketide, the product undergoes a keto-enol tautomerism to form prescopranone.
+Both modules...

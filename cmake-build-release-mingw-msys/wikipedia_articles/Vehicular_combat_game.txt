@@ -1,0 +1,6 @@
+A vehicular combat game (or car combat game) is a vehicle simulation video game where the primary gameplay objectives include vehicles armed with weapons attempting to destroy vehicles controlled by the CPU or by opposing players. The genre normally features a variety of different vehicles available for play, each with its own strengths, weaknesses, and special attack abilities. Players may also unlock hidden vehicles by completing certain in-game tasks. Games may include racing themes, but they are generally secondary to the action.
+
+
+== Gameplay ==
+Vehicular combat games normally follow a simple play pattern; the player must defeat increasing numbers of not very skilled enemies before facing off against a final, super-powerful, boss character. Vehicular combat games differ from traditional racing games both in the combat aspect and in the general lack of any set path for players to follow, instead allowing them to explore each level at their leisure.
+The complexity and strategy required to complete games vary, from the careful resource maintenance and intense story-driven plotlines of the Interstate '76 series to straightforward smashups like WWE Crush Hour. Often, the primary plot...

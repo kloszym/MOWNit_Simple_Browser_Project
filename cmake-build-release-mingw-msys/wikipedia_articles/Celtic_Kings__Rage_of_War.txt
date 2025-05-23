@@ -1,0 +1,10 @@
+Celtic Kings: Rage of War is a game developed by Haemimont Games. It is set during the conquest of Gaul by Julius Caesar.
+In Italy and Spain, the game is titled as Imperivm: La guerra gallica and Imperivm: La Guerra de las Galias. The game was re-released on digital storefronts via GOG on May 28, 2009, and Steam on September 5, 2019.
+
+
+== Overview ==
+Celtic Kings takes place in ancient Roman times, during the years that Julius Caesar was the military leader of the Roman Empire. There are three main modes: Adventure, single player (a classic real time strategy Skirmish mode), and multiplayer. Adventure mode includes a tutorial and the main story. In both campaigns, players control a hero named Larax. In the main story, he loses his wife in a Teutonic raid. In grief, he swears vengeance, and gives his body and soul to Kathubodua, the Goddess of War, to enable him to achieve his revenge.
+
+
+== Genre ==
+This game uses both role-playing and real-time strategy (RTS) elements. Units are controlled in a standard RTS fashion. Most units have the ability to gain levels. This is done either through fighting, training (to a certain limit, usually level 12), or, in the case of the priest/druid, learning...

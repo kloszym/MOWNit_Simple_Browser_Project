@@ -1,0 +1,14 @@
+In the alcoholic beverages industry, congeners are substances produced during fermentation other than the desired type of alcohol (ethanol). These substances include small amounts of chemicals such as methanol and other alcohols (known as fusel alcohols), acetone, acetaldehyde, esters, tannins, and aldehydes (e.g. furfural). Congeners are responsible for most of the taste and aroma of distilled alcoholic beverages, and contribute to the taste of non-distilled drinks. Brandy, rum and red wine have the highest amount of congeners, while vodka and beer have the least.
+Congeners are the basis of alcohol congener analysis, a sub-discipline of forensic toxicology which determines what a person drank.
+There is some evidence that high-congener drinks induce more severe hangovers, but the effect is not well studied and is still secondary to the total amount of ethanol consumed.
+
+
+== Toxic congeners ==
+
+
+=== Fusel alcohols ===
+
+
+==== Methanol ====
+
+Although methanol is not produced in toxic amounts by fermentation of sugars from grain starches, it is a major occurrence in fruit spirits. However, in modern times, reducing methanol with the absorption of a molecular sieve is a practical method for production...

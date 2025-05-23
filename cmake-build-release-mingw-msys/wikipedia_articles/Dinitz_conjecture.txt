@@ -1,0 +1,39 @@
+In combinatorics, the Dinitz theorem (formerly known as Dinitz conjecture) is a statement about the extension of arrays to partial Latin squares, proposed in 1979 by Jeff Dinitz, and proved in 1994 by Fred Galvin.
+The Dinitz theorem is that given an n × n square array, a set of m symbols with m ≥ n, and for each cell of the array an n-element set drawn from the pool of m symbols, it is possible to choose a way of labeling each cell with one of those elements in such a way that no row or column repeats a symbol.
+It can also be formulated as a result in graph theory, that the list chromatic index of the complete bipartite graph 
+  
+    
+      
+        
+          K
+          
+            n
+            ,
+            n
+          
+        
+      
+    
+    {\displaystyle K_{n,n}}
+  
+ equals 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+. That is, if each edge of the complete bipartite graph is assigned a set of 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+ colors, it is possible to choose one of the assigned colors for each edge
+such that no two edges incident to the same vertex have the same color.
+Galvin's proof generalizes to the statement that, for every...

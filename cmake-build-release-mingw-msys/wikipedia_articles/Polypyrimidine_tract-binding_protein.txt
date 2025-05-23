@@ -1,0 +1,12 @@
+Polypyrimidine tract-binding protein, also known as PTB or hnRNP I, is an RNA-binding protein. PTB functions mainly as a splicing regulator, although it is also involved in alternative 3' end processing, mRNA stability and RNA localization. Two 2020 studies have shown that depleting PTB mRNA in astrocytes can convert these astrocytes to functional neurons. These studies also show that such a treatment can be applied to the substantia nigra of mice models of Parkinson's disease in order to convert astrocytes to dopaminergic neurons and as a consequence restore motor function in these mice.
+
+
+== See also ==
+Polypyrimidine tract
+
+
+== References ==
+
+
+== External links ==
+polypyrimidine+tract-binding+protein at the U.S. National Library of Medicine Medical Subject Headings (MeSH)

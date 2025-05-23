@@ -1,0 +1,39 @@
+The worm-like chain (WLC) model in polymer physics is used to describe the behavior of polymers that are semi-flexible: fairly stiff with successive segments pointing in roughly the same direction, and with persistence length within a few orders of magnitude of the polymer length. The WLC model is the continuous version of the Kratky–Porod model.
+
+
+== Model elements ==
+ The WLC model envisions a continuously flexible isotropic rod. This is in contrast to the freely-jointed chain model, which is only flexible between discrete freely hinged segments. The model is particularly suited for describing stiffer polymers, with successive segments displaying a sort of cooperativity: nearby segments are roughly aligned. At room temperature, the polymer adopts a smoothly curved conformation; at 
+  
+    
+      
+        T
+        =
+        0
+      
+    
+    {\displaystyle T=0}
+  
+ K, the polymer adopts a rigid rod conformation.
+For a polymer of maximum length 
+  
+    
+      
+        
+          L
+          
+            0
+          
+        
+      
+    
+    {\displaystyle L_{0}}
+  
+, parametrize the path of the polymer as 
+  
+    
+      
+        s
+        ∈
+        (
+        0
+        ,...

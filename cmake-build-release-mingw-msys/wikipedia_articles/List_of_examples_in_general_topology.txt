@@ -1,0 +1,38 @@
+This is a list of useful examples in general topology, a field of mathematics.
+
+Alexandrov topology
+Cantor space
+Co-kappa topology
+Cocountable topology
+Cofinite topology
+Compact-open topology
+Compactification
+Discrete topology
+Double-pointed cofinite topology
+Extended real number line
+Finite topological space
+Hawaiian earring
+Hilbert cube
+Irrational cable on a torus
+Lakes of Wada
+Long line
+Order topology
+Lexicographical/dictionary order
+Ordinal number topology
+Real line
+Split interval
+Overlapping interval topology
+Moore plane
+Sierpiński space
+Sorgenfrey line
+Sorgenfrey plane
+Space-filling curve
+Topologist's sine curve
+Trivial topology
+Unit interval
+Zariski topology
+
+
+== See also ==
+Counterexamples in Topology
+π-Base: An Interactive Encyclopedia of Topological Spaces

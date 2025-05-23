@@ -1,0 +1,13 @@
+Electrofusion welding is a form of resistive implant welding used to join pipes. A fitting with implanted metal coils is placed around two ends of pipes to be joined, and current is passed through the coils. Resistive heating of the coils melts small amounts of the pipe and fitting, and upon solidification, a joint is formed. It is most commonly used to join polyethylene (PE) and polypropylene (PP) pipes. Electrofusion welding is the most common welding technique for joining PE pipes. Because of the consistency of the electrofusion welding process in creating strong joints, it is commonly employed for the construction and repair of gas-carrying pipelines. The development of the joint strength is affected by several process parameters, and a consistent joining procedure is necessary for the creation of strong joints. 
+
+
+== Advantages and disadvantages ==
+
+Advantages of electrofusion welding:
+
+Simple process capable of producing consistent joints
+Process is entirely contained, reducing the risk of joint contamination
+Process allows repair without the need to remove pipes
+Disadvantages of electrofusion welding:
+
+A special sleeve is required, so it is more expensive than other pipe joining...

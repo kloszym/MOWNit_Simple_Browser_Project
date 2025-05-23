@@ -1,0 +1,7 @@
+EFI Technology Inc. founded by Graham Western in October 1988 is an independent high-performance automotive electronics engineering company based in Phoenix, Arizona. The company is well recognized for innovative ideas, advanced digital electronics and software for both the aerospace and racing industries.
+After earning a master's degree in engineering from Cranfield University in Bedfordshire, England, Graham Western gained several years experience developing Formula 1 and Indy Car engine management systems while working at Cosworth Engineering. In 1987 he moved to Torrance, California and worked as an engineer for Michael Andretti's Indy car team prior to founding EFI Technology Inc. in 1988.
+
+
+== Corporate history ==
+The company has a strong racing background introducing its first fully user programmable ECU in 1988 which was adopted by Pontiac Motorsports for its IMSA racing program. The products success led to interest from several other engine manufacturers and the company expanded its product line designing additional systems for the Automotive, Off-road and Marine industries.
+In 1990, the company was contracted by TRD  to develop an ECU for its 503E engine program. The 503E was...

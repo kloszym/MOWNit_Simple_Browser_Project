@@ -1,0 +1,6 @@
+A Digital ID can refer to:
+
+a Digital identity, the digital representation of a subject, or the set of claims made by one digital subject about itself or another digital subject,
+or
+
+a Public key certificate, also known as a Digital Certificate or a Digital identity certificate, an electronic document which uses a digital signature to bind together a public key with an identity.

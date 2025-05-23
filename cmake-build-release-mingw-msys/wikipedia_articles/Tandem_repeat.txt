@@ -1,0 +1,7 @@
+In genetics, tandem repeats occur in DNA when a pattern of one or more nucleotides is repeated and the repetitions are directly adjacent to each other, e.g. ATTCG ATTCG ATTCG, in which the sequence ATTCG is repeated three times.
+Several protein domains also form tandem repeats within their amino acid primary structure, such as armadillo repeats. However, in proteins, perfect tandem repeats are rare in naturally proteins, but they have been added to designed proteins.
+Tandem repeats constitute about 8% of the human genome. They are implicated in more than 50 lethal human diseases, including amyotrophic lateral sclerosis, Huntington's disease, and several cancers.
+
+
+== Terminology ==
+All tandem repeat arrays are classifiable as satellite DNA, a name originating from the fact that tandem DNA repeats, by nature of repeating the same nucleotide sequences repeatedly, have a unique ratio of the two possible nucleotide base pair combinations, conferring them a specific mass density that allows them to be separated from the rest of the genome with density-based laboratory techniques, thus appearing as "satellite bands". Albeit, a tandem repeat array could not show up as a satellite band if it...

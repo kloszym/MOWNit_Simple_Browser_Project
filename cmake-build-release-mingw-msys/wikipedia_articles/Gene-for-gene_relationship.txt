@@ -1,0 +1,9 @@
+The gene-for-gene relationship is a concept in plant pathology that plants and their diseases each have single genes that interact with each other during an infection. It was proposed by Harold Henry Flor who was working with rust (Melampsora lini) of flax (Linum usitatissimum). Flor showed that the inheritance of both resistance in the host and parasite ability to cause disease is controlled by pairs of matching genes. One is a plant gene called the resistance (R) gene. The other is a parasite gene called the avirulence (Avr) gene. Plants producing a specific R gene product are resistant towards a pathogen that produces the corresponding Avr gene product.  Gene-for-gene relationships are a widespread and very important aspect of plant disease resistance. Another example can be seen with Lactuca serriola versus Bremia lactucae.
+Clayton Oscar Person was the first scientist to study plant pathosystem ratios rather than genetics ratios in host-parasite systems. In doing so, he discovered the differential interaction that is common to all gene-for-gene relationships and that is now known as the Person differential interaction.
+
+
+== Resistance genes ==
+
+
+=== Classes of resistance gene ===
+There...

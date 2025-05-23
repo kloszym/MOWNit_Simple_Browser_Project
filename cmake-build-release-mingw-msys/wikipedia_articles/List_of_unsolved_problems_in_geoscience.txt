@@ -1,0 +1,11 @@
+This list provides references to notable unsolved problems in geoscience.
+
+
+== The early Earth and the Solar System ==
+Was there ever a collision of Earth with the hypothesized planet of Theia, which gave birth to the Moon? There is compelling evidence, such as measures of a shorter duration of the Earth's rotation and lunar month in the past, that suggests the possibility that Earth's Moon was much closer to Earth during the early stages of Solar System formation.
+What is the long-term heat balance of Earth? How did its internal temperature decay since it formed by accretion of chondrites? How abundant are radiogenic elements in the interior? Did a "faint young Sun" ever warm a "snowball Earth"?
+
+
+== Topography and environment ==
+Can the now widely available topographic data be used to derive past tectonic and climatic conditions (in the multi-million year scale)? Do we know enough about the erosion and transport processes? Does the stochasticity of meteorological and tectonic events reflect in the landscape? How much has life contributed to shape the Earth's surface?
+Can classical geomorphological concepts such as peneplanation or retrogressive erosion be quantitatively understood? Old...

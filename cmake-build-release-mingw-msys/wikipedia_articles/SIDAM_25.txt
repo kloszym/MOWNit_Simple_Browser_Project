@@ -1,0 +1,9 @@
+The SIDAM 25  is a self-propelled anti-aircraft gun developed in Italy from the chassis of the American M113 armoured personnel carrier. Due to the choice of basic chassis for the SIDAM 25, components and spare parts were both cheap, and readily available due to the widespread use of the basic M113. Beginning production in 1987, OTO Breda built a large turret to accommodate the four Oerlikon KBA cannons and remodeled the hull of the M113 slightly to provide side-access to the internal space of the vehicle by the addition of a side-mounted door.
+
+
+== Armament ==
+The Oerlikon KBA cannon has an effective range of about 2,500 m (8,200 ft) and can engage low-flying targets with accuracy within that range. Firing at 2,440 rounds per minute, the turret contains 150 rounds of high-explosive fragmentation ammunition for each gun. An internal magazine also houses 40 APDS rounds that can be used against enemy vehicles. The turret can rotate through 360° and the guns can be raised 87° or lowered 5° from the horizontal position. Firing slots in the turret and hull are provided.
+
+
+== Fire control and observation ==
+Target engagement is made using an optronic fire control system and a laser rangefinder...

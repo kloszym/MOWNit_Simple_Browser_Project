@@ -1,0 +1,9 @@
+The V.23 standard was an early modem standard first approved by ITU-T precursor CCITT in 1964.
+
+It specifies audio frequency-shift keying (AFSK) to encode and transfer data at a rate of 1200 bits per second, full-duplex at 1200 baud (Mode 2), (or at a "fallback rate" of 600 baud, mode 1) for the forward data-transmission channel, and an optional 75 baud backward channel.
+
+V.23 Mode 1 AFSK uses a 1300 Hz tone (FZ) for mark (typically a binary 1) and 1700 Hz (FA) for space (typically a binary 0), and a 1500 Hz center frequency (F0).
+V.23 Mode 2 AFSK uses a 1300 Hz tone (FZ) for mark (typically a binary 1) and 2100 Hz (FA) for space (typically a binary 0), and a 1700 Hz center frequency (F0).
+V.23 backward channel AFSK uses a 390 Hz tone (FZ) for mark (typically a binary 1) and a 450 Hz (FA) for space (typically a binary 0).
+In some European countries, (and perhaps elsewhere), V.23 Mode 2 AFSK modulation, (without the backward channel) is used to transmit Caller ID information over POTS lines in the public telephone network.
+The 75 baud backward channel was originally envisioned for use in error correction schemes, but V.23 was also widely used in Videotex applications where the backward...

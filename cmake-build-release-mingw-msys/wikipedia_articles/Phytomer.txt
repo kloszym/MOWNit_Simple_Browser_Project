@@ -1,0 +1,7 @@
+Phytomers are functional units of a plant, continually produced by root and shoot meristems throughout a plant's vegetative life-cycle. Increases in a phytomer can be measured using the rate of phyllochron (rate of appearance of leaves on a shoot). Related to the phyllochron is the plastochron, which is the rate of leaf primordia initiation. Since many more leaf primordia are initiated than leaves develop, the plastochron develops at a much faster rate (sometimes as much as twice as quickly) as the phyllochron.
+Initially, a young plant will only produce phytomers at its apical meristems but later in development, secondary meristems will begin to form and phytomers will be formed on this lateral plant growth.
+
+
+== References ==
+Howell, S.H. (1998). Molecular Genetics of Plant Development. Cambridge University Press 104. ISBN 0-521-58784-0
+McMaster, G. S. Phytomers, phyllochrons, phenology and temperate cereal development. J. Agric. Sci. 143, 137 (2005).

@@ -1,0 +1,8 @@
+ID3 is a metadata format for MP3 audio files.
+ID3 or ID-3 may also refer to:
+
+ID3 algorithm, an algorithm for constructing decision trees
+ID3 (gene), a human protein
+ID-3 format, a standard size for identification cards defined by ISO/IEC 7810
+ID3, a post-dubstep/glitch artist
+Volkswagen ID.3, a battery electric car by the German manufacturer Volkswagen

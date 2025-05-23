@@ -1,0 +1,26 @@
+The Adrushy is an Indian glass-reinforced, plastic-cased anti-tank landmine.
+
+
+== Design ==
+The mine uses a copper-lined shaped charge to attack the underside of vehicles as they pass over the mine. The shaped charge is claimed to be able to penetrate in excess of 100 mm of armour. The mine uses a battery-powered electronic fuzing which uses a combination of a seismic sensor and a magnetic influence sensor to trigger the mine at the optimal point. It is fitted with a tilt-based anti-handling device: once armed the mine will trigger if it is tilted more than 20 degrees. The electronic fuze allows the mine to self-neutralize after a programmable period of 10, 20, 40, 80 or 120 days.
+The mine is somewhat similar in appearance to the Italian SB-MV/1 mine.
+
+
+== Specifications ==
+Diameter: 240 mm
+Height: 125 mm
+Weight: 5.5 kg
+Explosive content: 2.5 kg
+
+
+== See also ==
+DRDO Self Propelled Mine Burier
+Adrushy mine-II
+
+
+== Source ==
+Jane's Mines and Mine Clearance 2005-2006
+
+
+== External links ==
+Janes

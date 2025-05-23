@@ -1,0 +1,7 @@
+RTTS (Real-Time Technology Solutions, Inc.) is a New York City-based professional services organization that provides software quality outsourcing, training, and resources for business applications. RTTS uses the software quality and test solutions from IBM, Hewlett Packard Enterprise, Microsoft and other vendors and open source tools to perform software performance testing, functional test automation, big data testing, data warehouse/ETL testing, mobile application testing, security testing and service virtualization.
+
+
+== History ==
+Real-Time Technology Solutions, Inc. (RTTS) was founded in New York in 1996. RTTS began by supporting test automation tools from SQA, Inc., a Boston-based publicly traded firm that specialized in the relatively new field of automated software quality (ASQ).
+In 1997, Rational Software, Inc., a Cupertino, California, firm specializing in products that model and aid in software development, acquired SQA, Inc. RTTS joined the Rational value-added reseller (VAR) program.
+RTTS supports testing solutions from Rational Software (now a part of IBM), Hewlett Packard Enterprise, Microsoft, and open source solutions such as Selenium (software), Appium (mobile testing...

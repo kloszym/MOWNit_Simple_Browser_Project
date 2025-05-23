@@ -1,0 +1,11 @@
+Serine proteases (or serine endopeptidases) are enzymes that cleave peptide bonds in proteins.  Serine serves as the nucleophilic amino acid at the (enzyme's) active site. 
+They are found ubiquitously in both eukaryotes and prokaryotes. Serine proteases fall into two broad categories based on their structure: chymotrypsin-like (trypsin-like) or subtilisin-like.
+
+
+== Classification ==
+The MEROPS protease classification system counts 16 superfamilies (as of 2013) each containing many families. Each superfamily uses the catalytic triad or dyad in a different protein fold and so represent convergent evolution of the catalytic mechanism. The majority belong to the S1 family of the PA clan (superfamily) of proteases.
+For superfamilies, P: superfamily, containing a mixture of nucleophile class families, S: purely serine proteases. superfamily. Within each superfamily, families are designated by their catalytic nucleophile, (S: serine proteases).
+
+
+== Substrate specificity ==
+Serine proteases are characterised by a distinctive structure, consisting of two beta-barrel domains that converge at the catalytic active site. These enzymes can be further categorised based on their substrate specificity...

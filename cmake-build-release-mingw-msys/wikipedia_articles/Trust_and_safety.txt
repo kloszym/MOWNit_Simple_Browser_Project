@@ -1,0 +1,9 @@
+Trust and Safety (T&S) is a term commonly used in the context of online platforms, communities, and services. It refers to the policies, practices, products and teams dedicated to ensuring that users can trust and feel safe while using a service or participating in an online community.
+Trust plays a key role in the daily encounters with the internet, primarily because individuals and customers heavily depend on online technologies for their communicative and commercial engagements.
+One of the core objectives of trust and safety is to ensure that a web portal or digital platform is a trusted, safe environment, where personal identity, data and virtual assets are protected.  
+T&S helps achieve this by enforcing various measures and tools, such as policies and guidelines for what is an acceptable code of conduct/behaviour, monitoring data breaches and malicious or harmful activities, and by addressing incidents and cybercrimes quickly. 
+By investing in the trust and safety of digital platforms, brands establish themselves as safe and reliable online destinations, building strong relationships with their users, thus, protecting their reputation.
+
+
+== Key services ==
+Trust and safety encompasses...

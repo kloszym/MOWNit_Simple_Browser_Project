@@ -1,0 +1,15 @@
+This is a presentation of the phonological history of the Scots language.
+Scots has its origins in Old English (OE) via early Northern Middle English; though loanwords from Old Norse and Romance sources are common, especially from ecclesiastical and legal Latin, Anglo-Norman and Middle French borrowings. Trade and immigration led to some borrowings from Middle Low German and Middle Dutch. Some vocabulary has been borrowed from Scotland's other language, Scottish Gaelic.
+
+
+== Consonants ==
+Instance of /b/ between /m/ and a following /l/ or /r/ were lost or did not develop:
+
+OE æmerġe → Modern Scots emmers and English embers
+OE þȳmel → Modern Scots thimmle and English thimble
+OE timber → Modern Scots timmer and English timber
+Certain clusters were reduced:
+
+A word-final /kt/ reduced to /k/ except in some inflected forms (e.g. Modern Scots act, expect, strict).
+/pt/ reduced to /p/ in final position (e.g. Modern Scots attempt, corrupt).  Note that the English words like empty that come from OE words that did not have a /pt/ cluster also don’t have clusters in Scots (in this case, OE æmetiġ became Scots empy).
+/nd/ often reduced to /n/ (e.g. OE frēond, 'friend', became Modern Scots freend...

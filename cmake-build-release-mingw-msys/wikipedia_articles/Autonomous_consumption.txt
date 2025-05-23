@@ -1,0 +1,37 @@
+Autonomous consumption (also exogenous consumption, autonomous spending) is the consumption expenditure that occurs when income levels are zero. Such consumption is considered autonomous of income only when expenditure on these consumables does not vary with changes in income; generally, it may be required to fund necessities and debt obligations. If income levels are actually zero, this consumption counts as dissaving, because it is financed by borrowing or using up savings.  Autonomous consumption contrasts with induced consumption, in that it does not systematically fluctuate with income, whereas induced consumption does. The two are related, for all households, through the consumption function:
+
+  
+    
+      
+        C
+        =
+        
+          c
+          
+            0
+          
+        
+        +
+        
+          c
+          
+            1
+          
+        
+        
+          Y
+          
+            d
+          
+        
+      
+    
+    {\displaystyle C=c_{0}+c_{1}Y_{d}}
+  
+
+where
+
+C = total consumption,
+c0 = autonomous consumption (c0 > 0),
+c1 = the marginal propensity to consume (the gradient of induced consumption) (0 < c1 < 1), and
+Yd = disposable income (income...

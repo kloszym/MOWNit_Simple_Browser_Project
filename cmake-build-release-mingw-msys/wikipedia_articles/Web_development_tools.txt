@@ -1,0 +1,7 @@
+Web development tools (often abbreviated to dev tools) allow web developers to test, modify and debug their websites. They are different from website builders and integrated development environments (IDEs) in that they do not assist in the direct creation of a webpage, rather they are tools used for testing the user interface of a website or web application.
+Web development tools come as browser add-ons or built-in features in modern web browsers. Browsers such as Google Chrome, Firefox, Safari, Microsoft Edge, and Opera have built-in tools to help web developers, and many additional add-ons can be found in their respective plugin download centers.
+Web development tools allow developers to work with a variety of web technologies, including HTML, CSS, the DOM, JavaScript, and other components that are handled by the web browser.
+
+
+== History and support ==
+Early web developers manually debugged their websites by commenting out code and using JavaScript functions. One of the first browser debugging tools to exist was Mozilla's Firebug extension, which possessed many of the current core features of today's developer tools, leading to Firefox becoming popular with developers at the time....

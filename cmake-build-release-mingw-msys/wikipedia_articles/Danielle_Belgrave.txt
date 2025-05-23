@@ -1,0 +1,9 @@
+Danielle Charlotte Belgrave is a Trinidadian-British computer scientist based at DeepMind, who uses statistics and machine learning to understand the progression of diseases.
+
+
+== Early life and education ==
+Belgrave grew up in Trinidad and Tobago, where her high school mathematics teacher inspired her to work as a data scientist. She studied statistics and business at the London School of Economics (LSE). She was a graduate student at University College London (UCL), where she earned a master's degree in statistics. In 2010 Belgrave moved to the University of Manchester, where she earned a PhD for research supervised by Iain Buchan, Christopher Bishop and Adnan Custovic supported by a Microsoft Research scholarship. She was awarded a Dorothy Hodgkin postgraduate award by Microsoft and the Barry Kay Award by the British Society of Allergy and Clinical Immunology (BSACI).
+
+
+== Research and career ==
+After graduating, Belgrave worked at GlaxoSmithKline (GSK), where she was awarded the Exceptional Scientist Award. Belgrave joined Imperial College London as a Medical Research Council (MRC) statistician in 2015. She develops statistical machine learning models to look at disease progression...

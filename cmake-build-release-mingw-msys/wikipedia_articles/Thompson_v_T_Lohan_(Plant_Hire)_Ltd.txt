@@ -1,0 +1,10 @@
+Thompson v T Lohan (Plant Hire) Ltd [1987] 2 All ER 631 is an English contract law case on the Unfair Contract Terms Act 1977.
+It is usually read with Phillips Products Ltd v Hyland and Hamstead Plant Hire Co Ltd where a similar contract clause (an older version of the same standard industry term) was held to be unreasonable, but where the liability being shifted had the effect of leaving a victim of loss without a remedy. In Thompson there was no exclusion of liability to the victim of the accident.
+
+
+== Facts ==
+T Lohan hired out a JCB excavator and driver, Mr Hill, to  JW Hurdiss Ltd, the owners of a quarry. Condition 8 of the contract said the driver was employed by  JW Hurdiss Ltd. The driver caused Mr Thompson’s death. Mrs Thompson got damages from T Lohan for her husband's life. T Lohan sought to recover the cost of compensation from JW Hurdiss Ltd. JW Hurdiss argued that condition 8 was caught by UCTA 1977 section 2(1).
+
+
+== Judgment ==
+Fox LJ held that condition 8 was not caught by UCTA 1977 and was effective to transfer liability to the hirers. Section 2(1) had no effect because liability was not excluded towards the victim of the negligent act, Mr Thompson. It only excluded liability...

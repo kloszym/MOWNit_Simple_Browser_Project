@@ -1,0 +1,9 @@
+German Army cryptographic systems of World War II were based on the use of three types of cryptographic machines that were used to encrypt communications between units at the division level. These were the Enigma machine, the teleprinter cipher attachment (Lorenz cipher), and the cipher teleprinter the Siemens and Halske T52, (Siemens T-43). All were considered insecure.
+
+
+== Introduction ==
+
+
+=== Machine ciphers ===
+The first cipher attachment, the (German: Schlüsselzusatz SZ40) SZ-40 original mode was introduced into the Army, probably in 1940, although Erich Hüttenhain, a cryptographer assigned to the Cipher Department of the High Command of the Wehrmacht (OKW/Chi), stated that the Army had been experimenting with this type of cryptographic apparatus from as early as 1937. It was replaced by the SZ-40 regular mode and this was succeeded by the SZ-42a and SZ-42b, both developed by Werner Liebknecht, Erich Hüttenhain and Fritz Menzer. The SZ-42c was also developed and 30 or 40 test sets built but the apparatus was evidently not used.
+The (German: Schlüsselfernschreibmaschine), the first cipher teleprinter, T-52a, was introduced in 1939. Newer models were versions T-52c, T-52d and T-52e were...

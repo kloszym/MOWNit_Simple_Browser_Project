@@ -1,0 +1,7 @@
+Up-down cues are human sensory cues built into an environment to indicate which direction is "up", even if "up" is arbitrary.
+For example, a cluttered desk has a number of unattached objects on one surface but not on the others.  We can assume that the objects are being held to that surface by gravity, and that the surface in question is the "top" of the desk.  This establishes the up and down directions.  In humans, the visual sensory system can overpower other sources of environmental information, such as the vestibular system.  Conflicting signals are resolved by deference to the information gathered by the eyes.  For example, astronauts in a Space Shuttle may have experienced space sickness when their vestibular systems are indicating free-fall and their visual sensory systems are indicating no movement.  Building visual "hints" into the environment allows the visual system to override other senses and provide a solid sense of orientation and motion.
+
+
+== Sources ==
+The Architecture of Artificial Gravity: Theory, Form, and Function in the High Frontier
+"Role of Visual Cues in Spatial Orientation (VISO)". 1999-10-30. Archived from the original on 2008-06-23.

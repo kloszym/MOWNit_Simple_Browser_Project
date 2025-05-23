@@ -1,0 +1,24 @@
+Paul Allen Catlin ((1948-06-25)June 25, 1948 – (1995-04-20)April 20, 1995) was a mathematician, professor of mathematics who worked in graph theory and number theory. He wrote a significant paper on the series of chromatic numbers and Brooks' theorem, titled  Hajós graph coloring conjecture: variations and counterexamples.
+
+
+== Career ==
+Originally from Bridgeport, Connecticut, Catlin majored in Mathematics with a B.A. degree from Carnegie Mellon University in 1970.
+Catlin held a Doctorate in Mathematics degree from Ohio State University. From 1972 to 1973, he was a research and teaching assistant at Ohio State University, where he earned the Master of Science degree in Mathematics.
+In 1976, he went to work at Wayne State University, where he concentrated the research on chromatic numbers and Brooks' theorem. As a result, Catlin published a significant paper in that series: Hajós graph coloring conjecture: variations and counterexamples., which showed that the conjecture raised by Hugo Hadwiger is further strengthened not only by 
+  
+    
+      
+        k
+        ≤
+        4
+      
+    
+    {\displaystyle k\leq 4}
+  
+ but also by 
+  
+    
+      
+        k
+        ≥
+        7...

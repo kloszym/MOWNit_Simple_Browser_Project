@@ -1,0 +1,6 @@
+The Single Window Admissions System is used in Anna University for TNEA (Tamil Nadu Engineering Admission). It is popularly known as Anna University Counselling. It is part of the process through which students completing 12th standard apply and gain admission to engineering colleges within Tamil Nadu, India.
+The important strategy is that counselling will be conducted based on rank list, if a student is present for counselling then without allocating college and course for that student next rank cannot be allocated with a seat. So it ensure all the students are allocated based on rank.
+
+
+== Process ==
+Students are graded for a total score of 200. This score is a weighted average combination of mathematics (100), physics (50), chemistry (50) scores in the Plus 2 (XII Std) examinations. A student's score determines their rank. Students are then invited, by the Department of Directorate of Education, Anna University, for an Engineering Admissions Counseling Process (also called Single Window Admissions System), according to their rank. The counseling process is held in the months of June and July every year. Students are invited to participate in this counselling process to elect the college...

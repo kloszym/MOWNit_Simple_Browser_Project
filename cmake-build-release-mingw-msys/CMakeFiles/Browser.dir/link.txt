@@ -1,0 +1,3 @@
+D:\MSys\mingw64\bin\cmake.exe -E rm -f CMakeFiles\Browser.dir/objects.a
+D:\MSys\mingw64\bin\ar.exe qc CMakeFiles\Browser.dir/objects.a @CMakeFiles\Browser.dir\objects1.rsp
+D:\MSys\mingw64\bin\g++.exe -O3 -DNDEBUG -O2 -DNDEBUG -mwindows -Wl,--whole-archive CMakeFiles\Browser.dir/objects.a -Wl,--no-whole-archive -o Browser.exe -Wl,--out-implib,libBrowser.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Browser.dir\linkLibs.rsp

@@ -1,0 +1,15 @@
+Membrane-associated guanylate kinase, WW and PDZ domain-containing protein 2 also known as membrane-associated guanylate kinase inverted 2 (MAGI-2) and atrophin-1-interacting protein 1 (AIP-1) is an enzyme that in humans is encoded by the MAGI2 gene.
+
+
+== Function ==
+The protein encoded by this gene interacts with atrophin-1. Atrophin-1 contains a polyglutamine repeat, expansion of which is responsible for dentatorubral-pallidoluysian atrophy. This encoded protein is characterized by two WW domains, a guanylate kinase-like domain, and multiple PDZ domains. It has structural similarity to the membrane-associated guanylate kinase homologue (MAGUK) family.
+
+
+== Interactions ==
+MAGI2 has been shown to interact with ATN1 and PTEN (gene).
+
+
+== References ==
+
+
+== Further reading ==

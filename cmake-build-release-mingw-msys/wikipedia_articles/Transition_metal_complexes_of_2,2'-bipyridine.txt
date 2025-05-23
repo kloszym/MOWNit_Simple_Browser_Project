@@ -1,0 +1,16 @@
+Transition metal complexes of 2,2'-bipyridine are coordination complexes containing one or more 2,2'-bipyridine ligands.  Complexes have been described for all of the transition metals.  Although few have any practical value, these complexes have been influential. 2,2'-Bipyridine (bipy) is classified as a diimine ligand.  Unlike the structures of pyridine complexes, the two rings in bipy are coplanar, which facilitates electron delocalization.  As a consequence of this delocalization, bipy complexes often exhibit distinctive optical and redox properties.
+
+
+== Complexes ==
+Bipy forms a wide variety of complexes.  Almost always, it is a bidentate ligand, binding metal centers with the two nitrogen atoms.  Examples:
+
+Mo(CO)4(bipy), derived from Mo(CO)6.
+RuCl2(bipy)2, a popular precursor to mixed ligand complexes.
+[Ru(bipy)3]2+, a well studied luminophore.
+[Fe(bipy)3]2+ has been used for the colorimetric analysis of iron ions.
+{[Ru(bipyridine)2(OH2)]2(O)}2+, "ruthenium blue" has attracted academic interest as a rare complex that catalyzes the oxidation of water.
+
+
+=== Tris-bipy complexes ===
+
+Bipyridine complexes absorb intensely in the visible part of the spectrum.  The electronic transitions...

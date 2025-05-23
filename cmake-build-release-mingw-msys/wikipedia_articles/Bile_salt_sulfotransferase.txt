@@ -1,0 +1,21 @@
+Bile salt sulfotransferase also known as  hydroxysteroid sulfotransferase (HST) or sulfotransferase 2A1 (ST2A1) is an enzyme that in humans is encoded by the SULT2A1 gene.
+
+
+== Function ==
+Sulfotransferase enzymes catalyze the sulfate conjugation of many hormones, neurotransmitters, drugs, and xenobiotic compounds. These cytosolic enzymes are different in their tissue distributions and substrate specificities. The gene structure (number and length of exons) is similar among family members. This gene is primarily expressed in liver and adrenal tissues where the encoded protein sulfonates steroids and bile acids.
+
+
+== See also ==
+Steroid sulfotransferase
+Steroidogenic enzyme
+
+
+== References ==
+
+
+== Further reading ==
+
+
+== External links ==
+alcohol+sulfotransferase at the U.S. National Library of Medicine Medical Subject Headings (MeSH)
+Human SULT2A1 genome location and SULT2A1 gene details page  in the UCSC Genome Browser.

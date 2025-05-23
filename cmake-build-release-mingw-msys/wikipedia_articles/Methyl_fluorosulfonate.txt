@@ -1,0 +1,13 @@
+Methyl fluorosulfonate, also known as magic methyl, is the organic compound with the formula FSO2OCH3. It is a colorless liquid that is used as a strong methylating agent in organic synthesis.  Because of its extreme toxicity, it has largely been replaced by the related reagent methyl trifluoromethanesulfonate. 
+
+
+== Synthesis and reactions ==
+It is prepared by distillation of an equimolar mixture of fluorosulfonic acid and dimethyl sulfate.  It was originally produced by the reaction of methanol with fluorosulfonic acid.
+Methyl fluorosulfonate is a highly electrophilic reagent for methylation.  It is ranked as less powerful than methyl trifluoromethanesulfonate. 
+
+
+== Toxicity ==
+Similar to phosgene, it is acutely toxic by inhalation, with an LC50 (rat, 1 hour) of about 5 ppm. Several cases of poisoning resulting in death from pulmonary edema have been reported.
+
+
+== References ==

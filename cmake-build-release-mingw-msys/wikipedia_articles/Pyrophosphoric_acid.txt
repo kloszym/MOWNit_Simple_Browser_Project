@@ -1,0 +1,16 @@
+Pyrophosphoric acid, also known as diphosphoric acid, is the inorganic compound with the formula H4P2O7 or, more descriptively, [(HO)2P(O)]2O. Colorless and odorless, it is soluble in water, diethyl ether, and ethyl alcohol. The anhydrous acid crystallizes in two polymorphs, which melt at 54.3 and 71.5 °C. The compound is a component of polyphosphoric acid, an important source of phosphoric acid.  Anions, salts, and esters of pyrophosphoric acid are called pyrophosphates.
+
+
+== Preparation ==
+It can be prepared by reaction of phosphoric acid with phosphoryl chloride:
+
+5 H3PO4  +  POCl3  →  3 H4P2O7  +  3 HCl
+It can also be prepared by ion exchange from sodium pyrophosphate or by treating lead pyrophosphate with hydrogen sulfide.
+Boiling the water from orthophosphoric acid will not dehydrate it to pure pyrophosphoric acid, instead a mixture of ortho, pyro, and polyphosphoric acids are produced, the maximum pyrophosphoric acid concentration remains below 50% and occurs slightly before what would otherwise be pure pyrophosphoric acid.
+
+
+== Reactions ==
+Pyrophosphoric acid is a tetraprotic acid, with four distinct pKa's:
+
+H4P2O7   ⇌   [H3P2O7]−  + H+, pKa = 0.85
+[H3P2O7]−   ⇌   [H2P2O7]2−...

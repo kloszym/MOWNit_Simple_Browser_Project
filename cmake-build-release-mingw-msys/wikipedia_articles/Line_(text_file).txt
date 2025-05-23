@@ -1,0 +1,11 @@
+In computing, a line is a unit of organization for text files.  A line consists of a sequence of zero or more characters, usually displayed within a single horizontal sequence.
+The term comes directly from physical printing, where a line of text is a horizontal row of characters.
+Depending on the file system or operating system being used the number of characters on a line may either be predetermined or fixed, or the length may vary from line to line.   Fixed-length lines are sometimes called records.  With variable-length lines, the end of each line is usually indicated by the presence of one or more special end-of-line characters. These include line feed, carriage return, or combinations thereof.
+A blank line usually refers to a line containing zero characters (not counting any end-of-line characters); though it may also refer to any line that does not contain any visible characters (consisting only of whitespace).
+Some tools that operate on text files (e.g., editors) provide a mechanism to reference lines by their line number.
+
+
+== See also ==
+Newline
+Line wrap and word wrap
+Line-oriented programming language, programming languages that interpret the end of line to be the end of an...

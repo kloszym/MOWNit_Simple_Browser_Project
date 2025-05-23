@@ -1,0 +1,8 @@
+In geometry and science, a cross section is the non-empty intersection of a solid body in three-dimensional space with a plane, or the analog in higher-dimensional spaces. Cutting an object into slices creates many parallel cross-sections. The boundary of a cross-section in three-dimensional space that is parallel to two of the axes, that is, parallel to the plane determined by these axes, is sometimes referred to as a contour line; for example, if a plane cuts through mountains of a raised-relief map parallel to the ground, the result is a contour line in two-dimensional space showing points on the surface of the mountains of equal elevation.
+
+In technical drawing a cross-section, being a projection of an object onto a plane that intersects it, is a common tool used to depict the internal arrangement of a 3-dimensional object in two dimensions.  It is traditionally crosshatched with the style of crosshatching often indicating the types of materials being used.
+With computed axial tomography, computers can construct cross-sections from x-ray data.
+
+
+== Definition ==
+If a plane intersects a solid (a 3-dimensional object), then the region common to the plane and the solid is called a cross...

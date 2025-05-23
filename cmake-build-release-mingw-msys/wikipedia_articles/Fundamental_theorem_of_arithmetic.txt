@@ -1,0 +1,67 @@
+In mathematics, the fundamental theorem of arithmetic, also called the unique factorization theorem and prime factorization theorem, states that every integer greater than 1 can be represented uniquely as a product of prime numbers, up to the order of the factors. For example,
+
+  
+    
+      
+        1200
+        =
+        
+          2
+          
+            4
+          
+        
+        ⋅
+        
+          3
+          
+            1
+          
+        
+        ⋅
+        
+          5
+          
+            2
+          
+        
+        =
+        (
+        2
+        ⋅
+        2
+        ⋅
+        2
+        ⋅
+        2
+        )
+        ⋅
+        3
+        ⋅
+        (
+        5
+        ⋅
+        5
+        )
+        =
+        5
+        ⋅
+        2
+        ⋅
+        5
+        ⋅
+        2
+        ⋅
+        3
+        ⋅
+        2
+        ⋅
+        2
+        =
+        …
+      
+    
+    {\displaystyle 1200=2^{4}\cdot 3^{1}\cdot 5^{2}=(2\cdot 2\cdot 2\cdot 2)\cdot 3\cdot (5\cdot 5)=5\cdot 2\cdot 5\cdot 2\cdot 3\cdot 2\cdot 2=\ldots }
+  
+
+The theorem says two things about this example: first, that 1200 can be represented as a product of primes, and second, that no matter how this is done, there...

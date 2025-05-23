@@ -1,0 +1,11 @@
+PyBOP (benzotriazol-1-yloxytripyrrolidinophosphonium hexafluorophosphate) is a reagent used to prepare amides from carboxylic acids and amines in the context of peptide synthesis. It can be prepared from 1-hydroxybenzotriazole and a chlorophosphonium reagent under basic conditions. It is a substitute for the BOP reagent that avoids the formation of the carcinogenic waste product HMPA. Thermal hazard analysis by differential scanning calorimetry (DSC) shows PyBOP is potentially explosive.
+
+
+== See also ==
+BOP reagent
+DEPBT, a related reagent that contains no phosphorus-nitrogen bonds
+HATU
+HBTU
+
+
+== References ==

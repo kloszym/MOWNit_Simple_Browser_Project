@@ -1,0 +1,15 @@
+Upstream binding transcription factor (UBTF), or upstream binding factor (UBF), is a protein that in humans is encoded by the UBTF gene.
+
+
+== Gene ==
+In humans, the UBTF gene encodes a 764 amino acid protein and is located on chromosome 17 at position q21.31. In mice, UBTF is found on chromosome 11 .
+
+
+== Structure ==
+UBTF contains six high mobility group boxes (HMG-boxes) that allow it to bind to DNA. UBTF also contains a hyperacidic carboxy-terminal domain, which is required for transcription activation, and a helix-gap-helix dimersation motif (as UBTF is thought to often act as a dimer). 
+In humans, alternative splicing can give rise to either the UBTF1 or UBTF2 isoform which are 97 kD and 94 kD in mass, respectively  UBTF2 lacks exon 8 of the larger UBTF1 isoform which encodes a portion of HMG Box 2.
+
+
+== Function ==
+UBTF is a transcription factor required for expression of the 18S, 5.8S, and 28S ribosomal RNAs, along with SL1 (a complex of TBP (MIM 600075) and three TBP-associated factors or 'TAFs'). 
+UBTF is a nucleolar phosphoprotein with both DNA binding and transactivation domains. Sequence-specific DNA binding to the core and upstream control elements of the human rRNA promoter...

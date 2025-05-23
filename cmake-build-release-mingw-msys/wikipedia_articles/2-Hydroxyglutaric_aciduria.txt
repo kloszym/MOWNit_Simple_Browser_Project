@@ -1,0 +1,22 @@
+2-hydroxyglutaric aciduria is a rare neurometabolic disorder characterized by the significantly elevated levels of hydroxyglutaric acid in one's urine. It is either autosomal recessive or autosomal dominant.
+
+
+== Presentation ==
+The signs/symptoms of this condition are consistent with the following:
+
+Intellectual disability,
+Muscular hypotonia
+Encephalitis
+Seizures
+Aphasia
+
+
+== Cause ==
+Mutation in several genes can lead to different types of 2-hydroxyglutaric aciduria. For example, the D2HGDH and L2HGDH genes provide instructions for making enzymes that are found in mitochondria - in which these enzymes break down D-2-hydroxyglutarate and L-2-hydroxyglutarate, respectively, as a part of normal reaction series that generate energy for cell activities. Any mutations occur in either of these genes would interrupt the functional enzymes and allow both 2-hydroxyglutarates to accumulate in cells, which cause 2-hydroxyglutaric aciduria type I. Moreover, it is known that type II for L-2-hydroxyglutaric aciduria and a mixed type for both 2-hydroxyglutarates come from mutations in IDH2 gene and SLC25A1 gene, respectively.
+
+
+== Diagnosis ==
+
+
+=== Classification ===
+2-hydroxyglutaric aciduria is an organic...

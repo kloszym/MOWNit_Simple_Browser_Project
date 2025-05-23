@@ -1,0 +1,5 @@
+Stephen William Keckler is an American computer scientist and the current Vice President of Architecture Research at Nvidia.
+Keckler received a BS in electrical engineering from Stanford University in 1990 and an MS and PhD in computer science from MIT in 1992 and 1998, respectively. He then joined the faculty at the University of Texas at Austin, where he served from 1998 to 2012. He joined NVIDIA in 2009. In 2003, he received the ACM Grace Murray Hopper Award for his work in leading the TRIPS architecture research group. He became an ACM Senior Member in 2006 and an ACM Fellow in 2011.
+
+
+== References ==

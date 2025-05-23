@@ -1,0 +1,7 @@
+The Northrop Grumman E-8 Joint Surveillance Target Attack Radar System (Joint STARS) is a retired United States Air Force (USAF) airborne ground surveillance, battle management and command and control aircraft. It tracked ground vehicles and some aircraft, collected imagery, and relayed tactical pictures to ground and air theater commanders.  Until its retirement in 2023 the aircraft was operated by both active duty USAF and Air National Guard units, with specially trained U.S. Army personnel as additional flight crew.
+
+
+== Development ==
+
+Joint STARS evolved from separate U.S. Army and Air Force (USAF) programs to develop technology to detect, locate and attack enemy armor at ranges beyond the front line of a battle. In 1982, the programs were merged and the USAF became the lead agent. The concept and sensor technology for the E-8 was developed and tested on the Tacit Blue experimental aircraft. The prime contract was awarded to Grumman Aerospace Corporation in September 1985 for two E-8A development systems.
+In late 2005, Northrop Grumman was awarded a contract for upgrading engines and other systems.  Pratt & Whitney, in a joint venture with Seven Q Seven (SQS), was contracted to produce...

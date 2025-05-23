@@ -1,0 +1,68 @@
+In mathematical physics, a null dust solution (sometimes called a null fluid) is a Lorentzian manifold in which the Einstein tensor is null.  Such a spacetime can be interpreted as an exact solution of Einstein's field equation, in which the only mass–energy present in the spacetime is due to some kind of massless radiation.
+
+
+== Mathematical definition ==
+By definition, the Einstein tensor of a null dust solution has the form
+
+  
+    
+      
+        
+          G
+          
+            a
+            b
+          
+        
+        =
+        8
+        π
+        Φ
+        
+        
+          k
+          
+            a
+          
+        
+        
+        
+          k
+          
+            b
+          
+        
+      
+    
+    {\displaystyle G^{ab}=8\pi \Phi \,k^{a}\,k^{b}}
+  
+
+where 
+  
+    
+      
+        
+          
+            
+              k
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {k}}}
+  
+ is a null vector field.  This definition makes sense purely geometrically, but if we place a stress–energy tensor on our spacetime of the form
+
+  
+    
+      
+        
+          T
+          
+            a
+            b
+          
+        
+        =...

@@ -1,0 +1,16 @@
+In mathematics, a Countryman line (named after Roger Simmons Countryman Jr.) is an uncountable linear ordering whose square is the union of countably many chains. The existence of Countryman lines was first proven by Shelah. Shelah also conjectured that, assuming PFA, every Aronszajn line contains a Countryman line. This conjecture, which remained open for three decades, was proven by Justin Moore.
+
+
+== References ==
+Shelah, Saharon (1976). "Decomposing uncountable squares to countably many chains". Journal of Combinatorial Theory, Series A. 21 (1): 110–114. doi:10.1016/0097-3165(76)90053-4.
+Moore, Justin (2006). "A five element basis for the uncountable linear orders". Annals of Mathematics. Second Series. 163 (2): 669–688. arXiv:math/0501525. doi:10.4007/annals.2006.163.669. S2CID 15036435.
+Roger S. Countryman, Jr. Spaces having a 
+  
+    
+      
+        σ
+      
+    
+    {\displaystyle \sigma }
+  
+-monotone base. Preprint, 1970.

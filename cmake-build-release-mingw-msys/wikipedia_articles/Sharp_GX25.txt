@@ -1,0 +1,35 @@
+The Sharp GX25 is a tri-band GSM mobile phone designed by Sharp Corporation.
+This model was released in October 2005 from Vodafone. Sister models were sold in Taiwan and Hong Kong.
+Has the following features:
+
+640x480 CMOS Digital Camera
+256K-color (240x320 dot total) (240x294 dot useful) QVGA TFT LCD
+Tri-band (GSM 900, 1800, 1900)
+Java virtual machine MIDP2.0+VSCL1.1
+Bluetooth V1.1
+IrDA
+USB Interface (uses proprietary data cable)
+WAP Openwave v6.2.3
+MMS
+GPRS class-10
+e-mail client pop3 only
+Clock
+6 Alarm clocks
+Calendar
+Calculator
+Currency converter
+Enhanced Phonebook
+Being targeted at middle tier of the product lineup, it does not have the following features:
+
+Stopwatch
+Countdown timer
+Voice dialing
+MP3
+Todo list
+SyncML
+It weighs 90g and its size is 23.5 x 92 x 46 mm.
+A custom-designed connector is used to both charge the phone battery and connect to the computer via USB. This same connector style is used for many of Sharp's mobile phone models.
+The Sharp GX25 is designed to work with its own Handset Manager software. So, it may not work correctly with some standard PC synchronization applications: for example, remote reading of the battery level is not supported.
+
+
+== External links... ==

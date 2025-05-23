@@ -1,0 +1,13 @@
+Glucokinase regulator is a protein that in humans is encoded by the GCKR gene.
+
+
+== Function ==
+This gene encodes a protein belonging to the GCKR subfamily of the SIS (sugar isomerase) family of proteins. The gene product is a regulatory protein that inhibits glucokinase in liver and pancreatic islet cells by binding non-covalently to form an inactive complex with the enzyme. This gene is considered a susceptibility gene candidate for a form of maturity onset diabetes of the young (MODY). [provided by RefSeq, Jul 2008].
+
+
+== References ==
+
+
+== Further reading ==
+
+This article incorporates text from the United States National Library of Medicine, which is in the public domain.

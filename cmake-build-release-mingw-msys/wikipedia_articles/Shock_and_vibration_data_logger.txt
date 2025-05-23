@@ -1,0 +1,7 @@
+A shock data logger or vibration data logger is a measurement instrument that is capable of autonomously recording shocks or vibrations over a defined period of time. Digital data is  usually in the form of acceleration and time.  The shock and vibration data can be retrieved (or transmitted), viewed and evaluated after it has been recorded.
+In contrast with a shock data logger, a shock detector is used to indicate whether or not the threshold of specified shock has occurred.
+
+
+== Functions ==
+A logger comprises sensors such as accelerometers, storage media, a processor and power supply. The sensors measure and store shocks either as the entire waveform, summary data, or an indication of whether a threshold value was observed . Some devices have accelerometers built into the unit while others can use external accelerometers.  The processor processes the measured data and saves it on the storage media together with the associated measurement times. This allows the measurement data to be retrieved after the measurements have been completed, either directly on the logger or via an interface to a computer. Some have an RFID interface.
+Software is used to present the measured data in the form...

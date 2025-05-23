@@ -1,0 +1,9 @@
+United States v. Young, 94 U.S. 258 (1877), is a United States Supreme Court case which held that when courts grant a new trial, it vacates the prior judgement, such that higher courts cannot hear appeals of the initial trial and must wait until the new trial completes in the lower court.
+
+
+== Decision ==
+The United States Court of Claims, which heard claims against the federal government from 1855 to 1982, had granted a new trial in a dispute between an individual and the federal government based on aspects of its initial proceedings. The individual plaintiff petitioned the Supreme Court for judicial review of the initial trial since it was the basis for the ongoing trial.
+However, in a unanimous opinion written by Chief Justice Morrison Waite, the Supreme Court accepted the federal government's motion to dismiss the appeal. The Supreme Court ruled that granting certiorari before judgment was impermissible because when Congress authorized appeals from the Court of Claims, it only allowed appeals to consider "the final judgements of the said court of claims," in comparison to allowing broader writs of error from the proceedings of federal district courts.
+
+
+== References ==

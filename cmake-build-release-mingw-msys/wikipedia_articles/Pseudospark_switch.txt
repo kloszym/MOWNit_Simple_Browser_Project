@@ -1,0 +1,7 @@
+The pseudospark switch is a gas-filled tube capable of high speed switching. Pseudospark switches are functionally similar to triggered spark gaps.
+Advantages of pseudospark switches include the ability to carry reverse currents (up to 100%), low pulse, high lifetime, and a high current rise of about 1012 A/sec. In addition, since the cathode is not heated prior to switching, the standby power is approximately one order of magnitude lower than in thyratrons. However, pseudospark switches have undesired plasma phenomena at low peak currents. Issues such as current quenching, chopping, and impedance fluctuations occur at currents less than 2–3 kA while at very high peak currents (20–30 kA) a transition to a metal vapor arc occurs which leads to erosion of the electrodes.
+
+
+== Construction ==
+A pseudospark switch's electrodes (cathode and anode) have central holes approximately 3 to 5 mm in diameter. Behind the cathode and anode lie a hollow cathode and hollow anode, respectively. The electrodes are separated by an insulator. A low pressure (less than 50 Pa) "working gas" (typically hydrogen) is contained between the electrodes.
+While a pseudospark switch is generally fairly simple in construction...

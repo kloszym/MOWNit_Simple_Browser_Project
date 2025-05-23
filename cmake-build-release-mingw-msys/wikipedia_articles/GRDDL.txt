@@ -1,0 +1,24 @@
+GRDDL (pronounced "griddle") is a markup format for Gleaning Resource Descriptions from Dialects of Languages. It is a W3C Recommendation, and enables users to obtain RDF triples out of XML documents, including XHTML. The GRDDL specification shows examples using XSLT, however it was intended to be abstract enough to allow for other implementations as well. It became a Recommendation on September 11, 2007.
+
+
+== Mechanism ==
+
+
+=== XHTML and transformations ===
+A document specifies associated transformations, using one of a number of ways.
+For instance, an XHTML document may contain the following markup:
+
+Document consumers are informed that there are GRDDL transformations available in this page, by including the following in the profile attribute of the head element:
+
+http://www.w3.org/2003/g/data-view
+
+The available transformations are revealed through one or more link elements:
+
+This code is valid for XHTML 1.x only. The profile attribute has been dropped in HTML5, including its XML serialisation.
+
+
+=== Microformats and profile transformations ===
+If an XHTML page contains Microformats, there is usually a specific profile.
+For instance, a document with hcard information should have:
+
+When fetched...

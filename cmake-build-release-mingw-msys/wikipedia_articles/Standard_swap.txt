@@ -1,0 +1,8 @@
+In computer science, the standard swap or three point turn is a programming paradigm that exchanges the values of two variables.
+By using a third variable, whose value is otherwise of no concern, to hold the value of the first, and then assigning the second's to the first, and the third's back to the second, the values of the first two are swapped.
+For example:
+
+let temp = b
+let b = a
+let a = temp
+In modern CPUs this is accomplished on the processor itself, in a single machine instruction, rather than having to go through RAM. In many programming languages this can be achieved using a simple swap instruction.

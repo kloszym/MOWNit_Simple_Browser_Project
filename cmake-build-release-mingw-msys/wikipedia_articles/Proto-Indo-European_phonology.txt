@@ -1,0 +1,11 @@
+The phonology of the Proto-Indo-European language (PIE) has been reconstructed by linguists, based on the similarities and differences among current and extinct Indo-European languages. Because PIE was not written, linguists must rely on the evidence of its earliest attested descendants, such as Hittite, Sanskrit, Ancient Greek, and Latin, to reconstruct its phonology.
+The reconstruction of abstract units of PIE phonological systems (i.e. segments, or phonemes in traditional phonology) is mostly uncontroversial, although areas of dispute remain. Their phonetic interpretation is harder to establish; this pertains especially to the vowels, the so-called laryngeals, the palatal and plain velars and the voiced and voiced aspirated stops.
+
+
+== Phonemic inventory ==
+Proto-Indo-European is reconstructed as having the following phonemes. Note that the phonemes are marked with asterisks to show that they are from a reconstructed language. See the article on Indo-European sound laws for a summary of how these phonemes reflected in the various Indo-European languages. 
+
+
+=== Consonants ===
+
+The table uses the Wikipedia's canonical notation for transcribing Proto-Indo-European; variant transcriptions...

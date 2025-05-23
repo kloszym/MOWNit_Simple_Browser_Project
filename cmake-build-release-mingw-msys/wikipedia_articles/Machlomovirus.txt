@@ -1,0 +1,16 @@
+Machlomovirus is a genus of plant viruses, in the family Tombusviridae. Plants serve as natural hosts. There are two species in this genus, including Maize chlorotic mottle virus (MCMV), which causes significant losses in maize production worldwide. MCMV was first identified in the U.S. state of Kansas causing maize lethal necrosis disease/MLN/corn lethal necrosis, a severe disease that negatively affects all stages of development for maize plants.
+
+
+== Taxonomy ==
+The genus contains the following species, listed by scientific name and followed by their common names.
+
+Machlomovirus liegense, Poaceae Liege machlomovirus
+Machlomovirus zeae, Maize chlorotic mottle virus
+
+
+== Structure ==
+Viruses in Machlomovirus are non-enveloped, with icosahedral and spherical geometries, and T=3 symmetry. The diameter is around 28-34 nm. Genomes are linear, around 4–5.4kb in length.
+
+
+== Life cycle ==
+Viral replication is cytoplasmic. Entry into the host cell is achieved by penetration into the host cell. Replication follows the positive stranded RNA virus replication model. Positive stranded RNA virus transcription, using the premature termination model of subgenomic RNA transcription is the method of transcription...

@@ -1,0 +1,9 @@
+A packaged terminal air conditioner (PTAC) is a type of self-contained heating and air conditioning system intended to be mounted through a wall. The first practical semi-portable air conditioning unit invented by engineers at Chrysler Motors. It entered the market in 1935, and was designed to fit under a window like many modern PTACs.
+PTACs are commonly found in commercial settings (hotels, motels, hospitals), or multifamily facilities (senior housing, condominiums, apartment buildings). PTACs are mostly used to cool individual living spaces, there are units which offer resistance heating and/or heat pumps. (The latter are more properly described as packaged terminal heat pumps or PTHP). PTACs with support for external heating through a hydronic heating coil or natural gas heating also exist. Typical PTAC heating and cooling capacity values range from 7,000–19,000 BTU/h (2 to 5.5 kilowatts) nominal.
+PTACs are commonly installed in window walls and masonry walls, with multiple standard dimensions available including 42×16 inches (1067x406 mm), 36x15 inches, and 40x15 inches. Their installation typically requires the following:
+
+Louvers
+Metal sleeve
+Heating coil
+The PTAC itself
+Room...

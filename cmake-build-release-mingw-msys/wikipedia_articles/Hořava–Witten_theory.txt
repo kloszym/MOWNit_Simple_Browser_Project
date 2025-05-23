@@ -1,0 +1,4 @@
+In theoretical physics, the Hořava–Witten theory argues that the cancellation of anomalies guarantees that a supersymmetric gauge theory with the E8 gauge group propagates on a type of domain wall. This domain wall, a Hořava–Witten domain wall, behaves as a boundary of the eleven-dimensional spacetime in M-theory. Proposed by Petr Hořava and Edward Witten, the theory is important for various relations between M-theory and superstring theory.
+
+
+== References ==

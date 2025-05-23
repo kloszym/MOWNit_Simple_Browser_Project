@@ -1,0 +1,10 @@
+A parity plot is a scatterplot that compares a set of results from a computational model against benchmark data. Each point has coordinates (x, y), where x is a benchmark value and y is the corresponding value from the model.
+A line of the equation y = x, representing perfect model performance, is sometimes added as a reference. Where the model successfully reproduces a benchmark, that point will lie on the line.
+Parity plots are found in scientific papers and reports, when the author wishes to validate a model in a visual way.  However, when the data have a wide range, the large scale makes important discrepancies invisible and the model appears better than it actually is.  In that case, a plot of model errors [(y − x) vs. x] is better for evaluating the performance of the model. 
+
+
+== See also ==
+Q–Q plot
+
+
+== References ==

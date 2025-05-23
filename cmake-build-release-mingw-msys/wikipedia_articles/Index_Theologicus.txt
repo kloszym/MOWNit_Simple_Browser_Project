@@ -1,0 +1,7 @@
+The Index Theologicus (IxTheo) is an international scientific open access bibliography for theology and religious studies.
+It covers scientifically relevant information on Christianity as well as on dialog with other religions from all confessions, in several languages and media types and throughout history. Publishers are the University Library of Tübingen, the Faculty of Protestant Theology and the Faculty of Roman-Catholic Theology, University of Tübingen.
+
+
+== History ==
+Its predecessor, the Zeitschrifteninhaltsdienst Theologie ("Theology Journals Content Service") or ZID, was started in 1975.: 243  This was a current content service which reprinted the table of contents of the main theology journals; monthly ZID issues included an index of authors, Biblical references and persons, which were later combined in an annual and a five-year index.: 243 
+In 1994-1995, the ZID was converted into a database using allegro-C (a library software developed by the Library of the University of Braunschweig); the bibliographic data extracted from the journals was now stored electronically before it was published in the ZID issues, and the data which had been published in the prior ZID issues was...

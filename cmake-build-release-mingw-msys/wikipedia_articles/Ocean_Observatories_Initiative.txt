@@ -1,0 +1,6 @@
+The Ocean Observatories Initiative (OOI) is a National Science Foundation (NSF) Major Research Facility composed of a network of science-driven ocean observing platforms and sensors (ocean observatories) in the Atlantic and Pacific Oceans. This networked infrastructure measures physical, chemical, geological, and biological variables from the seafloor to the sea surface and overlying atmosphere, providing an integrated data collection system on coastal, regional and global scales. OOI's goal is to deliver data and data products for a 25-year-plus time period, enabling a better understanding of ocean environments and critical ocean issues. 
+
+
+== History ==
+As early as 1987, the ocean sciences community began discussions about the science, design concepts, and engineering of ocean research observatories, leading to the formation of the International Ocean Network (ION) in 1993. The ION national committee was formed in 1995 and later expanded into the Dynamics of Earth and Ocean Systems (DEOS) committee, tasked with providing a focus for exploratory planning for an ocean observatory network.
+In 2003 the Pew Oceans Commission recommended changes designed to improve society's use and stewardship...

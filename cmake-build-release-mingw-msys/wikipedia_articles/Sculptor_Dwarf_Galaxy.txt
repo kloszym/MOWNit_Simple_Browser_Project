@@ -1,0 +1,6 @@
+The Sculptor Dwarf Galaxy (also known as Sculptor Dwarf Elliptical Galaxy or the Sculptor Dwarf Spheroidal Galaxy, and formerly as the Sculptor System) is a dwarf spheroidal galaxy that is a satellite of the Milky Way. The galaxy lies within the constellation Sculptor. It was discovered in 1937 by American astronomer Harlow Shapley using the 24-inch Bruce refractor at Boyden Observatory. The galaxy is located about 290,000 light-years away from the Solar System. The Sculptor Dwarf contains only 4 percent of the carbon and other heavy elements in our own galaxy, the Milky Way, making it similar to primitive galaxies seen at the edge of the universe.
+
+
+== Metallicity ==
+The metallicity of Sculptor dwarf appears to be broken up into two distinct groups, one with [Fe/H] = −2.3 and the other with [Fe/H] = −1.5. Similar to many of the other Local Group galaxies, the older metal-poor segment appears more extended than the younger metal-rich segment. Using cosmological numerical simulations, it has been recently argued that Sculptor's two distinct stellar populations would be the tell-tale sign of a past merger between Sculptor and another small dwarf galaxy companion. 
+The Sculptor Dwarf is...

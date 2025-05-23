@@ -1,0 +1,8 @@
+An analog signal (American English) or analogue signal (British and Commonwealth English) is any continuous-time signal representing some other quantity, i.e., analogous to another quantity. For example, in an analog audio signal, the instantaneous signal voltage varies continuously with the pressure of the sound waves.
+In contrast, a digital signal represents the original time-varying quantity as a sampled sequence of quantized values. Digital sampling imposes some bandwidth and dynamic range constraints on the representation and adds quantization noise.
+The term analog signal usually refers to electrical signals; however, mechanical, pneumatic, hydraulic, and other systems may also convey or be considered analog signals.
+
+
+== Representation ==
+An analog signal uses some property of the medium to convey the signal's information. For example, an aneroid barometer uses rotary position as the signal to convey pressure information. In an electrical signal, the voltage, current, or frequency of the signal may be varied to represent the information.
+Any information may be conveyed by an analog signal; such a signal may be a measured response to changes in a physical variable, such as sound...

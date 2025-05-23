@@ -1,0 +1,9 @@
+ENVI-met is a microscale three-dimensional software model for simulating complex urban environments based on the fundamental laws of fluid mechanics (wind field), thermodynamics (temperature calculations) and general atmospheric physics (for example, turbulence prediction). Unlike models that focus on individual aspects such as mean radiant temperature or wind flows and turbulence, ENVI-met is the first software of its kind to simulate all interactions between building and ground surfaces, plants and ambient air. Typical areas of application are architecture, landscape architecture and urban planning.
+
+
+== In science ==
+In science, ENVI-met is used in an interdisciplinary way to investigate the influences of progressive urbanisation - for example due to land sealing, surface materials used and changed urban topographies - on the urban microclimate and human health, and to enable climate-appropriate planning.
+
+
+== Company formation ==
+The software model has been continuously developed since 1994 by the German geographer and climatologist Michael Bruse. In 2014, Michael Bruse and Daniela Bruse founded ENVI-met GmbH. Since 2018, the geographer and co-author of the software Helge Simon has...

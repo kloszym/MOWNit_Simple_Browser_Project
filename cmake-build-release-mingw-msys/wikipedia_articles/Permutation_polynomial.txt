@@ -1,0 +1,36 @@
+In mathematics, a permutation polynomial (for a given ring) is a polynomial that acts as a permutation of the elements of the ring, i.e. the map 
+  
+    
+      
+        x
+        ↦
+        g
+        (
+        x
+        )
+      
+    
+    {\displaystyle x\mapsto g(x)}
+  
+ is a bijection.  In case the ring is a finite field, the Dickson polynomials, which are closely related to the Chebyshev polynomials, provide examples.
+
+Over a finite field, every function, so in particular every permutation of the elements of that field, can be written as a polynomial function.
+In the case of finite rings Z/nZ, such polynomials have also been studied and applied in the interleaver component of error detection and correction algorithms.
+
+
+== Single variable permutation polynomials over finite fields ==
+Let Fq = GF(q) be the finite field of characteristic p, that is, the field having q elements where q = pe for some prime p. A polynomial f with coefficients in Fq (symbolically written as f ∈ Fq[x]) is a permutation polynomial of Fq if the function from Fq to itself defined by 
+  
+    
+      
+        c
+        ↦
+        f
+        (
+        c
+        )
+      
+    
+    {\displaystyle c\mapsto f(c)}
+  
+ is...

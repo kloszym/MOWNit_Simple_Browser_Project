@@ -1,0 +1,7 @@
+The Royal Observer Corps (ROC) was a civil defence organisation operating in the United Kingdom between October 1925 and 31 December 1995, when the Corps' civilian volunteers were stood down. (ROC headquarters staff at RAF Bentley Priory stood down on 31 March 1996). Composed mainly of civilian spare-time volunteers, ROC personnel wore a Royal Air Force (RAF) style uniform and latterly came under the administrative control of RAF Strike Command and the operational control of the Home Office. Civilian volunteers were trained and administered by a small cadre of professional full-time officers under the command of the Commandant Royal Observer Corps; a serving RAF Air Commodore.
+This sub article lists and describes the instruments used by the ROC in their nuclear detection and reporting role during the Cold War period.
+
+
+== Initial detection of nuclear bursts on the UK ==
+
+Atomic Weapons Detection Recognition and Estimation of Yield known as AWDREY was a desk mounted automatic instrument, located at controls, that detected nuclear explosions and indicated the estimated size in megatons. Operating by measuring the intense flashes emitted by a nuclear explosion, together with a unit known...

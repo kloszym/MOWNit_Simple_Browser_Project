@@ -1,0 +1,7 @@
+KELT-1 is a F-type main-sequence star. Its surface temperature is 6518±50 K. It is similar to the Sun in its concentration of heavy elements, with a metallicity Fe/H index of 0.008±0.073, but is much younger at an age of 1.75±0.25 billion years. The star is rotating very rapidly.
+A red dwarf stellar companion at a projected separation of 154±8 AU was detected in 2012, simultaneously with a planetary companion.
+
+
+== Planetary system ==
+The star was found to be orbited by a low-mass brown dwarf or giant planet in 2012. 
+The atmosphere of the brown dwarf KELT-1b has been extensively measured from space- and ground-based observatories by a team of astronomers led by Thomas Beatty. They found that KELT-1b has an equilibrium temperature of 2422+32−26 K, but features a very strong contrast between measured dayside and nightside temperatures. Dayside temperature appears to be 3340±110 K, while nightside temperature is 1173+175−130 K. The excess dayside temperature may be an artifact arising from highly reflective (dayside albedo reaching 0.5, which is unusual for hot planets and brown dwarfs) rock-vapor clouds. Also, the brightest band is shifted eastward from the subsolar point by 18.3±7.4°...
